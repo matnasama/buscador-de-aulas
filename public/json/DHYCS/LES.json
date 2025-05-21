@@ -1,0 +1,325 @@
+[
+  {
+    "Año": 1,
+    "Código": 3311,
+    "Asignatura-Actividad": "TEORÍA PEDAGÓGICA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3311-01",
+        "Docente/s (1)": "NARVAJA Pablo",
+        "Dia/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3312,
+    "Asignatura-Actividad": "ANTROPOLOGÍA SOCIAL",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3312-01",
+        "Docente/s (1)": "SCARFO Gabriela ",
+        "Dia/s y horario/s": "MAR 18 A 21",
+        "Turno": "Mañana",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3313,
+    "Asignatura-Actividad": "SUJETOS DE LA EDUCACIÓN SECUNDARIA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3313-01",
+        "Docente/s (1)": "DI SALVO Carolina",
+        "Dia/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "B002",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3314,
+    "Asignatura-Actividad": "METODOLOGÍA DE LA INVESTIGACIÓN EDUCATIVA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3314-01",
+        "Docente/s (1)": "VEZUB Lea",
+        "Dia/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "10 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3315,
+    "Asignatura-Actividad": "HISTORIA SOCIAL DE LA EDUCACIÓN EN AMÉRICA LATINA",
+    "Correlatividades": "3311-3312-3313",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3315-01",
+        "Docente/s (1)": "GUTIERREZ, Ernesto",
+        "Dia/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3316,
+    "Asignatura-Actividad": "INSTITUCIONES EDUCATIVAS DE NIVEL SECUNDARIO",
+    "Correlatividades": "3311-3312-3313",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3316-01",
+        "Docente/s (1)": "OTERO Fabián",
+        "Dia/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3317,
+    "Asignatura-Actividad": "CONSTRUCCIÓN CURRICULAR DEL NIVEL SECUNDARIO",
+    "Correlatividades": "3311-3312-3313",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3317-01",
+        "Docente/s (1)": "FERREYRO Juana",
+        "Dia/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3321,
+    "Asignatura-Actividad": "TALLER DE PROYECTO I",
+    "Correlatividades": "3314-3316",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3321-01",
+        "Docente/s (1)": "SANTOS SOUZA Alejandra",
+        "Dia/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL ",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3322,
+    "Asignatura-Actividad": "EPISTEMOLOGÍA",
+    "Correlatividades": "3314-3316",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3322-01",
+        "Docente/s (1)": "FARIAS Oscar",
+        "Dia/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "G002",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3323,
+    "Asignatura-Actividad": "INFORMÁTICA ORIENTADA AL USO DE INTERNET",
+    "Correlatividades": 3321,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3323-01",
+        "Docente/s (1)": "TOMAS Veronica",
+        "Dia/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "B101",
+        "Modalidad Cursada": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase presencial": "25/03 29/04 03/06 08/07"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3324,
+    "Asignatura-Actividad": "DIDÁCTICA PARA EL NIVEL SECUNDARIO",
+    "Correlatividades": "3311-3317",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3324-01",
+        "Docente/s (1)": "OTERO Fabián",
+        "Dia/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "H101A",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3325,
+    "Asignatura-Actividad": "COMUNICACIÓN Y EDUCACIÓN",
+    "Correlatividades": "3311-3317",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3325-01",
+        "Docente/s (1)": "DE PAULA, María Guadalupe",
+        "Dia/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3326,
+    "Asignatura-Actividad": "TIC'S ORIENTADA A LA EDUCACIÓN",
+    "Correlatividades": 3321,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3326-01",
+        "Docente/s (1)": "TOMAS Veronica Silvia",
+        "Dia/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3327,
+    "Asignatura-Actividad": "POLÍTICA EDUCATIVA",
+    "Correlatividades": "3311-3312-3316",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3327-01",
+        "Docente/s (1)": "BARRERA Karina",
+        "Dia/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3328,
+    "Asignatura-Actividad": "TALLER DE PROYECTO II",
+    "Correlatividades": 3321,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3328-01",
+        "Docente/s (1)": "MIASNIK Gabriela",
+        "Dia/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3328,
+    "Asignatura-Actividad": "TALLER DE PROYECTO II",
+    "Correlatividades": 3321,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3328-02",
+        "Docente/s (1)": "MIASNIK Gabriela",
+        "Dia/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL C/ACT. VIRTUALES",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3329,
+    "Asignatura-Actividad": "TRABAJO DE SISTEMATIZACIÓN ",
+    "Correlatividades": 3321,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3329-01",
+        "Docente/s (1)": "SANTOS SOUZA Alejandra",
+        "Dia/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  }
+]

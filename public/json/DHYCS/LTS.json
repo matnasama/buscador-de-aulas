@@ -1,0 +1,1905 @@
+[
+  {
+    "Año": 1,
+    "Código": 3111,
+    "Asignatura-Actividad": "TRABAJO SOCIAL I",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3111-01",
+        "Docente/s (1)": "CASTAÑO Andrea",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3111-02",
+        "Docente/s (1)": "BITZER, María Belén",
+        "Día/s y horario/s": "JUE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3111-03",
+        "Docente/s (1)": "CASTAÑO Andrea",
+        "Día/s y horario/s": "LUN 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3111-04",
+        "Docente/s (1)": "RODRIGUEZ Lidia",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3111-05",
+        "Docente/s (1)": "FREGOSI, María Rita",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3111-06",
+        "Docente/s (1)": "BARRIOS Olga",
+        "Día/s y horario/s": "LUN 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "13 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3112,
+    "Asignatura-Actividad": "TALLER I - INTRODUCCIÓN A LA PRÁCTICA PROFESIONAL",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3112-01",
+        "Docente/s (1)": "BARRAZA Silvia / BRANCOLI Javier ",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "2 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3112-02",
+        "Docente/s (1)": "ALFONZO Victoria / BRANCOLI Javier",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3112-03",
+        "Docente/s (1)": "RODRIGUEZ Analia / BRANCOLI Javier",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "1 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3112-04",
+        "Docente/s (1)": "VARELA Cintia / BRANCOLI Javier",
+        "Día/s y horario/s": "MIÉ 14 A 17",
+        "Turno": "Mañana",
+        "Aula/s": "2 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3112-05",
+        "Docente/s (1)": "LEDESMA FLORES Joseline / BRANCOLI Javier",
+        "Día/s y horario/s": "MIÉ 17 A 20",
+        "Turno": "Mañana",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3112-06",
+        "Docente/s (1)": "ROSSI DEL BLANCO Mariana / BRANCOLI Javier",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "13 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3112-07",
+        "Docente/s (1)": "MEZZINI Melina / BRANCOLI Javier",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3112-08",
+        "Docente/s (1)": "CACERES Flavia / BRANCOLI Javier",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "1 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3113,
+    "Asignatura-Actividad": "INTRODUCCIÓN AL DERECHO",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3113-01",
+        "Docente/s (1)": "BARTOLOMÉ Edgardo",
+        "Día/s y horario/s": "MAR 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "1 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3113-02",
+        "Docente/s (1)": "LOMBARDI Susana",
+        "Día/s y horario/s": "MAR 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "D001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3113-03",
+        "Docente/s (1)": "GRADIN Marcelo",
+        "Día/s y horario/s": "MAR 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3113-04",
+        "Docente/s (1)": "GIACOIA Marcelo",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "4 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3113-05",
+        "Docente/s (1)": "LOMBARDI Micaela",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "6 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3114,
+    "Asignatura-Actividad": "HISTORIA SOCIAL I",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3114-01",
+        "Docente/s (1)": "NUÑEZ,María Clara Aurora",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "1 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3114-02",
+        "Docente/s (1)": "ARNOUX Aurelio",
+        "Día/s y horario/s": "MAR 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3114-03",
+        "Docente/s (1)": "BUSTELO Julieta",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3114-04",
+        "Docente/s (1)": "BERTOLOTO Alejandra ",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3114,
+    "Asignatura-Actividad": "HISTORIA SOCIAL I",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3114-05",
+        "Docente/s (1)": "BUSTELO Julieta",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3114-06",
+        "Docente/s (1)": "NUÑEZ,María Clara Aurora",
+        "Día/s y horario/s": "VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3114-07",
+        "Docente/s (1)": "BERTOLOTO Alejandra ",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3115,
+    "Asignatura-Actividad": "PSICOLOGÍA GENERAL",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3115-01",
+        "Docente/s (1)": "KISMAN Natalia",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "K004",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3115-02",
+        "Docente/s (1)": "D'ANDREA Alejandra",
+        "Día/s y horario/s": "VIE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3115-03",
+        "Docente/s (1)": "D'ANDREA Alejandra",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "11 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3115,
+    "Asignatura-Actividad": "PSICOLOGÍA GENERAL",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3115-04",
+        "Docente/s (1)": "CABRERA Candela",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3115-05",
+        "Docente/s (1)": "KISMAN Natalia",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3115-06",
+        "Docente/s (1)": "D'ANDREA Alejandra",
+        "Día/s y horario/s": "VIE 15 A 18",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3116,
+    "Asignatura-Actividad": "INTRODUCCIÓN AL PENSAMIENTO FILOSÓFICO",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3116-01",
+        "Docente/s (1)": "RAMOS German",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "5 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3116-02",
+        "Docente/s (1)": "SOMERS Eugenia",
+        "Día/s y horario/s": "MAR 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "1 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3116,
+    "Asignatura-Actividad": "INTRODUCCIÓN AL PENSAMIENTO FILOSÓFICO",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3116-03",
+        "Docente/s (1)": "RAMOS German",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3116-04",
+        "Docente/s (1)": "A DESIGNAR",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3116-05",
+        "Docente/s (1)": "FERNÁNDEZ LISSO Karina",
+        "Día/s y horario/s": "MAR 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3117,
+    "Asignatura-Actividad": "SOCIOLOGÍA I",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3117-01",
+        "Docente/s (1)": "LOPEZ María Cecilia",
+        "Día/s y horario/s": "MAR 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "14 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3117-02",
+        "Docente/s (1)": "NOBILE Silvana",
+        "Día/s y horario/s": "VIE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "P007",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3117-03",
+        "Docente/s (1)": "LOPEZ María Cecilia",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "13 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3117,
+    "Asignatura-Actividad": "SOCIOLOGÍA I",
+    "Correlatividad regularizada": null,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3117-04",
+        "Docente/s (1)": "LOPEZ María Cecilia",
+        "Día/s y horario/s": "MAR 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3117-05",
+        "Docente/s (1)": "NOBILE Silvana",
+        "Día/s y horario/s": "VIE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3117-06",
+        "Docente/s (1)": "NOBILE Silvana",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3121,
+    "Asignatura-Actividad": "TRABAJO SOCIAL II",
+    "Correlatividad regularizada": 3111,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3121-01",
+        "Docente/s (1)": "FERNANDEZ Pilar",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "1 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3121-02",
+        "Docente/s (1)": "TORRES Gustavo",
+        "Día/s y horario/s": "MAR 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3121-03",
+        "Docente/s (1)": "TORRES Gustavo",
+        "Día/s y horario/s": "MAR 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3122,
+    "Asignatura-Actividad": "TALLER II - INTRODUCCIÓN A LA PRÁCTICA PROFESIONAL",
+    "Correlatividad regularizada": 3112,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": "7*",
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3122-01",
+        "Docente/s (1)": "FERREYRA SANDRA/ BRANDARIZ Rocio",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3122-02",
+        "Docente/s (1)": "ZUBIZARRETA Margarita/  BRANDARIZ Rocio",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "14 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3122-03",
+        "Docente/s (1)": "GOMEZ, Fernanda / BRANDARIZ Rocio",
+        "Día/s y horario/s": "MIÉ 14 a 17",
+        "Turno": "Tarde",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3122-04",
+        "Docente/s (1)": "FRACCHIA Pablo/  BRANDARIZ Rocio",
+        "Día/s y horario/s": "MIÉ 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3122-05",
+        "Docente/s (1)": "FERREIRO  Jesica/  BRANDARIZ Rocio",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "14 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3122-06",
+        "Docente/s (1)": "EBIS Silvia/  BRANDARIZ Rocio",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3123,
+    "Asignatura-Actividad": "ESTADO Y POLÍTICAS PÚBLICAS",
+    "Correlatividad regularizada": "3111-3114",
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3123-01",
+        "Docente/s (1)": "GUGLIALMELLI Maxima",
+        "Día/s y horario/s": "LUN 15 A 18",
+        "Turno": "Mañana",
+        "Aula/s": "1 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3123-02",
+        "Docente/s (1)": "CHIESA Pablo",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Tarde",
+        "Aula/s": "2 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3123-03",
+        "Docente/s (1)": "CIAPPINA Carlos",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3124,
+    "Asignatura-Actividad": "HISTORIA SOCIAL II",
+    "Correlatividad regularizada": 3114,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3124-01",
+        "Docente/s (1)": "NUÑEZ,María Clara Aurora",
+        "Día/s y horario/s": "VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3124-02",
+        "Docente/s (1)": "ARNOUX Aurelio",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "16 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3124,
+    "Asignatura-Actividad": "HISTORIA SOCIAL II",
+    "Correlatividad regularizada": 3114,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3124-03",
+        "Docente/s (1)": "BUSTELO Julieta",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3125,
+    "Asignatura-Actividad": "SOCIOLOGÍA II",
+    "Correlatividad regularizada": 3117,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3125-01",
+        "Docente/s (1)": "MEREÑUK Alenka",
+        "Día/s y horario/s": "JUE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "1 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3125-02",
+        "Docente/s (1)": "GÓMEZ Ana",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "A001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3125,
+    "Asignatura-Actividad": "SOCIOLOGÍA II",
+    "Correlatividad regularizada": 3117,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3125-03",
+        "Docente/s (1)": "MEREÑUK Alenka",
+        "Día/s y horario/s": "JUE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3125-04",
+        "Docente/s (1)": "GÓMEZ Ana",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3126,
+    "Asignatura-Actividad": "ECONOMÍA I",
+    "Correlatividad regularizada": 3117,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3126-01",
+        "Docente/s (1)": "CONTRERAS Juan Cruz",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "D001",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "según cronograma del docente"
+      },
+      {
+        "Comisión": "3126-02",
+        "Docente/s (1)": "DE VILLALOBOS Alfonso José",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "J003",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3126,
+    "Asignatura-Actividad": "ECONOMÍA I",
+    "Correlatividad regularizada": 3117,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3126-03",
+        "Docente/s (1)": "CONTRERAS Juan Cruz",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "según cronograma del docente"
+      },
+      {
+        "Comisión": "3126-04",
+        "Docente/s (1)": "DE VILLALOBOS Alfonso José",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3127,
+    "Asignatura-Actividad": "INVESTIGACIÓN SOCIAL I",
+    "Correlatividad regularizada": "3111-3112",
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3127-01",
+        "Docente/s (1)": "FUENTES, Santiago",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "D001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3127,
+    "Asignatura-Actividad": "INVESTIGACIÓN SOCIAL I",
+    "Correlatividad regularizada": "3111-3112",
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3127-02",
+        "Docente/s (1)": "FUENTES, Santiago",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3127-03",
+        "Docente/s (1)": "ORQUERA Rolando",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3128,
+    "Asignatura-Actividad": "DERECHO",
+    "Correlatividad regularizada": 3113,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3128-01",
+        "Docente/s (1)": "VIEITO Veronica Esther",
+        "Día/s y horario/s": "MAR 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "G001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3128-02",
+        "Docente/s (1)": "A DESIGNAR",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3128,
+    "Asignatura-Actividad": "DERECHO",
+    "Correlatividad regularizada": 3113,
+    "Correlatividad aprobada": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3128-03",
+        "Docente/s (1)": "CIZ Camila",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3128-04",
+        "Docente/s (1)": "VIEITO Veronica Esther",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3131,
+    "Asignatura-Actividad": "TRABAJO SOCIAL III",
+    "Correlatividad regularizada": 3121,
+    "Correlatividad aprobada": 3112,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3131-01",
+        "Docente/s (1)": "ORQUERA Rolando",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "G001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3131-02",
+        "Docente/s (1)": "FERNANDEZ Pilar",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3131-03",
+        "Docente/s (1)": "SZENCHUK Ruben Dario",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "10 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3132,
+    "Asignatura-Actividad": "TALLER III - SUPERVISIÓN TEÓRICO-PRÁCTICA",
+    "Correlatividad regularizada": 3122,
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 9,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3132-01",
+        "Docente/s (1)": "SALGADO FERNÁNDEZ Maria/ MIGLINO Mónica",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "1 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3132-02",
+        "Docente/s (1)": "SVERDLICK Victoria / MIGLINO Mónica",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "2 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3132-03",
+        "Docente/s (1)": "VALVERDI Gabriela / MIGLINO Mónica",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "5 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3132-04",
+        "Docente/s (1)": "BEDECARRAS Hugo / MIGLINO Mónica",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "11 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3133,
+    "Asignatura-Actividad": "INVESTIGACIÓN SOCIAL II",
+    "Correlatividad regularizada": "3121-3122-3127",
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3133-01",
+        "Docente/s (1)": "PAWLOWIZC Marìa Pia",
+        "Día/s y horario/s": "JUE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "13 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3133-02",
+        "Docente/s (1)": "GRIMOLDI Lidia",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "12 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3133-03",
+        "Docente/s (1)": "VERDUN RIVERO Julieta",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "13 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3134,
+    "Asignatura-Actividad": "FILOSOFÍA I",
+    "Correlatividad regularizada": 3116,
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3134-01",
+        "Docente/s (1)": "RAMOS Germán Luis",
+        "Día/s y horario/s": "VIE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "G001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3134-02",
+        "Docente/s (1)": "FERNANDEZ LISSO Carina",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "8 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3134,
+    "Asignatura-Actividad": "FILOSOFÍA I",
+    "Correlatividad regularizada": 3116,
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3134-03",
+        "Docente/s (1)": "A designar",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "8 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3135,
+    "Asignatura-Actividad": "ANTROPOLOGÍA SOCIAL Y CULTURAL",
+    "Correlatividad regularizada": 3116,
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3135-01",
+        "Docente/s (1)": "AHUMADA, Matías Pablo",
+        "Día/s y horario/s": "MAR 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "3135-02",
+        "Docente/s (1)": "ARNOUX NARVAJA, Aurelio Benito",
+        "Día/s y horario/s": "LUN 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "J003",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3135,
+    "Asignatura-Actividad": "ANTROPOLOGÍA SOCIAL Y CULTURAL",
+    "Correlatividad regularizada": 3116,
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3135-03",
+        "Docente/s (1)": "ARNOUX NARVAJA, Aurelio Benito",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3135,
+    "Asignatura-Actividad": "ANTROPOLOGÍA SOCIAL Y CULTURAL",
+    "Correlatividad regularizada": 3116,
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3136-01",
+        "Docente/s (1)": "CABRERA, Candela",
+        "Día/s y horario/s": "JUE 8 A 11",
+        "Turno": "Noche",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3136,
+    "Asignatura-Actividad": "PSICOLOGÍA DE LOS GRUPOS E INSTITUCIONES",
+    "Correlatividad regularizada": 3115,
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3136-02",
+        "Docente/s (1)": "KISMAN, Natalia",
+        "Día/s y horario/s": "MAR 15 A 18",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3136-03",
+        "Docente/s (1)": "DI SALVO Carolina",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3137,
+    "Asignatura-Actividad": "PLANIFICACIÓN SOCIAL I",
+    "Correlatividad regularizada": "3123-3127",
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3137-01",
+        "Docente/s (1)": "AENLLE MARIA Belén",
+        "Día/s y horario/s": "VIE 10 A 13",
+        "Turno": "MAÑANA",
+        "Aula/s": "6 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 3137,
+    "Asignatura-Actividad": "PLANIFICACIÓN SOCIAL I",
+    "Correlatividad regularizada": "3123-3127",
+    "Correlatividad aprobada": "3111 - 3112",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3137-02",
+        "Docente/s (1)": "DONDO María Elena",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 3141,
+    "Asignatura-Actividad": "TRABAJO SOCIAL IV",
+    "Correlatividad regularizada": 3131,
+    "Correlatividad aprobada": 3122,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3141-01",
+        "Docente/s (1)": "ROBLEDO, Sandra",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "16 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3141-02",
+        "Docente/s (1)": "GONZALEZ Silvia Mariel",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "J003",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 3142,
+    "Asignatura-Actividad": "TALLER IV - SUPERVISIÓN TEÓRICO-PRÁCTICA",
+    "Correlatividad regularizada": 3132,
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 9,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3142-01",
+        "Docente/s (1)": "CABALLERO Olga / KLEIN Maia",
+        "Día/s y horario/s": "MIÉ 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3142-02",
+        "Docente/s (1)": "MARTINEZ ESCARIZ, María Belén  / KLEIN Maia",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "1 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3142-03",
+        "Docente/s (1)": "FREGOSI María Rita / KLEIN Maia",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 3143,
+    "Asignatura-Actividad": "ECONOMÍA II",
+    "Correlatividad regularizada": "3123-3126",
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3143-01",
+        "Docente/s (1)": "BASTERRECHEA Marcela",
+        "Día/s y horario/s": "VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3143-02",
+        "Docente/s (1)": "REPETTO Vanesa",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "11 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 3144,
+    "Asignatura-Actividad": "PSICOLOGÍA SOCIAL Y COMUNITARIA",
+    "Correlatividad regularizada": 3136,
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3144-01",
+        "Docente/s (1)": "ETCHEVERRY Juan Martin",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "H001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 3144,
+    "Asignatura-Actividad": "PSICOLOGÍA SOCIAL Y COMUNITARIA",
+    "Correlatividad regularizada": 3136,
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3144-02",
+        "Docente/s (1)": "CABRERA Candela",
+        "Día/s y horario/s": "JUE 15 A 18",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "3145B",
+    "Asignatura-Actividad": "SEMINARIO OPTATIVO: FICCIÓN, CRÓNICA E INTERVENCIÓN. LA LITERATURA COMO HERRAMIENTA PROFESIONAL EN TRABAJO SOCIAL",
+    "Correlatividad regularizada": 3128,
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3145B-01",
+        "Docente/s (1)": "KLEIN Maia",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "A002",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "3145C",
+    "Asignatura-Actividad": "SEMINARIO OPTATIVO: TRABAJO SOCIAL Y PERSPECTIVA DE CORPORALIDAD",
+    "Correlatividad regularizada": 3128,
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3145C-01",
+        "Docente/s (1)": "GONZALEZ, Guillermina",
+        "Día/s y horario/s": "LUN 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 3146,
+    "Asignatura-Actividad": "PLANIFICACIÓN SOCIAL II",
+    "Correlatividad regularizada": "3133-3137",
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3146-01",
+        "Docente/s (1)": "ORQUERA Rolando",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "10 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 3146,
+    "Asignatura-Actividad": "PLANIFICACIÓN SOCIAL II",
+    "Correlatividad regularizada": "3133-3137",
+    "Correlatividad aprobada": "3121-3122",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3146-02",
+        "Docente/s (1)": "AENLLE MARIA Belén",
+        "Día/s y horario/s": "VIE 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 3151,
+    "Asignatura-Actividad": "TRABAJO SOCIAL V",
+    "Correlatividad regularizada": 3141,
+    "Correlatividad aprobada": 3132,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3151-01",
+        "Docente/s (1)": "BASTERRECHEA, Marcela",
+        "Día/s y horario/s": "JUE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "11 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3151-02",
+        "Docente/s (1)": "BELZITI Claudia",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "11 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 3152,
+    "Asignatura-Actividad": "TALLER V - ACTUALIZACIÓN TEÓRICO-PRÁCTICA",
+    "Correlatividad regularizada": 3142,
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3152-01",
+        "Docente/s (1)": "GIMENEZ Alejandra",
+        "Día/s y horario/s": "MIÉ 8 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "J101",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3152-02",
+        "Docente/s (1)": "AENLLE Belén",
+        "Día/s y horario/s": "MIÉ 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "G001",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 3153,
+    "Asignatura-Actividad": "INVESTIGACIÓN SOCIAL III",
+    "Correlatividad regularizada": "3133-3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 44593,
+    "Comisiones": [
+      {
+        "Comisión": "3153-01",
+        "Docente/s (1)": "GRIMOLDI, Lidia",
+        "Día/s y horario/s": "MAR 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "B002",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3153-02",
+        "Docente/s (1)": "GIMENEZ Alejandra",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "11 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 3154,
+    "Asignatura-Actividad": "FILOSOFÍA II",
+    "Correlatividad regularizada": 3134,
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3154-01",
+        "Docente/s (1)": "RAMOS, German",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "3 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "11/04, 02/05, 16/05, 30/05, 13/06, 04/07"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "3155C",
+    "Asignatura-Actividad": "SEMINARIO-TALLER OPTATIVO: GÉNERO Y DIVERSIDADES",
+    "Correlatividad regularizada": "3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3155C-01",
+        "Docente/s (1)": "ROSEMBERG Patricia",
+        "Día/s y horario/s": "SÁB 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "B002",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "3155A",
+    "Asignatura-Actividad": "SEMINARIO-TALLER OPTATIVO: DISPOSITIVOS Y PRACTICAS INTEGRALES EN SALUD MENTAL",
+    "Correlatividad regularizada": "3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3155A-01",
+        "Docente/s (1)": "BANG Claudia",
+        "Día/s y horario/s": "JUE 11 A 14",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "3155B",
+    "Asignatura-Actividad": "SEMINARIO-TALLER OPTATIVO: SALUD PÚBLICA",
+    "Correlatividad regularizada": "3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3155B-01",
+        "Docente/s (1)": "ETCHEVERRY Juan Martin",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "3155D",
+    "Asignatura-Actividad": "SEMINARIO-TALLER OPTATIVO: ESCRITURA ACADÉMICA",
+    "Correlatividad regularizada": "3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3155D-01",
+        "Docente/s (1)": "BLANCO Camila",
+        "Día/s y horario/s": "LUN 17 A 20",
+        "Turno": "Mañana",
+        "Aula/s": "10 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 3156,
+    "Asignatura-Actividad": "COMUNICACIÓN SOCIAL",
+    "Correlatividad regularizada": "3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3156-01",
+        "Docente/s (1)": "FUENTES  Santiago ",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      },
+      {
+        "Comisión": "3156-02",
+        "Docente/s (1)": "CHIESA Pablo",
+        "Día/s y horario/s": "MAR 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3161I / 3261I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO INGLÉS NIVEL I",
+    "Correlatividad regularizada": "3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3161I-01",
+        "Docente/s (1)": "ASSIS María Paula",
+        "Día/s y horario/s": "MAR 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "6 DARACT II",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3161I / 3261I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO INGLÉS NIVEL I",
+    "Correlatividad regularizada": "3141-3142",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3161I-02",
+        "Docente/s (1)": "ASSIS María Paula",
+        "Día/s y horario/s": "MAR 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3162I / 3262I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO INGLÉS NIVEL II",
+    "Correlatividad regularizada": "3161I / 3261I",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3162I-01",
+        "Docente/s (1)": "GARABITO Florencia",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "5 DARACT II",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "26/4, 24/5, 21/6, 28/6, 5/7"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3162I / 3262I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO INGLÉS NIVEL II",
+    "Correlatividad regularizada": "3161I / 3261I",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3162I-02",
+        "Docente/s (1)": "GARABITO Florencia",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3161P / 3261P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO PORTUGUÉS NIVEL I",
+    "Correlatividad regularizada": "3161I / 3261I",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3161P-01",
+        "Docente/s (1)": "GOLDEGOL Rose Cristina",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "9 DARACT I",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3161P / 3261P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO PORTUGUÉS NIVEL I",
+    "Correlatividad regularizada": "3161I / 3261I",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3161P-02",
+        "Docente/s (1)": "a designar",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3162P / 3262P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO PORTUGUÉS NIVEL II",
+    "Correlatividad regularizada": "3161P / 3261P",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3162P-01",
+        "Docente/s (1)": "PROBO CHAVES Alzira Celia",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "8 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3162P / 3262P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO PORTUGUÉS NIVEL II",
+    "Correlatividad regularizada": "3161P / 3261P",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3162P-02",
+        "Docente/s (1)": "PROBO CHAVES Alzira Celia",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3161F / 3261F",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO FRANCÉS NIVEL I",
+    "Correlatividad regularizada": "3161P / 3261P",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3161F-01",
+        "Docente/s (1)": "LABADO Silvia Nora",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "2 DARACT I",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "3162F / 3262F",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO FRANCÉS NIVEL II",
+    "Correlatividad regularizada": "3161F / 3261F",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3162F-01",
+        "Docente/s (1)": "LABADO Silvia Nora",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": 3163,
+    "Asignatura-Actividad": "TALLER DE INFORMÁTICA",
+    "Correlatividad regularizada": "3161F / 3261F",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3163-01",
+        "Docente/s (1)": "VILADRICH Soledad ",
+        "Día/s y horario/s": "JUE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": " ",
+    "Código": 3163,
+    "Asignatura-Actividad": "TALLER DE INFORMÁTICA",
+    "Correlatividad regularizada": "3161F / 3261F",
+    "Correlatividad aprobada": "3131-3132",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3163-01",
+        "Docente/s (1)": "VILADRICH Soledad ",
+        "Día/s y horario/s": "JUE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1165 @@
+[
+  {
+    "Año": 1,
+    "Código": 2211,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA QUÍMICA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2211-01",
+        "Docente/s (1)": "INSINGER, Karina / SCAGLIA RAT MLaura / OSTERA Juan Manuel",
+        "Día/s y horario/s": "LUN 9 A 13 (TEO) Y MAR 9 A 13 (LAB)",
+        "Turno": "Mañana",
+        "Aula/s": "15 DARACT II / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2211-02",
+        "Docente/s (1)": "INSINGER, Karina / GLUSTEIN Jazmín / SCAGLIA RAT María Laura",
+        "Día/s y horario/s": "LUN 9 A 13 (TEO) Y VIE 9 A 13 (LAB)",
+        "Turno": "Mañana",
+        "Aula/s": "15 DARACT II / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2211-03",
+        "Docente/s (1)": "SAMANIEGO Cecilia / CRISTOBAL Gustavo / BOCCIA Monica",
+        "Día/s y horario/s": "LUN 14 A 18 (TEO) Y MAR 14 A 18 (LAB)",
+        "Turno": "Tarde",
+        "Aula/s": "C201 / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2211-04",
+        "Docente/s (1)": "SAMANIEGO Cecilia / SCAGLIA RAT María Laura / CRISTOBAL Gustavo",
+        "Día/s y horario/s": "LUN 14 A 18 (TEO) Y VIE 14 A 18 (LAB)",
+        "Turno": "Tarde",
+        "Aula/s": "C201/ LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2211-05",
+        "Docente/s (1)": "INSINGER Karina / SCAGLIA RAT María Laura / ESCALONA HERNANDEZ José",
+        "Día/s y horario/s": "LUN 18 A 22 (TEO) Y MAR 18 A 22 (LAB)",
+        "Turno": "Noche",
+        "Aula/s": "5 DORREGO / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2211-06",
+        "Docente/s (1)": "INSINGER Karina / ESCALONA HERNANDEZ José / Cesar ARGÚELLO",
+        "Día/s y horario/s": "LUN 18 A 22 (TEO) Y JUE 18 A 22 (LAB)",
+        "Turno": "Noche",
+        "Aula/s": "5 DORREGO / LAB 2",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2211,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA QUÍMICA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2211-07",
+        "Docente/s (1)": "INSINGER Karina / SAMANIEGO Cecilia / SCAGLIA RAT María Laura",
+        "Día/s y horario/s": "LUN 9 A 13 (TEO) Y MAR 9 A 13 (LAB)",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2211-08",
+        "Docente/s (1)": "INSINGER Karina / ROSSO Ayelen / BOCCIA Monica",
+        "Día/s y horario/s": "LUN 9 A 13 (TEO) Y MAR 14 A 18 (LAB)",
+        "Turno": "Mañana/Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2211-09",
+        "Docente/s (1)": "INSINGER Karina / SCAGLIA RAT María Laura / CRISTOBAL Gustavo",
+        "Día/s y horario/s": "LUN 18 A 22 (TEO) Y JUE 18 A 22 (LAB)",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2212,
+    "Asignatura-Actividad": "INTRODUCCIÓN AL CÁLCULO",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2212-01",
+        "Docente/s (1)": "MALEGARIE Daniela / TABORDA Silvina",
+        "Día/s y horario/s": "MAR 10 A 12 Y JUE 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "9 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      },
+      {
+        "Comisión": "2212-02",
+        "Docente/s (1)": "GOMEZ Juan Pablo Florentino / DELGADINO Daiana",
+        "Día/s y horario/s": "MAR 8 A 10.30 Y JUE 10.30 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "8 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "2212-03",
+        "Docente/s (1)": "VILLAGRA Marcela / ACOSTA PEREIRA Alcides René",
+        "Día/s y horario/s": "MIÉ 18 A 21 Y VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "15 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIERCOLES"
+      },
+      {
+        "Comisión": "2212-04",
+        "Docente/s (1)": "SALDIVIA Diego / ACOSTA PEREIRA Alcides René",
+        "Día/s y horario/s": "MIÉ 14 A 17 Y SÁB 10 A 12",
+        "Turno": "Tarde/Mañana",
+        "Aula/s": "3 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIERCOLES"
+      },
+      {
+        "Comisión": "2212-05",
+        "Docente/s (1)": "SALDIVIA Diego / CASAL Pablo Martín",
+        "Día/s y horario/s": "MAR 10 A 13 Y VIE 10 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "10 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      },
+      {
+        "Comisión": "2212-06",
+        "Docente/s (1)": "MIÑO Nancy / CASAL Pablo Martín",
+        "Día/s y horario/s": "MAR 18 A 21 Y VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "14 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2212,
+    "Asignatura-Actividad": "INTRODUCCIÓN AL CÁLCULO",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2212-07",
+        "Docente/s (1)": "RODRIGUEZ URETA Hernán / GOMEZ Juan Pablo Florentino",
+        "Día/s y horario/s": "MAR 15 A 18 Y JUE 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      },
+      {
+        "Comisión": "2212-08",
+        "Docente/s (1)": "BRAVO Silvio Damián / SALDIVIA Diego",
+        "Día/s y horario/s": "MAR 10 A 13 Y VIE 10 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2213,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA BIOTECNOLOGÍA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2213-01",
+        "Docente/s (1)": "RAIBENBERG Fernando / ORTIZ Barbara",
+        "Día/s y horario/s": "MIÉ 9 A 13 TEO Y JUE LAB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "3 DARACT II / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2213-02",
+        "Docente/s (1)": "RAIBENBERG Fernando / NAGEL Ariel",
+        "Día/s y horario/s": "MIÉ 9 A 13 TEO Y SÁB LAB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "3 DARACT II / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2213-03",
+        "Docente/s (1)": "PEREZ Oscar / AGUILERA Pablo",
+        "Día/s y horario/s": "MIÉ 9 A 13 TEO Y MIÉ LAB 14 A 18",
+        "Turno": "Mañana/Tarde",
+        "Aula/s": "11 DARACT II / LAB 2",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2213-04",
+        "Docente/s (1)": "PEREZ Oscar / CURRÁ Annabella",
+        "Día/s y horario/s": "MIÉ 9 A 13 TEO Y JUE LAB 14 A 18",
+        "Turno": "Mañana/Tarde",
+        "Aula/s": "11 DARACT II / LAB 3",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2213-05",
+        "Docente/s (1)": "BERRETTA Marcelo / NAGEL Ariel",
+        "Día/s y horario/s": "SÁB 9 A 13 TEO Y VIE 17 A 21 LAB",
+        "Turno": "Mañana/Noche",
+        "Aula/s": "5 DARACT I / LAB 2",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2213-06",
+        "Docente/s (1)": "BERRETTA Marcelo / LOVERA Tania",
+        "Día/s y horario/s": "JUE 17 A 21 LAB Y SÁB 9 A 13 TEO",
+        "Turno": "Mañana/Tarde",
+        "Aula/s": "LAB 1 / 5 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2213,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA BIOTECNOLOGÍA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2213-07",
+        "Docente/s (1)": "RIVA Diego / TOLENTINO Miguel",
+        "Día/s y horario/s": "MIÉ 17 A 20 TEO Y VIE 17 A 21 LAB",
+        "Turno": "Mañana/Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2213-08",
+        "Docente/s (1)": "RIVA Diego / CURRÁ Anabella",
+        "Día/s y horario/s": "LUN 16 A 20 LAB Y MIÉ 17 A 20 TEO",
+        "Turno": "Mañana/Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2214,
+    "Asignatura-Actividad": "ANÁLISIS MATEMÁTICO",
+    "Correlatividades": 2212,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2214-01",
+        "Docente/s (1)": "CUELLO Adriana / RICCIARDI Valeria",
+        "Día/s y horario/s": "LUN 18:30 A 21:30 Y JUE 19 A 22",
+        "Turno": "Noche",
+        "Aula/s": "13 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      },
+      {
+        "Comisión": "2214-02",
+        "Docente/s (1)": "GOMEZ Juan Pablo Florentino / HERNANDEZ Miriam",
+        "Día/s y horario/s": "LUN 15 A 18 Y VIE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "1 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "VIERNES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2214,
+    "Asignatura-Actividad": "ANÁLISIS MATEMÁTICO",
+    "Correlatividades": 2212,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2214-03",
+        "Docente/s (1)": "GOMEZ Juan Pablo Florentino / FERNANDEZ Ana Laura",
+        "Día/s y horario/s": "MAR 10 A 13 Y JUE 11 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "2214-04",
+        "Docente/s (1)": "ACOSTA PEREIRA, Alcides René / VILLAGRA Marcela",
+        "Día/s y horario/s": "MIÉ 18 A 21 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIERCOLES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2215,
+    "Asignatura-Actividad": "QUÍMICA GENERAL E INORGÁNICA",
+    "Correlatividades": 2211,
+    "Horas semanales teórico-prácticas": 10,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2215-01",
+        "Docente/s (1)": "BARRIOS Pablo / MORRONE Josefina / FERNANDEZ CORUJO Victoria",
+        "Día/s y horario/s": "MIÉ (TEO) 13 A 18 Y JUE (LAB) 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "3 DARACT II / LAB 2",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2215-02",
+        "Docente/s (1)": "BARRIOS Pablo / MONROY Andrea Micaela / GARBALENA Micaela",
+        "Día/s y horario/s": "MIÉ (TEO) 13 A 18 Y VIE (LAB) 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "3 DARACT II / LAB 2",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2215,
+    "Asignatura-Actividad": "QUÍMICA GENERAL E INORGÁNICA",
+    "Correlatividades": 2211,
+    "Horas semanales teórico-prácticas": 10,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2215-03",
+        "Docente/s (1)": "CENIQUEL Marcos / MORRONE Josefina / RODRIGUEZ Florencia",
+        "Día/s y horario/s": "LUN (LAB) 9 A 14 Y MIÉ (TEO) 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2215-04",
+        "Docente/s (1)": "CENIQUEL Marcos / FERNANDEZ CORUJO Victoria / MACORETTA Christian Leandro",
+        "Día/s y horario/s": "MIÉ (TEO) 9 A 14 Y JUE (LAB) 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2215-05",
+        "Docente/s (1)": "BARRIOS Pablo / GARBALENA Micaela / ROBLES Aylén",
+        "Día/s y horario/s": "LUN (TEO) 17 A 22 Y MAR (LAB) 17 A 22",
+        "Turno": "Mañana/Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2215-06",
+        "Docente/s (1)": "BARRIOS, Pablo / MARELLO Lucia / BARRAGÁN Rubén",
+        "Día/s y horario/s": "LUN (TEO) 17 A 22 Y JUE (LAB) 17 A 22",
+        "Turno": "Mañana/Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2216,
+    "Asignatura-Actividad": "BIOLOGÍA",
+    "Correlatividades": 2211,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2216-01",
+        "Docente/s (1)": "ORQUEDA Andrés / GARANZINI Debora / ORTEGA Mabel",
+        "Día/s y horario/s": "MAR (TEO) 13 A 17 Y MAR (LAB) 17 A 21",
+        "Turno": "Tarde/Noche",
+        "Aula/s": "3 DARACT II / LAB 3",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2216-02",
+        "Docente/s (1)": "ORQUEDA Andrés / CRISTOBAL Gustavo / SCAGLIA Maria Laura",
+        "Día/s y horario/s": "MAR (TEO) 13 A 17 Y JUE (LAB) 17 A 21",
+        "Turno": "Tarde/Noche",
+        "Aula/s": "3 DARACT II / LAB 3",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2216,
+    "Asignatura-Actividad": "BIOLOGÍA",
+    "Correlatividades": 2211,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2216-03",
+        "Docente/s (1)": "GARANZINI Debora / CRISTOBAL Gustavo / SCAGLIA Maria Laura",
+        "Día/s y horario/s": "MAR (TEO) 13 A 17 Y JUE (LAB) 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2216-04",
+        "Docente/s (1)": "GARANZINI Debora / CRISTOBAL Gustavo / SCAGLIA Maria Laura",
+        "Día/s y horario/s": "MAR (TEO) 13 A 17 Y VIE (LAB) 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2216-05",
+        "Docente/s (1)": "CURIESES Silvana / ORTEGA Mabel / LOTO Luciana",
+        "Día/s y horario/s": "JUE (TEO) 17 A 21 Y MAR (LAB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2216-06",
+        "Docente/s (1)": "CURIESES Silvana / CONVERTI David / LOVERA Tania",
+        "Día/s y horario/s": "JUE (TEO) 17 A 21 Y VIE (LAB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2221,
+    "Asignatura-Actividad": "DISEÑO DE ALGORITMOS Y ESTRUCTURA DE DATOS",
+    "Correlatividades": 2214,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2221-01",
+        "Docente/s (1)": "RICCIARDI Valeria / GODOY, Claudio Leonardo",
+        "Día/s y horario/s": "LUN 14 A 17 Y JUE 17 A 19",
+        "Turno": "Tarde",
+        "Aula/s": "17 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2221,
+    "Asignatura-Actividad": "DISEÑO DE ALGORITMOS Y ESTRUCTURA DE DATOS",
+    "Correlatividades": 2214,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2221-02",
+        "Docente/s (1)": "RICCIARDI Valeria / GODOY, Claudio Leonardo",
+        "Día/s y horario/s": "MAR 16 A 18 Y JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2222,
+    "Asignatura-Actividad": "QUÍMICA ORGÁNICA",
+    "Correlatividades": 2215,
+    "Horas semanales teórico-prácticas": 10,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2222-01",
+        "Docente/s (1)": "BARRIOS Pablo / AGOSTINI Hernán / CENIQUEL Marcos",
+        "Día/s y horario/s": "LUN (TEO) 17 A 22 Y MAR (LAB) 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "J003 / LAB 2",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2222-02",
+        "Docente/s (1)": "BARRIOS Pablo / LOBO GAITAN Florencia / ESCALONA HERNÁNDEZ José Leonardo",
+        "Día/s y horario/s": "LUN (TEO) 17 A 22 Y VIE (LAB) 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "J003 / LAB 3",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2222,
+    "Asignatura-Actividad": "QUÍMICA ORGÁNICA",
+    "Correlatividades": 2215,
+    "Horas semanales teórico-prácticas": 10,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2222-03",
+        "Docente/s (1)": "A DESIGNAR/ AGOSTINI Hernán / CENIQUEL Marcos",
+        "Día/s y horario/s": "MIÉ (TEO) 17 A 22 Y MAR (LAB) 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2223,
+    "Asignatura-Actividad": "FÍSICA I",
+    "Correlatividades": 2214,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2223-01",
+        "Docente/s (1)": "WUNDHEILER Brian / MELO Diego",
+        "Día/s y horario/s": "MIÉ (TEO-PROB) 16 A 21",
+        "Turno": "Noche",
+        "Aula/s": "9 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2223,
+    "Asignatura-Actividad": "FÍSICA I",
+    "Correlatividades": 2214,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2223-02",
+        "Docente/s (1)": "SARTARELLI Salvador Andres / MARTINEZ Cristian",
+        "Día/s y horario/s": "LUN (TEO-PROB) 16 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2224,
+    "Asignatura-Actividad": "FÍSICA II",
+    "Correlatividades": 2223,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2224-01",
+        "Docente/s (1)": "SARTARELLI Salvador Andres",
+        "Día/s y horario/s": "JUE (TEO-PROB) 16 A 22",
+        "Turno": "Noche",
+        "Aula/s": "H101B",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2224,
+    "Asignatura-Actividad": "FÍSICA II",
+    "Correlatividades": 2223,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2224-02",
+        "Docente/s (1)": "WUNDHEILER Brian / MELO Diego",
+        "Día/s y horario/s": "MIÉ (TEO-LAB) 16 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2225,
+    "Asignatura-Actividad": "QUÍMICA ANALÍTICA E INSTRUMENTAL",
+    "Correlatividades": "2215-2223",
+    "Horas semanales teórico-prácticas": 9,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2225-01",
+        "Docente/s (1)": "BARRIOS Pablo / CENIQUEL Marcos / A DESIGNAR",
+        "Día/s y horario/s": "JUE (TEO) 18 A 22 Y VIE (LAB) 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT I / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2225,
+    "Asignatura-Actividad": "QUÍMICA ANALÍTICA E INSTRUMENTAL",
+    "Correlatividades": "2215-2223",
+    "Horas semanales teórico-prácticas": 9,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2225-02",
+        "Docente/s (1)": "BARRIOS Pablo / CENIQUEL Marcos / DUTRA ALCOBA Yohana",
+        "Día/s y horario/s": "JUE (TEO) 18 A 22 Y VIE (LAB) 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2226,
+    "Asignatura-Actividad": "BIOESTADÍSTICA",
+    "Correlatividades": "2213-2214-2216",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2226-01",
+        "Docente/s (1)": "AGUILERA Pablo / RIVAS Juan Gabriel",
+        "Día/s y horario/s": "VIE (TEO) 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2226,
+    "Asignatura-Actividad": "BIOESTADÍSTICA",
+    "Correlatividades": "2213-2214-2216",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2226-02",
+        "Docente/s (1)": "AGUILERA Pablo / RIVAS Juan Gabriel",
+        "Día/s y horario/s": "SÁB (TEO) 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2227,
+    "Asignatura-Actividad": "ELEMENTOS DE ECONOMÍA Y ADMINISTRACIÓN",
+    "Correlatividades": 2213,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2227-01",
+        "Docente/s (1)": "PUCCIO Adolfo / FERNÁNDEZ Lucía Elena",
+        "Día/s y horario/s": "LUN (TEO-PROB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "6 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2227,
+    "Asignatura-Actividad": "ELEMENTOS DE ECONOMÍA Y ADMINISTRACIÓN",
+    "Correlatividades": 2213,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2227-02",
+        "Docente/s (1)": "PUCCIO Adolfo / FERNÁNDEZ Lucía Elena",
+        "Día/s y horario/s": "LUN (TEO-PROB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "19/08 26/08 09/09 23/09 07/10 21/10 04/11 25/11"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2228,
+    "Asignatura-Actividad": "TALLER DE MANEJO DE SOFTWARE Y BASES DE DATOS",
+    "Correlatividades": 2212,
+    "Horas semanales teórico-prácticas": "4 (I)",
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2228-01",
+        "Docente/s (1)": "SOLDATI Cristina",
+        "Día/s y horario/s": "JUEVES 17/04, 24/04,5/5, 8/6 de 12 a 16 horas.",
+        "Turno": "Tarde",
+        "Aula/s": "17 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2228,
+    "Asignatura-Actividad": "TALLER DE MANEJO DE SOFTWARE Y BASES DE DATOS",
+    "Correlatividades": 2212,
+    "Horas semanales teórico-prácticas": "4 (I)",
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2228-02",
+        "Docente/s (1)": "VILLALBA Pamela",
+        "Día/s y horario/s": "VIERNES 22/8, 29/8, 5/9 y 12/9 de 9 a 13 horas.",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2231,
+    "Asignatura-Actividad": "PRÁCTICA PRE-PROFESIONAL (PPP)",
+    "Correlatividades": "2222-2224-2225-2226",
+    "Horas semanales teórico-prácticas": "40/cuat",
+    "Cuatrimestre": 45689,
+    "Comisiones": [
+      {
+        "Comisión": "2231-01",
+        "Docente/s (1)": "RAIBENBERG Fernando / PEREZ Oscar / RIVA Diego / GARANZINI Debora / ORTIZ Bárbara",
+        "Día/s y horario/s": "DIAS Y HORARIOS A DESIGNAR",
+        "Turno": "***",
+        "Aula/s": "Diferentes centros de Investigación",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2232,
+    "Asignatura-Actividad": "QUÍMICA BIOLÓGICA I",
+    "Correlatividades": "2213-2222-2223",
+    "Horas semanales teórico-prácticas": 10,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2232-01",
+        "Docente/s (1)": "AGOSTINI Hernán / MICUCCI Matías",
+        "Día/s y horario/s": "LUN (LAB) 16 A 21 Y JUE (TEO) 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "LAB / H202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2233,
+    "Asignatura-Actividad": "MICROBIOLOGÍA I",
+    "Correlatividades": "2213-2216-2222",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2233-01",
+        "Docente/s (1)": "RIVA Diego / CONVERTI David",
+        "Día/s y horario/s": "MAR (LAB) 17 A 20 Y SÁB (LAB) 10 A 13",
+        "Turno": "Mañana/Noche",
+        "Aula/s": "G003 / LAB",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2234,
+    "Asignatura-Actividad": "BIOLOGÍA MOLECULAR Y CELULAR",
+    "Correlatividades": "2213-2216-2222",
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2234-01",
+        "Docente/s (1)": "PERALTA Andrea / GARANZINI Débora",
+        "Día/s y horario/s": "MIÉ (TEO-PROB) 17 A 21 Y VIE (LAB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2235,
+    "Asignatura-Actividad": "BIOÉTICA Y FILOSOFÍA DE LA CIENCIA",
+    "Correlatividades": "2213-2216",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2235-01",
+        "Docente/s (1)": "MARTINI Maria de los Angeles / OZAN, Natalia Lucía",
+        "Día/s y horario/s": "SÁB (TEO) 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2236,
+    "Asignatura-Actividad": "BIOPROCESOS I",
+    "Correlatividades": "2224-2232-2233",
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2236-01",
+        "Docente/s (1)": "MARTINEZ ALVAREZ Lucas",
+        "Día/s y horario/s": "LUN (TEO) 17 A 20 Y MAR (LAB) 17 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2237,
+    "Asignatura-Actividad": "BIOTECNOLOGÍA I",
+    "Correlatividades": "2221-2234",
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2237-01",
+        "Docente/s (1)": "ROMORINI Leonardo / ORQUEDA Andrés",
+        "Día/s y horario/s": "MIÉ (TEO) 18 A 21 Y JUE (LAB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2241,
+    "Asignatura-Actividad": "INMUNOLOGÍA",
+    "Correlatividades": 2233,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2241-01",
+        "Docente/s (1)": "MOLINARI Paula / SORIA Ivana",
+        "Día/s y horario/s": "MIÉ (TEO-PROB) 17 A 20 Y JUE (LAB) 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "H201A / G203",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2242,
+    "Asignatura-Actividad": "GENÉTICA",
+    "Correlatividades": 2234,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2242-01",
+        "Docente/s (1)": "AGUIRRE Natalia",
+        "Día/s y horario/s": "VIE (TEO-PROB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2243,
+    "Asignatura-Actividad": "MICROBIOLOGÍA II",
+    "Correlatividades": 2233,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2243-01",
+        "Docente/s (1)": "MARTÍNEZ ALVAREZ Lucas / RIVIERE Nahuel",
+        "Día/s y horario/s": "LUN (TEO-PROB) 17 A 20 Y MAR (LAB) 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "8 DARACT I / 18 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2244,
+    "Asignatura-Actividad": "VIROLOGÍA Y BIOTECNOLOGÍA VIRAL",
+    "Correlatividades": 2233,
+    "Horas semanales teórico-prácticas": "4 (II)",
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2244-01",
+        "Docente/s (1)": "PALACIOS Carlos",
+        "Día/s y horario/s": "SÁB (TEO) 9 A 13 (II)",
+        "Turno": "Mañana",
+        "Aula/s": "H101A",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2245,
+    "Asignatura-Actividad": "QUÍMICA BIOLÓGICA II",
+    "Correlatividades": 2232,
+    "Horas semanales teórico-prácticas": 10,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2245-01",
+        "Docente/s (1)": "AGOSTINI Hernán / MICUCCI Matías",
+        "Día/s y horario/s": "LUN (LAB) 16 A 21 Y JUE (TEO) 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2246,
+    "Asignatura-Actividad": "INGENIERÍA GENÉTICA",
+    "Correlatividades": 2237,
+    "Horas semanales teórico-prácticas": 10,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2246-01",
+        "Docente/s (1)": "BERRETTA Marcelo / MARRERO Rubén",
+        "Día/s y horario/s": "MAR (TEO) 16 A 21 YMIÉ (LAB) 16 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2251,
+    "Asignatura-Actividad": "BIOTECNOLOGÍA II",
+    "Correlatividades": 2237,
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2251-01",
+        "Docente/s (1)": "VILLALBA Pamela / SOLDATI Maria Cristina",
+        "Día/s y horario/s": "VIE (TEO) 16 A 19 Y JUE (LAB) 17 A 21.",
+        "Turno": "Tarde",
+        "Aula/s": "14 DARACT I / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2252,
+    "Asignatura-Actividad": "BIOPROCESOS II",
+    "Correlatividades": 2236,
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2252-01",
+        "Docente/s (1)": "PALACIOS Carlos / MICUCCI Matías",
+        "Día/s y horario/s": "LUN (TEO) 17 A 20 Y MIER (LAB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "A001 / LAB 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2253,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA BIOINFORMÁTICA",
+    "Correlatividades": 2237,
+    "Horas semanales teórico-prácticas": "4 (II)",
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2253-01",
+        "Docente/s (1)": "RIVAROLA Maximo",
+        "Día/s y horario/s": "MAR (TEO-PROB) 17 A 21 hs",
+        "Turno": "Noche",
+        "Aula/s": "15 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2254,
+    "Asignatura-Actividad": "BIOINFORMÁTICA",
+    "Correlatividades": "2253-2246",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2254-01",
+        "Docente/s (1)": "RIVAROLA Maximo",
+        "Día/s y horario/s": "MAR (TEO-PROB) 17 A 21 hs",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2255,
+    "Asignatura-Actividad": "GESTIÓN DE PROYECTOS",
+    "Correlatividades": "2246-2227",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2255-01",
+        "Docente/s (1)": "KLEIN Walter",
+        "Día/s y horario/s": "LUN (TEO-PROB) 17 A 22 hs",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "2256B",
+    "Asignatura-Actividad": "ASIGNATURA OPTATIVA (*) B Introducción a la Genómica y otras tecnologías Ómicas",
+    "Correlatividades": "2246-2236",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2256B-01",
+        "Docente/s (1)": "AGUIRRE Natalia",
+        "Día/s y horario/s": "VIE (TEO-PROB) 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  }
+]

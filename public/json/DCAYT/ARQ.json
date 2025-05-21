@@ -1,0 +1,1752 @@
+[
+  {
+    "Año": 1,
+    "Código": 2311,
+    "Asignatura-Actividad": "TALLER DE ARQUITECTURA I",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2311-01",
+        "Docente/s (1)": "ESTARELLAS Victoria / RANERO María Laura",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II ",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2311-02",
+        "Docente/s (1)": "ACEVEDO Ayelén  / MASCARÓ Pablo",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2311-03",
+        "Docente/s (1)": "ESTARELLAS Victoria / BALAGUER María del Carmen",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2311-04",
+        "Docente/s (1)": "GODOY Leonardo Alberto / ANDRADA Laura",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2311-05",
+        "Docente/s (1)": "CANCELA Eugenia / AGUILAR Pablo",
+        "Día/s y horario/s": "MAR 13:30 A 17:30 Y VIE 14 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "5 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2312,
+    "Asignatura-Actividad": "MATEMÁTICA I",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2312-01",
+        "Docente/s (1)": "GUERRERO, Virginia / LACABA María Cecilia",
+        "Día/s y horario/s": "JUE 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2312-02",
+        "Docente/s (1)": "FERNANDEZ Ana Laura / PEREZ ORONA Marcelo",
+        "Día/s y horario/s": "JUE 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2312-03",
+        "Docente/s (1)": "REYNOSO Laura / MARSAGLIA Walter",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2312-04",
+        "Docente/s (1)": "GUERRERO Virginia / PEREZ ORONA Marcelo",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2312,
+    "Asignatura-Actividad": "MATEMÁTICA I",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2312-05",
+        "Docente/s (1)": "GUERRERO Virginia / PEREZ ORONA Marcelo",
+        "Día/s y horario/s": "JUE 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2313,
+    "Asignatura-Actividad": "DIBUJO ARQUITECTÓNICO I",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2313-01",
+        "Docente/s (1)": "SOSA María Alejnadra / FERREYRA Juan Ignacio",
+        "Día/s y horario/s": "LUN 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2313-02",
+        "Docente/s (1)": "CANCELA Eugenia / AGUILAR Cecilia",
+        "Día/s y horario/s": "LUN 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2313-03",
+        "Docente/s (1)": "VILLARREAL Roberto / ANDINO Vanesa",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2313-04",
+        "Docente/s (1)": "BENEDETTI Gustavo /  ROTH Manuela",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2313,
+    "Asignatura-Actividad": "DIBUJO ARQUITECTÓNICO I",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2313-05",
+        "Docente/s (1)": "TARAMASSO María Liliana / ANDINO Vanesa / MONTESANO Alejandro",
+        "Día/s y horario/s": "SÁB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2314,
+    "Asignatura-Actividad": "FÍSICA",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2314-01",
+        "Docente/s (1)": "CABEZON Mariano / PIROLO Gabriel",
+        "Día/s y horario/s": "MIÉ 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2314-02",
+        "Docente/s (1)": "INDART Rafael / DISCACCIATI Mariela / VIGO DEANDREIS Leandro",
+        "Día/s y horario/s": "MIÉ 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2314-03",
+        "Docente/s (1)": "MEDRANO Rocío / CABEZON Mariano",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2314-04",
+        "Docente/s (1)": "CORNU Ernesto / CURES Lorena",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2314,
+    "Asignatura-Actividad": "FÍSICA",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2314-05",
+        "Docente/s (1)": "CABEZÓN Mariano / MEDRANO",
+        "Día/s y horario/s": "MIÉ 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2314-06",
+        "Docente/s (1)": "CORNU Ernesto / CURES Lorena",
+        "Día/s y horario/s": "MIÉ 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2315,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA HISTORIA DE LA ARQUITECTURA Y EL URBANISMO",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2315-01",
+        "Docente/s (1)": "GALDO NOVO Natalia / AGUIN Luciano ",
+        "Día/s y horario/s": "MIÉ 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2315-02",
+        "Docente/s (1)": "JAUREGUI Fiorella / CORRADINI Claudia",
+        "Día/s y horario/s": "MIÉ 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2315,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA HISTORIA DE LA ARQUITECTURA Y EL URBANISMO",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2315-03",
+        "Docente/s (1)": "CORRADINI Claudia /  ABOY Rosa",
+        "Día/s y horario/s": "MIÉ 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2315-04",
+        "Docente/s (1)": "YACUZZI Paula / JAUREGUI DÁPOLITO Fiorella Liliana",
+        "Día/s y horario/s": "MIÉ 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2315-05",
+        "Docente/s (1)": "DAICH VARELA  Leandro / GALDO NOVO Natalia",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2315-06",
+        "Docente/s (1)": "ANGERAMI María Clara / SEVILLA Daniel Alejandro",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2316,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA TECNOLOGÍA",
+    "Correlatividad Débil": 2314,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2316-01",
+        "Docente/s (1)": "TUCCI Adriana / HERMIDA Adriana / RISSO PATRON Luciana",
+        "Día/s y horario/s": "JUE 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2316,
+    "Asignatura-Actividad": "INTRODUCCIÓN A LA TECNOLOGÍA",
+    "Correlatividad Débil": 2314,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2316-02",
+        "Docente/s (1)": "TUCCI Adriana / ESTARELLAS Rafael",
+        "Día/s y horario/s": "JUE 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2316-03",
+        "Docente/s (1)": "HERMIDA Adriana / RISSO PATRON Luciana",
+        "Día/s y horario/s": "JUE 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2316-04",
+        "Docente/s (1)": "TUCCI Adriana / RISSO PATRON Luciana",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2316-05",
+        "Docente/s (1)": "HERMIDA Adriana / ESTARELLAS Rafael",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2317,
+    "Asignatura-Actividad": "MORFOLOGÍA I",
+    "Correlatividad Débil": 2314,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2317-01",
+        "Docente/s (1)": "SANJURJO Moira / SOSA María Alejandra / TINTO Nicolás",
+        "Día/s y horario/s": "LUN 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2317,
+    "Asignatura-Actividad": "MORFOLOGÍA I",
+    "Correlatividad Débil": 2314,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2317-02",
+        "Docente/s (1)": "SOSA María Alejandra / STAGNI Laura",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2317-03",
+        "Docente/s (1)": "AGUILAR Cecilia / DE LA FUENTE Lourdes",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2317-04",
+        "Docente/s (1)": "STAGNI Lucía / DANTIN Pamela",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2317-05",
+        "Docente/s (1)": "MACHIN Diego",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2321,
+    "Asignatura-Actividad": "TALLER DE ARQUITECTURA II",
+    "Correlatividad Débil": "2313-2316",
+    "Correlatividad Fuerte": 2311,
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2321-01",
+        "Docente/s (1)": "BERTOLI Sandra / DÍAZ Mariana Paula",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2321-02",
+        "Docente/s (1)": "PEROTTI Andrea / NORTE María Laura",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2321-03",
+        "Docente/s (1)": "LERNER Lautaro",
+        "Día/s y horario/s": "MAR 13:30 A 17:30 Y VIE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "J003/ 11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2321-04",
+        "Docente/s (1)": "CONTRERAS IRIARTE Julián / AGUIN Luciano",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2321-05",
+        "Docente/s (1)": " BERTOLI Sandra",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2322,
+    "Asignatura-Actividad": "MATEMÁTICAS II",
+    "Correlatividad Débil": 2312,
+    "Correlatividad Fuerte": 2311,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2322-01",
+        "Docente/s (1)": "MARCOVECCHIO Claudia / GONZALEZ Ariel Eduardo Germán",
+        "Día/s y horario/s": "JUE 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2322-02",
+        "Docente/s (1)": "MARSAGLIA Walter / WILSON Florencia",
+        "Día/s y horario/s": "JUE 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2322-03",
+        "Docente/s (1)": "MARCOVECCHIO Claudia / WILSON Florencia",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2322-04",
+        "Docente/s (1)": "GONZALEZ Ariel Eduardo Germán / LACABA María Cecilia",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2323,
+    "Asignatura-Actividad": "DIBUJO ARQUITECTÓNICO II",
+    "Correlatividad Débil": 2313,
+    "Correlatividad Fuerte": 2311,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2323-01",
+        "Docente/s (1)": "ANDINO Vanesa / VILLARREAL Roberto",
+        "Día/s y horario/s": "LUN 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2323-02",
+        "Docente/s (1)": "MONTESANO Alejandro / DI FEDE Alicia",
+        "Día/s y horario/s": "LUN 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2323-03",
+        "Docente/s (1)": "DI FEDE Alicia / FEVRE Mario",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2323-04",
+        "Docente/s (1)": "MONTESANO Alejandro / TINTO Nicolás",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2324,
+    "Asignatura-Actividad": "HISTORIA DE LA ARQUITECTURA Y EL URBANISMO I",
+    "Correlatividad Débil": 2315,
+    "Correlatividad Fuerte": 2311,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2324-01",
+        "Docente/s (1)": "YACUZZI Paula / CORRADINI Claudia",
+        "Día/s y horario/s": "MIÉ 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2324-02",
+        "Docente/s (1)": "ATANASOPULOS Andrea / JAUREGUI Fiorella",
+        "Día/s y horario/s": "MIÉ 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2324-03",
+        "Docente/s (1)": "AGUIN Luciano / SEVILLA Daniel",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2324-04",
+        "Docente/s (1)": "YACUZZI Paula",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2325,
+    "Asignatura-Actividad": "TECNOLOGÍA",
+    "Correlatividad Débil": 2316,
+    "Correlatividad Fuerte": 2314,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2325-01",
+        "Docente/s (1)": "PUGA Silvia / GELVES David",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2325-02",
+        "Docente/s (1)": "BACANS Mariano / AGUILAR Pablo",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2325-03",
+        "Docente/s (1)": "CAROL Eduardo / SORIA Juan Cruz",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2325-04",
+        "Docente/s (1)": "GELVES David / PUMARES Cecilia",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2326,
+    "Asignatura-Actividad": "ESTRUCTURAS I",
+    "Correlatividad Débil": "2312-2316",
+    "Correlatividad Fuerte": 2314,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2326-01",
+        "Docente/s (1)": "ESTARELLAS Rafael / PERUZZO Fernando",
+        "Día/s y horario/s": "MIÉ 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2326-02",
+        "Docente/s (1)": "AMERIO Liliana / CRIBILONE Florencia",
+        "Día/s y horario/s": "MIÉ 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2326-03",
+        "Docente/s (1)": "ESTARELLAS Rafael / PERUZZO Fernando",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2326-04",
+        "Docente/s (1)": "PUGA Silvia / AMERIO Liliana",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2327,
+    "Asignatura-Actividad": "MORFOLOGÍA II",
+    "Correlatividad Débil": 2317,
+    "Correlatividad Fuerte": 2314,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2327-01",
+        "Docente/s (1)": "TINTO Nicolas / PELLICER Homero",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2327-02",
+        "Docente/s (1)": "FERREYRA Juan Ignacio / BRUNATTI Laura",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2327-03",
+        "Docente/s (1)": "INDART Rafael / TINTO Nicolas",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2327-04",
+        "Docente/s (1)": "SANJURJO Moira / PEREZ ORONA Marcelo",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2331,
+    "Asignatura-Actividad": "TALLER DE ARQUITECTURA III",
+    "Correlatividad Débil": "2323-2325-2326-2327",
+    "Correlatividad Fuerte": "2313-2316-2317-2321",
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2331-01",
+        "Docente/s (1)": "LÁZARO Juan Pablo / CADILLAC Diego",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2331-02",
+        "Docente/s (1)": "BASCANS Mariano",
+        "Día/s y horario/s": "MAR 13:30 A 17:30 Y VIE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "J003/ 11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2331-03",
+        "Docente/s (1)": "CADILLAC Diego / MANSUETO Clara / SALVARREDY Julián",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2332,
+    "Asignatura-Actividad": "MORFOLOGÍA III",
+    "Correlatividad Débil": "2323-2327",
+    "Correlatividad Fuerte": "2311-2313-2317",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2332-01",
+        "Docente/s (1)": "PELLICER Homero / DANTIN Pamela",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2332-02",
+        "Docente/s (1)": "SANJURJO Moira / PEREZ ORONA Marcelo / STAGNI Lucia",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2333,
+    "Asignatura-Actividad": "TEORÍA DE LA ARQUITECTURA Y EL URBANISMO",
+    "Correlatividad Débil": 2324,
+    "Correlatividad Fuerte": "2311-2315",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2333-01",
+        "Docente/s (1)": "SANTAREN Gabriel / MANCILLA RIOSECO, Patricio Alfonso",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2333-02",
+        "Docente/s (1)": "SANTAREN Gabriel / MANCILLA RIOSECO, Patricio Alfonso",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2334,
+    "Asignatura-Actividad": "HISTORIA DE LA ARQUITECTURA Y EL URBANISMO II",
+    "Correlatividad Débil": 2324,
+    "Correlatividad Fuerte": "2311-2315",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2334-01",
+        "Docente/s (1)": "DAICH Leandro / CRAMER Karin",
+        "Día/s y horario/s": "MIÉ 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "4 Y 5 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2334-02",
+        "Docente/s (1)": "DAICH Leandro / MOLINARO ESQUIVEL Cecilia / ANGERAMI María Clara",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "11  y 12 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2335,
+    "Asignatura-Actividad": "CONSTRUCCIONES I",
+    "Correlatividad Débil": "2322-2325",
+    "Correlatividad Fuerte": "2312-2316",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2335-01",
+        "Docente/s (1)": "BASCANS Mariano / CAROL Eduardo",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2335-02",
+        "Docente/s (1)": "TESTARDINI Pablo / A DESIGNAR",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "g",
+    "Código": 2336,
+    "Asignatura-Actividad": "ESTRUCTURAS II",
+    "Correlatividad Débil": "2322-2326",
+    "Correlatividad Fuerte": "2312-2316",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2336-01",
+        "Docente/s (1)": "GARCIA Claudia / PENELA Pablo",
+        "Día/s y horario/s": "MIÉ 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2336-02",
+        "Docente/s (1)": "MARCOVECCHIO Claudia / ALVES BORGES CRISTINO Sara",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2337,
+    "Asignatura-Actividad": "INSTALACIONES I",
+    "Correlatividad Débil": "2322-2325",
+    "Correlatividad Fuerte": "2312-2316",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2337-01",
+        "Docente/s (1)": "SALEMI Francisco / PARRA Martín",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2337-02",
+        "Docente/s (1)": "SANCHEZ VIETO Juan Pablo / LAROTONDA Mariano Miguel",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2341,
+    "Asignatura-Actividad": "TALLER DE ARQUITECTURA IV",
+    "Correlatividad Débil": "2335-2336-2337",
+    "Correlatividad Fuerte": "2325-2326-2327-2331",
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2341-01",
+        "Docente/s (1)": "ALVES BORGES CRISTINO Sara / BARCELÓ Tamara",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2341-02",
+        "Docente/s (1)": "MACHIN Diego / CASTRO Lorena",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2342,
+    "Asignatura-Actividad": "INTRODUCCIÓN AL URBANISMO",
+    "Correlatividad Débil": "2332-2333",
+    "Correlatividad Fuerte": 2321,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2342-01",
+        "Docente/s (1)": "BAGNERA Paola / FERNANDEZ CECI Santiago",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "4 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2342-02",
+        "Docente/s (1)": "BAGNERA Paola / TARIZZO Luján",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "4 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2343,
+    "Asignatura-Actividad": "HISTORIA DE LA ARQUITECTURA Y EL URBANISMO III",
+    "Correlatividad Débil": "2333-2334",
+    "Correlatividad Fuerte": "2321-2324",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2343-01",
+        "Docente/s (1)": "GALDO NOVO Natalia /  ABOY Rosa",
+        "Día/s y horario/s": "MIÉ 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2343-02",
+        "Docente/s (1)": "MACHIN Diego / GALDO NOVO Natalia",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2344,
+    "Asignatura-Actividad": "CONSTRUCCIONES II",
+    "Correlatividad Débil": 2335,
+    "Correlatividad Fuerte": "2311-2322-2325",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2344-01",
+        "Docente/s (1)": "TUCCI Adriana / CARDOZO María Alejandra",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2344-02",
+        "Docente/s (1)": "HERMIDA Adriana / RISSO PATRON Luciana",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2345,
+    "Asignatura-Actividad": "ESTRUCTURAS III",
+    "Correlatividad Débil": "2335-2336",
+    "Correlatividad Fuerte": "2311-2322-2326",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2345-01",
+        "Docente/s (1)": "GONZALEZ Ariel / A DESIGNAR",
+        "Día/s y horario/s": "MIÉ 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2345-02",
+        "Docente/s (1)": "GARCIA Claudia / GONZALEZ Ariel",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2346,
+    "Asignatura-Actividad": "INSTALACIONES II",
+    "Correlatividad Débil": "2335-2337",
+    "Correlatividad Fuerte": "2311-2322-2325",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2346-01",
+        "Docente/s (1)": "DISCACCIATI Mariela / PIROLO Gabriel",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2346-02",
+        "Docente/s (1)": "PIROLO Gabriel / DISCACCIATI Mariela",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2351,
+    "Asignatura-Actividad": "TALLER DE ARQUITECTURA V",
+    "Correlatividad Débil": "2342-2344-2345-2346",
+    "Correlatividad Fuerte": "2332-2333-2335-2336-2337",
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2351-01",
+        "Docente/s (1)": "CONTRERAS IRIARTE Julián / ETCHEVERRY Daniel Eduardo",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "15 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2351-02",
+        "Docente/s (1)": "ROITMAN Anabela / GARCIA COLINAS Mariano",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "15 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2352,
+    "Asignatura-Actividad": "LEGISLACIÓN DE OBRAS",
+    "Correlatividad Débil": "2344-2345-2346",
+    "Correlatividad Fuerte": "2331-2335-2336-2337",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2352-01",
+        "Docente/s (1)": "GÜENAGA Fernando / COPES CASCO Lorena",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "5 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2353,
+    "Asignatura-Actividad": "URBANISMO I",
+    "Correlatividad Débil": "2342-2343",
+    "Correlatividad Fuerte": "2331-2332-2333",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2353-01",
+        "Docente/s (1)": "GARCIA COLINAS Mariano Luis Guillermo",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "J101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2353-02",
+        "Docente/s (1)": "MARZIONI Guillermo",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "5 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2354,
+    "Asignatura-Actividad": "SEMINARIO DE ENERGÍAS ALTERNATIVAS - ACONDICIONAMIENTO",
+    "Correlatividad Débil": "2344-2346",
+    "Correlatividad Fuerte": "2331-2335-2337",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2354-01",
+        "Docente/s (1)": "SEGURA María Verónica (Primer Módulo)",
+        "Día/s y horario/s": "LUN 18 A 22 (del 25/03 al 21/05)",
+        "Turno": "Noche",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2354-02",
+        "Docente/s (1)": "SEGURA  María Verónica (Segundo Módulo)",
+        "Día/s y horario/s": "LUN 8 A 12 (del 23/05 al 16/07)",
+        "Turno": "Mañana",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2355,
+    "Asignatura-Actividad": "SEMINARIO ESTRUCTURAS ESPECIALES",
+    "Correlatividad Débil": 2346,
+    "Correlatividad Fuerte": 2336,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2355-01",
+        "Docente/s (1)": "ESTARELLAS Rafael (Segundo Módulo)",
+        "Día/s y horario/s": "LUN 18 A 22 (del 23/05 al 16/07)",
+        "Turno": "Noche",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2355-02",
+        "Docente/s (1)": "ESTARELLAS Rafael (Primer Módulo)",
+        "Día/s y horario/s": "LUN 8 A 12 (del 25/3 al 21/05)",
+        "Turno": "Mañana",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2356,
+    "Asignatura-Actividad": "SEGURIDAD LABORAL E IMPACTO AMBIENTAL EN LA INDUSTRIA DE LA CONSTRUCCIÓN",
+    "Correlatividad Débil": "2344-2345-2346",
+    "Correlatividad Fuerte": "2331-2335-2336-2337",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2356-01",
+        "Docente/s (1)": "GÜENAGA Fernando",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2357,
+    "Asignatura-Actividad": "DIRECCIÓN, GESTIÓN Y EJECUCIÓN DE OBRAS",
+    "Correlatividad Débil": "2344-2345-2346",
+    "Correlatividad Fuerte": "2331-2335-2336-2337",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2357-01",
+        "Docente/s (1)": "FIORITO Gabriel / BERTOLI Sandra",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2358,
+    "Asignatura-Actividad": "SEMINARIO REDES DE INFRAESTRUCTURA URBANA",
+    "Correlatividad Débil": "2342-2345-2346",
+    "Correlatividad Fuerte": "2331-2335-2337",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2358-01",
+        "Docente/s (1)": "PIROLO Gabriel (Segundo Módulo)",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2358-02",
+        "Docente/s (1)": "PIROLO Gabriel (Primer Módulo)",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2359,
+    "Asignatura-Actividad": "SEMINARIO DE TASACIONES, PERITAJES Y VALUACIONES",
+    "Correlatividad Débil": "2344-2345-2346",
+    "Correlatividad Fuerte": "2331-2335-2336-2337",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2359-01",
+        "Docente/s (1)": "GÜENAGA Fernando (Primer módulo)",
+        "Día/s y horario/s": "SÁB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2359-02",
+        "Docente/s (1)": "GÜENAGA Fernando (Segundo módulo)",
+        "Día/s y horario/s": "SÁB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": 2361,
+    "Asignatura-Actividad": "TALLER DE ARQUITECTURA VI",
+    "Correlatividad Débil": "2352-2353-2356-2357-2358",
+    "Correlatividad Fuerte": "2342-2344-2345-2346-2351",
+    "Horas semanales teórico-prácticas": 7,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2361-01",
+        "Docente/s (1)": "INDART Rafael",
+        "Día/s y horario/s": "MAR 9 A 13 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "J101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "2361-02",
+        "Docente/s (1)": "LÁZARO Juan Pablo / GELVES David",
+        "Día/s y horario/s": "MAR 18 A 22 Y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "J101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": 2362,
+    "Asignatura-Actividad": "URBANISMO II",
+    "Correlatividad Débil": "2353-2358",
+    "Correlatividad Fuerte": "2341-2342-2343",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2362-01",
+        "Docente/s (1)": "JAIME Daniela del Valle / WEBER Sergio Gabriel",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "1 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": 2363,
+    "Asignatura-Actividad": "PRÁCTICA PROFESIONAL ASISTIDA",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2363-01",
+        "Docente/s (1)": "PINTO Miryam / BACANS Mariano",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "J003",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2371I",
+    "Asignatura-Actividad": "REQUISITO INGLÉS",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2371I-01",
+        "Docente/s (1)": "OGIAN Ariel",
+        "Día/s y horario/s": "LUN 8 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "16 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2371I-02",
+        "Docente/s (1)": "DE SANDE María Jimena",
+        "Día/s y horario/s": "MIÉ 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "1 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2371I",
+    "Asignatura-Actividad": "REQUISITO INGLÉS",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2371I-03",
+        "Docente/s (1)": "OGIAN Ariel",
+        "Día/s y horario/s": "LUN 8 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2371P",
+    "Asignatura-Actividad": "REQUISITO PORTUGUÉS",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2371P-01",
+        "Docente/s (1)": "GOLDEGOL Rose Cristina",
+        "Día/s y horario/s": "LUN 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "A002",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": 2372,
+    "Asignatura-Actividad": "REQUISITO DAC (Diseño Asistido por Computadora)",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2372-01",
+        "Docente/s (1)": "NUÑEZ Enrique Javier",
+        "Día/s y horario/s": "JUE 14 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "15 DORREGO",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2372-02",
+        "Docente/s (1)": "PASINI María Victoria",
+        "Día/s y horario/s": "SÁB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "15 DORREGO",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": 2372,
+    "Asignatura-Actividad": "REQUISITO DAC (Diseño Asistido por Computadora)",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2372-03",
+        "Docente/s (1)": "NUÑEZ Enrique Javier",
+        "Día/s y horario/s": "JUE 14 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Comisión": "2372-04",
+        "Docente/s (1)": "PASINI María Victoria",
+        "Día/s y horario/s": "SÁB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2373/A",
+    "Asignatura-Actividad": "SISTEMAS DE INFORMACIÓN GEOGRÁFICA",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2373A-01",
+        "Docente/s (1)": "FEVRE Mario",
+        "Día/s y horario/s": "LUN 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2373/A",
+    "Asignatura-Actividad": "SISTEMAS DE INFORMACIÓN GEOGRÁFICA",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2373A-02",
+        "Docente/s (1)": "FEVRE Mario",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2373/B",
+    "Asignatura-Actividad": "DISEÑO MOBILIARIO URBANO",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2373B-01",
+        "Docente/s (1)": "TARIZZO Luján",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2373/D",
+    "Asignatura-Actividad": "ARQUITECTURA DE PAISAJE",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2373D-01",
+        "Docente/s (1)": "GALDO NOVO Natalia",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2373/J",
+    "Asignatura-Actividad": "ARQUITECTURA, ACCESIBILIDAD Y ENVEJECIMIENTO POBLACIONAL",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2373J-01",
+        "Docente/s (1)": "PIERRE, Lorena Debora",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "2373/H",
+    "Asignatura-Actividad": " HÁBITAT: ABORDAJE URBANO HABITACIONAL",
+    "Correlatividad Débil": "2352-2356-2357-2358-2359",
+    "Correlatividad Fuerte": 2341,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2373H-01",
+        "Docente/s (1)": "GARCIA COLINAS Mariano",
+        "Día/s y horario/s": "SÁB 9  A  12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  }
+]

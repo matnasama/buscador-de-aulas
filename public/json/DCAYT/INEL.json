@@ -1,0 +1,1517 @@
+[
+  {
+    "Año": 1,
+    "Código": 2011,
+    "Asignatura-Actividad": "ÁLGEBRA Y GEOMETRÍA ANÁLITICA",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2011-01",
+        "Docente/s (1)": "FERNÁNDEZ Perla Daniela / LÓPEZ Ernesto",
+        "Día/s y horario/s": "MIÉ 8 A 10 Y VIE 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "6  DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "VIERNES"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2011-02",
+        "Docente/s (1)": "FERNÁNDEZ Perla Daniela / LÓPEZ Ernesto",
+        "Día/s y horario/s": "MIÉ 10 A 13 Y VIE 8 A 10",
+        "Turno": "Mañana",
+        "Aula/s": "6 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "VIERNES"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2011-03",
+        "Docente/s (1)": "JADER Daniel / CASAL Pablo",
+        "Día/s y horario/s": "LUN 15 A 18 Y VIE 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2011-04",
+        "Docente/s (1)": "TORNAY Martín / CESPEDES Marcelo",
+        "Día/s y horario/s": "LUN 18 A 21 Y MIÉ 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "17 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2011-05",
+        "Docente/s (1)": "SALDIVIA Diego / GODOY Claudio Leandro",
+        "Día/s y horario/s": "JUE 18 A 21 Y VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "17 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2012,
+    "Asignatura-Actividad": "ANÁLISIS MATEMÁTICO I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2012-01",
+        "Docente/s (1)": "PÍNGARO Gonzalo / SUELVES Nadia",
+        "Día/s y horario/s": "MIÉ 10 A 13 Y VIE 8 A 10",
+        "Turno": "Mañana",
+        "Aula/s": "13 DARACT l",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "VIERNES"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2012-02",
+        "Docente/s (1)": "PÍNGARO Gonzalo / SUELVES Nadia",
+        "Día/s y horario/s": "MIÉ 8 A 10 Y VIE 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "13 DARACT l",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "VIERNES"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "40969",
+        "Docente/s (1)": "CHORNY Fernando / REYNOSO Laura",
+        "Día/s y horario/s": "MAR 16 A 18 Y VIE 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "3 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "VIERNES"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2012-04",
+        "Docente/s (1)": "JADER Daniel / SALDIVIA Diego",
+        "Día/s y horario/s": "LUN 18 A 21 Y VIE 20 A 22",
+        "Turno": "Noche",
+        "Aula/s": "C201",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2013,
+    "Asignatura-Actividad": "FÍSICA I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2013-01",
+        "Docente/s (1)": "ASPIROZ BATALLA Gabriela / DELL'ARCIPRETE Leonardo",
+        "Día/s y horario/s": "SÁB 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "C201",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2013-02",
+        "Docente/s (1)": "DELL'ARCIPRETE Leonardo / DAMONTE Marcelo",
+        "Día/s y horario/s": "LUN 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "C201",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2013-03",
+        "Docente/s (1)": "DELL'ARCIPRETE Leonardo / HERNANDEZ Miriam",
+        "Día/s y horario/s": "JUE 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "C201",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2013-04",
+        "Docente/s (1)": "PROVENZANO Pablo",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "A202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2013-05",
+        "Docente/s (1)": "PROVENZANO Pablo / DAMONTE Marcelo",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "A202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2014,
+    "Asignatura-Actividad": "QUÍMICA GENERAL",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2014-01",
+        "Docente/s (1)": "BARRAGAN Ruben / SOSA Laura Valeria",
+        "Día/s y horario/s": "LUN Y MAR 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "13 DORREGO/ 11 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2014-02",
+        "Docente/s (1)": "A DESIGNAR / SCAGLIA RAT María Laura",
+        "Día/s y horario/s": "MIÉ Y SÁB 11 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "8 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2014-02",
+        "Docente/s (1)": "ORELLANO Miranda Sol / DEVESCOVI Francisco",
+        "Día/s y horario/s": "LUN Y JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "G003/ C201",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "41699",
+        "Docente/s (1)": "MARELLO Lucia / DUTRA ALCOBA Yohana Yisel",
+        "Día/s y horario/s": "LUN 18 A 21 Y SÁB 9 A 12",
+        "Turno": "Noche/Mañana",
+        "Aula/s": "7 DORREGO / 1 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2014,
+    "Asignatura-Actividad": "QUÍMICA GENERAL",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "41760",
+        "Docente/s (1)": "SOSA Laura Valeria / BARRAGAN Rubén",
+        "Día/s y horario/s": "LUN Y MAR 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "41791",
+        "Docente/s (1)": "ORELLANO Miranda Sol / CONOCHELLI María Belén",
+        "Día/s y horario/s": "LUN 18 A 21 Y SÁB 9 A 12",
+        "Turno": "Noche/Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2015,
+    "Asignatura-Actividad": "INFORMÁTICA I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42005",
+        "Docente/s (1)": "ESQUIVEL Gabriel / LAGOMARSINO Patricia",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42036",
+        "Docente/s (1)": "PELLETTIERI Daniel / LAGOMARSINO Patricia",
+        "Día/s y horario/s": "MAR 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42064",
+        "Docente/s (1)": "ROBLES Leandro / LENCINAS Pablo",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42095",
+        "Docente/s (1)": "PASCUAL Gustavo",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42125",
+        "Docente/s (1)": "PASCUAL Gustavo / ROBLES Leandro",
+        "Día/s y horario/s": "SÁB 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2015,
+    "Asignatura-Actividad": "INFORMÁTICA I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42156",
+        "Docente/s (1)": "ESQUIVEL Gabriel / LAGOMARSINO Patricia",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42186",
+        "Docente/s (1)": "PASCUAL Gustavo",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42217",
+        "Docente/s (1)": "PASCUAL Gustavo / ROBLES Leandro",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2016,
+    "Asignatura-Actividad": "INGLÉS TÉCNICO I",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42370",
+        "Docente/s (1)": "PALERMO Cecilia Anabella",
+        "Día/s y horario/s": "MIÉ 9 A12",
+        "Turno": "Mañana",
+        "Aula/s": "G001",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42401",
+        "Docente/s (1)": "CABALLERO Marcela",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "B002",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2016,
+    "Asignatura-Actividad": "INGLÉS TÉCNICO I",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42430",
+        "Docente/s (1)": "CABALLERO Marcela",
+        "Día/s y horario/s": "LUN 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "42461",
+        "Docente/s (1)": "PALERMO Cecilia Anabella",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": "2017R",
+    "Asignatura-Actividad": "REDES IA",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2017R-01",
+        "Docente/s (1)": "RIGANTI Daniel",
+        "Día/s y horario/s": "MAR 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": "2017R",
+    "Asignatura-Actividad": "REDES IA",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2017R-02",
+        "Docente/s (1)": "RIGANTI Daniel ",
+        "Día/s y horario/s": "MAR 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2017R-03",
+        "Docente/s (1)": "INDART Diego ",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": "2017M",
+    "Asignatura-Actividad": "ÓPTICA Y SONIDO",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2017M-01",
+        "Docente/s (1)": "DELL'ARCIPRETE Leonardo",
+        "Día/s y horario/s": "MAR 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "A202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": "2017M",
+    "Asignatura-Actividad": "ÓPTICA Y SONIDO",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2017M-02",
+        "Docente/s (1)": "PINI Osvaldo",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "A202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": "2017A",
+    "Asignatura-Actividad": "FUNDAMENTOS AGRONÓMICOS I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2017A-01",
+        "Docente/s (1)": "MASIA Gerardo",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "F004",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": "2017A",
+    "Asignatura-Actividad": "FUNDAMENTOS AGRONÓMICOS I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": null,
+        "Comisión": "2017A-02",
+        "Docente/s (1)": "MASIA Gerardo",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2021,
+    "Asignatura-Actividad": "ANÁLISIS MATEMÁTICO II",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2011-2012",
+        "Comisión": "44197",
+        "Docente/s (1)": "BONUCCI Pablo",
+        "Día/s y horario/s": "MAR 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "A002",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Correlatividades Sugeridas": "2011-2012",
+        "Comisión": "44228",
+        "Docente/s (1)": "BONUCCI Pablo",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "1 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "29/04 13/05 27/05 10/06 24/06"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2022,
+    "Asignatura-Actividad": "FÍSICA II",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2012-2013",
+        "Comisión": "44562",
+        "Docente/s (1)": "LUNA Diego / ORTUZAR Fabián",
+        "Día/s y horario/s": "SÁB 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "A202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Correlatividades Sugeridas": "2012-2013",
+        "Comisión": "44593",
+        "Docente/s (1)": "LUNA Diego / DE MICHELIS Cristian",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "A002",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2023,
+    "Asignatura-Actividad": "TÉCNICAS DIGITALES I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2015,
+        "Comisión": "44927",
+        "Docente/s (1)": "PELLETTIERI Daniel",
+        "Día/s y horario/s": "VIE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "1 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Correlatividades Sugeridas": 2015,
+        "Comisión": "44958",
+        "Docente/s (1)": "NIEVES Dalmiro",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "H101B",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2024,
+    "Asignatura-Actividad": "DISPOSITIVOS ELECTRÓNICOS",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2012-2014-2015",
+        "Comisión": "45292",
+        "Docente/s (1)": "GONZALEZ Carlos",
+        "Día/s y horario/s": "LUN 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "7 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      },
+      {
+        "Correlatividades Sugeridas": "2012-2014-2015",
+        "Comisión": "45323",
+        "Docente/s (1)": "ROSSI Pablo",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "B001",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2025,
+    "Asignatura-Actividad": "INFORMÁTICA II",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2011-2012-2015",
+        "Comisión": "45658",
+        "Docente/s (1)": "PINI Osvaldo",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B002",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2025,
+    "Asignatura-Actividad": "INFORMÁTICA II",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2011-2012-2015",
+        "Comisión": "45689",
+        "Docente/s (1)": "PELLETTIERI Daniel",
+        "Día/s y horario/s": "JUE 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2026,
+    "Asignatura-Actividad": "INGLÉS TÉCNICO II",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2016,
+        "Comisión": "46023",
+        "Docente/s (1)": "CABALLERO Marcela",
+        "Día/s y horario/s": "LUN 8 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "4 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2026,
+    "Asignatura-Actividad": "INGLÉS TÉCNICO II",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2016,
+        "Comisión": "46054",
+        "Docente/s (1)": "PALERMO Cecilia Anabella",
+        "Día/s y horario/s": "SÁB 8 A12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2027,
+    "Asignatura-Actividad": "PROBABILIDAD Y ESTADÍSTICA",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2016,
+        "Comisión": "46388",
+        "Docente/s (1)": "BUCCINO Soraya",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": "2028R",
+    "Asignatura-Actividad": "REDES IB",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2013 - 2017 R",
+        "Comisión": "2028R-01",
+        "Docente/s (1)": "CANTONE Osvaldo",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": "2028M",
+    "Asignatura-Actividad": "IMAGEN Y ACÚSTICA",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2013 - 2017 M",
+        "Comisión": "2028M-01",
+        "Docente/s (1)": "ESQUIVEL Gabriel",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": "2028A",
+    "Asignatura-Actividad": "FUNDAMENTOS AGRONÓMICOS II",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2013 - 2017 A",
+        "Comisión": "2028A-01",
+        "Docente/s (1)": "A DESIGNAR",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2031,
+    "Asignatura-Actividad": "ANÁLISIS DE SEÑALES Y SISTEMAS",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2021,
+        "Comisión": "47849",
+        "Docente/s (1)": "OLIVARES Daniel",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "12 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2032,
+    "Asignatura-Actividad": "TEORÍA DE LOS CIRCUITOS I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2021-2022",
+        "Comisión": "48214",
+        "Docente/s (1)": "SEOANE Miguel",
+        "Día/s y horario/s": "SÁB 8 A 13",
+        "Turno": "Noche",
+        "Aula/s": "G002",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2033,
+    "Asignatura-Actividad": "ELECTRÓNICA APLICADA I",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2022-2024",
+        "Comisión": "48580",
+        "Docente/s (1)": "PINI Osvaldo",
+        "Día/s y horario/s": "VIE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "1 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2034,
+    "Asignatura-Actividad": "TÉCNICAS DIGITALES II",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2023-2025",
+        "Comisión": "48945",
+        "Docente/s (1)": "CONEJEROS Cristian",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "15 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2035,
+    "Asignatura-Actividad": "INSTRUMENTOS Y MEDICIONES",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2022,
+        "Comisión": "49310",
+        "Docente/s (1)": "BIERZYCHUDEK Marcos",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "A202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2036,
+    "Asignatura-Actividad": "DIBUJO ASISTIDO POR PC",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2022,
+        "Comisión": "49675",
+        "Docente/s (1)": "FERNANDEZ, Marcelo Oscar",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "B101",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2036,
+    "Asignatura-Actividad": "DIBUJO ASISTIDO POR PC",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2022,
+        "Comisión": "49706",
+        "Docente/s (1)": "FERNÁNDEZ Marcelo Oscar",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": "2037M",
+    "Asignatura-Actividad": "GRABACIÓN",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2022,
+        "Comisión": "2037M-01",
+        "Docente/s (1)": "A DESIGNAR",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": "2037R",
+    "Asignatura-Actividad": "REDES IIA",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2028 R",
+        "Comisión": "2037R-01",
+        "Docente/s (1)": "INDART Diego",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": "2037A",
+    "Asignatura-Actividad": "MECANIZACIÓN AGRICOLA",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2028 A",
+        "Comisión": "2037A-01",
+        "Docente/s (1)": "MASIA Gerardo",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2041,
+    "Asignatura-Actividad": "TEORÍA DE LOS CIRCUITOS II",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2032,
+        "Comisión": "51502",
+        "Docente/s (1)": "NIEVES Dalmiro",
+        "Día/s y horario/s": "SÁB 9 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "B202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2042,
+    "Asignatura-Actividad": "ELECTRÓNICA APLICADA II",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2032-2033",
+        "Comisión": "51867",
+        "Docente/s (1)": "DONO Julia",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "B201B",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "2043R",
+    "Asignatura-Actividad": "ENTORNO C Y JAVA",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2025 - 2037 R",
+        "Comisión": "2043R-01",
+        "Docente/s (1)": "RODRIGUEZ Fernando Gabriel",
+        "Día/s y horario/s": "JUE 19 A 22",
+        "Turno": "Noche",
+        "Aula/s": "C202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "2043M",
+    "Asignatura-Actividad": "AUDIO DIGITAL",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2031 - 2037 M",
+        "Comisión": "2043M-01",
+        "Docente/s (1)": "MERCADO Mariano",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "B201B",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "2043A",
+    "Asignatura-Actividad": "TECNOLOGÍA INALÁMBRICA PARA EL AGRO",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2031 - 2037 A",
+        "Comisión": "2043A-01",
+        "Docente/s (1)": "CLEMARES Nicolás",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "9 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2044,
+    "Asignatura-Actividad": "MEDIOS DE ENLACE",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2021-2022",
+        "Comisión": "52597",
+        "Docente/s (1)": "GIUFFRIDA Pedro",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "H202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "2045M",
+    "Asignatura-Actividad": "SISTEMA DE VIDEO I",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2021-2022",
+        "Comisión": "2045M-01",
+        "Docente/s (1)": "YAPURA José Luis",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "2045R",
+    "Asignatura-Actividad": "SISTEMAS DE COMUNICACIONES I",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2031 - 2037 R",
+        "Comisión": "2045R-01",
+        "Docente/s (1)": "GIUFFRIDA Pedro",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "H101B",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": "2045A",
+    "Asignatura-Actividad": "ELECTRÓNICA APLICADA AL AGRO",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2033 - 2037 A",
+        "Comisión": "2045A-01",
+        "Docente/s (1)": "MOLTONI Andrés",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B201A",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2046,
+    "Asignatura-Actividad": "INGENIERÍA Y SOCIEDAD",
+    "Horas semanales teórico-prácticas": 2,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2033 - 2037 A",
+        "Comisión": "53328",
+        "Docente/s (1)": "NIEVES Dalmiro",
+        "Día/s y horario/s": "LUN 16 A 18",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2051,
+    "Asignatura-Actividad": "SISTEMAS DE CONTROL",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": 2041,
+        "Comisión": "55154",
+        "Docente/s (1)": "CERALLO Pablo",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "6 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2052,
+    "Asignatura-Actividad": "TALLER DE PROYECTO",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "*",
+        "Comisión": "55519",
+        "Docente/s (1)": "MERCADO Mariano",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "B201A",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "2053R",
+    "Asignatura-Actividad": "REDES IIB",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2045 R",
+        "Comisión": "2053R-01",
+        "Docente/s (1)": "CONEJEROS César",
+        "Día/s y horario/s": "SÁB 8 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "C202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "2053M",
+    "Asignatura-Actividad": "SISTEMAS DE VIDEO II",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2045 M",
+        "Comisión": "2053M-01",
+        "Docente/s (1)": "CATTANEO Juan Matías",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "7 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "2053A",
+    "Asignatura-Actividad": "SISTEMA DE POSICIONAMIENTO SATELITAL",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2044 - 2045 A",
+        "Comisión": "2053A-01",
+        "Docente/s (1)": "DE MICHELIS Cristian",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "H202",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2054,
+    "Asignatura-Actividad": "SEGURIDAD, HIGIENE Y MEDIO AMBIENTE",
+    "Horas semanales teórico-prácticas": 2,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "Ciclo incial",
+        "Comisión": "56250",
+        "Docente/s (1)": "ABRUZZINI Marina",
+        "Día/s y horario/s": "MAR 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "2071R/M",
+    "Asignatura-Actividad": "TRATAMIENTO DIGITAL DE SEÑALES",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2031 - 2034",
+        "Comisión": "2071R/M-01",
+        "Docente/s (1)": "SAR Federico",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B201A",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "2071A",
+    "Asignatura-Actividad": "SISTEMAS PARA AGRO METEOROLOGÍA",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2043 A - 2045 A",
+        "Comisión": "2071A-01",
+        "Docente/s (1)": "MOLTONI Andrés",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "H101A",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "2074R",
+    "Asignatura-Actividad": "SISTEMA DE COMUNICACIÓN III",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2045 R",
+        "Comisión": "2074R-01",
+        "Docente/s (1)": "MOLLO Juan Carlos",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "H201A",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": 2061,
+    "Asignatura-Actividad": "ECONOMÍA, PLANIFICACIÓN Y GESTIÓN",
+    "Horas semanales teórico-prácticas": 2,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "Ciclo Inicial",
+        "Comisión": "58807",
+        "Docente/s (1)": "DELL INMAGINE Guillermo",
+        "Día/s y horario/s": "LUN 20 A 22",
+        "Turno": "Noche",
+        "Aula/s": "B201B",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": "2062 R",
+    "Asignatura-Actividad": "SISTEMAS DISTRIBUIDOS",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2053 R",
+        "Comisión": "2062R-01",
+        "Docente/s (1)": "CONEJEROS César",
+        "Día/s y horario/s": "SÁB 13 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "C202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": "2062 M",
+    "Asignatura-Actividad": "TELEVISIÓN DIGITAL",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2053 M",
+        "Comisión": "2062M-01",
+        "Docente/s (1)": "SEOANE Miguel",
+        "Día/s y horario/s": "SÁB 13 A 18",
+        "Turno": "Mañana",
+        "Aula/s": "B001",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": "2062 A",
+    "Asignatura-Actividad": "SENSORES Y BUSES DE COMUNICACIÓN",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2051-2053 A",
+        "Comisión": "2062A-01",
+        "Docente/s (1)": "DE MICHELIS Cristian",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "14 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": 2063,
+    "Asignatura-Actividad": "LEGISLACIÓN Y EJERCICIO PROFESIONAL",
+    "Horas semanales teórico-prácticas": 2,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "Ciclo Inicial",
+        "Comisión": "59537",
+        "Docente/s (1)": "ULLUA Carlos Javier",
+        "Día/s y horario/s": "VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "B201B",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": "2064 R",
+    "Asignatura-Actividad": "REDES III",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2043 R - 2045 R",
+        "Comisión": "2064R-01",
+        "Docente/s (1)": "INDART Diego",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "C202",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": "2064 M",
+    "Asignatura-Actividad": "RUIDO ACÚSTICO",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2043 M - 2045 M",
+        "Comisión": "2064M-01",
+        "Docente/s (1)": "ARIAS Agustín Ylio",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B201B",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": "2064 A",
+    "Asignatura-Actividad": "DISEÑO DE DISPOSITIVOS PARA USO AGROPECUARIO",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "2043 A-2045 A",
+        "Comisión": "2064A-01",
+        "Docente/s (1)": "LABONIA Juan Manuel",
+        "Día/s y horario/s": "VIE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "F004",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 6,
+    "Código": 2080,
+    "Asignatura-Actividad": "PRÁCTICA PRE-PROFESIONAL SUPERVISADA",
+    "Horas semanales teórico-prácticas": "208 **",
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Correlatividades Sugeridas": "*",
+        "Comisión": "65746",
+        "Docente/s (1)": "MOLTONI Andrés",
+        "Día/s y horario/s": "LUN 18 A 20",
+        "Turno": "Noche",
+        "Aula/s": "B201B",
+        "Modalidad": "VIRTUAL C/ENCUENTROS PRESENCIALES",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  }
+]

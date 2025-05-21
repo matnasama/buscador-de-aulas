@@ -1,0 +1,1008 @@
+[
+  {
+    "Año": 1,
+    "Código": 2111,
+    "Asignatura-Actividad": "MATEMÁTICA I",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2111-01",
+        "Docente/s (1)": "GOMEZ Juan Pablo / DELGADINO Daiana",
+        "Día/s y horario/s": "MAR 10:30 A 13 Y JUE 8 A 10:30",
+        "Turno": "Mañana",
+        "Aula/s": "17 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "2111-02",
+        "Docente/s (1)": "RODRÍGUEZ URETA Hernán / HERNANDEZ Miriam",
+        "Día/s y horario/s": "MAR 18 A 21 Y MIÉ 20 A 22",
+        "Turno": "Noche",
+        "Aula/s": "4 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2111,
+    "Asignatura-Actividad": "MATEMÁTICA I",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2111-03",
+        "Docente/s (1)": "GOMEZ Juan Pablo Florentino / DELGADINO Daiana",
+        "Día/s y horario/s": "MAR 8 A 10 Y JUE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2112,
+    "Asignatura-Actividad": "FÍSICA ",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2112-01",
+        "Docente/s (1)": "A DESIGNAR",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "1 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2112,
+    "Asignatura-Actividad": "FÍSICA ",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2112-02",
+        "Docente/s (1)": "A  DESIGNAR",
+        "Día/s y horario/s": "LUN 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2113,
+    "Asignatura-Actividad": "DESARROLLO SUSTENTABLE Y DERECHOS HUMANOS",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2113-01",
+        "Docente/s (1)": "MAIORANA Miguel",
+        "Día/s y horario/s": "VIE 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "10 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2113,
+    "Asignatura-Actividad": "DESARROLLO SUSTENTABLE Y DERECHOS HUMANOS",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2113-02",
+        "Docente/s (1)": "MAIORANA Miguel",
+        "Día/s y horario/s": "VIE 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2114,
+    "Asignatura-Actividad": "INGLÉS I",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2114-01",
+        "Docente/s (1)": "ASSIS María Paula",
+        "Día/s y horario/s": "JUE 11 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "3 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      },
+      {
+        "Comisión": "2114-02",
+        "Docente/s (1)": "REYES Victoria Camila",
+        "Día/s y horario/s": "MIÉ 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "16 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2114,
+    "Asignatura-Actividad": "INGLÉS I",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2114-03",
+        "Docente/s (1)": "REYES Victoria Camila",
+        "Día/s y horario/s": "MIÉ 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2115,
+    "Asignatura-Actividad": "ECOLOGÍA Y RECURSOS NATURALES",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2115-01",
+        "Docente/s (1)": "a designar / GARCIA Victoria",
+        "Día/s y horario/s": "LUN 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "11 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2115,
+    "Asignatura-Actividad": "ECOLOGÍA Y RECURSOS NATURALES",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2115-02",
+        "Docente/s (1)": "CONOCHELLI María Belén / GARCÍA Victoria",
+        "Día/s y horario/s": "LUN 17 A 19 Y JUE 17 A 20",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2116,
+    "Asignatura-Actividad": "QUÍMICA AMBIENTAL I",
+    "Correlatividades": 2112,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2116-01",
+        "Docente/s (1)": "PADULLES Luz / LOMBARDO LUPANO Lucía",
+        "Día/s y horario/s": "MIÉ 9 A 11 Y VIE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "10 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2116,
+    "Asignatura-Actividad": "QUÍMICA AMBIENTAL I",
+    "Correlatividades": 2112,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2116-02",
+        "Docente/s (1)": "PADULLES Luz / LOMBARDO LUPANO Lucía",
+        "Día/s y horario/s": "MAR 18 A 21 Y MIÉ 18 A 20",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2117,
+    "Asignatura-Actividad": "SOCIOLOGÍA Y AMBIENTE",
+    "Correlatividades": 2112,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2117-01",
+        "Docente/s (1)": "PEREIRA Pablo / A DESIGNAR",
+        "Día/s y horario/s": "MAR 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2117,
+    "Asignatura-Actividad": "SOCIOLOGÍA Y AMBIENTE",
+    "Correlatividades": 2112,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2117-02",
+        "Docente/s (1)": "PEREIRA Pablo / BERNARDEZ BONGGI Verónica Analía",
+        "Día/s y horario/s": "VIE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2118,
+    "Asignatura-Actividad": "INGLÉS II",
+    "Correlatividades": 2114,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2118-01",
+        "Docente/s (1)": "DE SANDE María Jimena",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 2118,
+    "Asignatura-Actividad": "INGLÉS II",
+    "Correlatividades": 2114,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2118-02",
+        "Docente/s (1)": "ASSIS María Paula",
+        "Día/s y horario/s": "JUE 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2121,
+    "Asignatura-Actividad": "GEOLOGÍA AMBIENTAL",
+    "Correlatividades": 2115,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2121-01",
+        "Docente/s (1)": "LOZANO Jorge",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "B002",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2122,
+    "Asignatura-Actividad": "MATEMÁTICA II",
+    "Correlatividades": 2111,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2122-01",
+        "Docente/s (1)": "RODRÍGUEZ URETA Hernán / HERNANDEZ Miriam",
+        "Día/s y horario/s": "MAR 15 A 18 Y MIÉ 15 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "17 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2123,
+    "Asignatura-Actividad": "DERECHO AMBIENTAL",
+    "Correlatividades": 2113,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2123-01",
+        "Docente/s (1)": "ALTAMIRANDA Romina",
+        "Día/s y horario/s": "LUN 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "A002",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2124,
+    "Asignatura-Actividad": "ECONOMÍA I",
+    "Correlatividades": 2111,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2124-01",
+        "Docente/s (1)": "ECHANIZ Matias",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "F004",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2125,
+    "Asignatura-Actividad": "INGLÉS III",
+    "Correlatividades": 2118,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2125-01",
+        "Docente/s (1)": "GARABITO María Florencia",
+        "Día/s y horario/s": "LUN 8:30 A 11:30",
+        "Turno": "Mañana",
+        "Aula/s": "6 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "21/04, 28/04, 05/05, 23/06, 30/06, 07/07\t"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2125,
+    "Asignatura-Actividad": "INGLÉS III",
+    "Correlatividades": 2118,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2125-02",
+        "Docente/s (1)": "GARABITO María Florencia",
+        "Día/s y horario/s": "MAR 18:30 A 21:30",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2126,
+    "Asignatura-Actividad": "QUÍMICA AMBIENTAL II",
+    "Correlatividades": 2116,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2126-02",
+        "Docente/s (1)": "OSTERA Juan Manuel / RODRIGUEZ Florencia",
+        "Día/s y horario/s": "LUN 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2127,
+    "Asignatura-Actividad": "INDICADORES E ÍNDICES AMBIENTALES",
+    "Correlatividades": 2116,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2127-02",
+        "Docente/s (1)": "MACCAGNO Patricia",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2128,
+    "Asignatura-Actividad": "POBLACIÓN Y MOVIMIENTOS MIGRATORIOS",
+    "Correlatividades": 2117,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2128-02",
+        "Docente/s (1)": "MAIORANA Miguel",
+        "Día/s y horario/s": "SÁB 8 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 2129,
+    "Asignatura-Actividad": "MODELOS DE DESARROLLO Y AMBIENTE",
+    "Correlatividades": 2124,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2129-02",
+        "Docente/s (1)": "CAMPAGNA Juan Cruz",
+        "Día/s y horario/s": "VIE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2131,
+    "Asignatura-Actividad": "SISTEMAS URBANOS",
+    "Correlatividades": 2128,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2131-01",
+        "Docente/s (1)": "OKROGLIC Myriam",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "(27/3, 3/4, 8/5, 15/5, 29/5, 5/6, 26/6, 3/7)"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2132,
+    "Asignatura-Actividad": "ECONOMÍA II",
+    "Correlatividades": 2124,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2132-01",
+        "Docente/s (1)": "NICOLAU Esteban",
+        "Día/s y horario/s": "MAR 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "F004",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2133,
+    "Asignatura-Actividad": "CARTOGRAFÍA Y CATASTRO",
+    "Correlatividades": 2121,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2133-01",
+        "Docente/s (1)": "MARQUEZ Julieta",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "H101A",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2134,
+    "Asignatura-Actividad": "EVALUACIÓN DE IMPACTO AMBIENTAL I",
+    "Correlatividades": "2123-2126-2127",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2134-01",
+        "Docente/s (1)": "ABRUZZINI Marina",
+        "Día/s y horario/s": "MIÉ 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "17 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2135,
+    "Asignatura-Actividad": "SISTEMAS DE INFORMACIÓN GEOGRÁFICA",
+    "Correlatividades": "2127-2133",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2135-01",
+        "Docente/s (1)": "FEVRE Mario",
+        "Día/s y horario/s": "LUN 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "B101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2135,
+    "Asignatura-Actividad": "SISTEMAS DE INFORMACIÓN GEOGRÁFICA",
+    "Correlatividades": "2127-2133",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2135-02",
+        "Docente/s (1)": "FEVRE Mario",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2136,
+    "Asignatura-Actividad": "GESTIÓN DE RECURSOS NATURALES",
+    "Correlatividades": "2123-2132-2133",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2136-01",
+        "Docente/s (1)": "ALVAREZ Marcela Alejandra",
+        "Día/s y horario/s": "LUN 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2137,
+    "Asignatura-Actividad": "EVALUACIÓN DE IMPACTO AMBIENTAL II",
+    "Correlatividades": 2134,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2137-01",
+        "Docente/s (1)": "ABRUZZINI Marina",
+        "Día/s y horario/s": "JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 2138,
+    "Asignatura-Actividad": "USO DEL SUELO Y PLANIFICACIÓN TERRITORIAL",
+    "Correlatividades": "2123-2131-2133",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2138-01",
+        "Docente/s (1)": "PINTOS Mónica ",
+        "Día/s y horario/s": "VIE 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2141,
+    "Asignatura-Actividad": "GESTIÓN AMBIENTAL EN LA INDUSTRIA",
+    "Correlatividades": 2137,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2141-01",
+        "Docente/s (1)": "ABRUZZINI Marina",
+        "Día/s y horario/s": "MAR 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "H201A",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2142,
+    "Asignatura-Actividad": "IMPACTO SOCIOECONÓMICO DEL CAMBIO CLIMÁTICO",
+    "Correlatividades": "2129-2132-2137",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2142-01",
+        "Docente/s (1)": "SABBATELLA Ignacio",
+        "Día/s y horario/s": "MIÉ 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "18 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2143,
+    "Asignatura-Actividad": "GESTIÓN AMBIENTAL DE LA PRODUCCIÓN PRIMARIA",
+    "Correlatividades": "2135-2136-2137-2138",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2143-01",
+        "Docente/s (1)": "LOTO LUCIANA",
+        "Día/s y horario/s": "SÁB 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "A001",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2144,
+    "Asignatura-Actividad": "POLÍTICA AMBIENTAL PÚBLICA",
+    "Correlatividades": "2123-2127-2129",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2144-01",
+        "Docente/s (1)": "BERNARDEZ BONGGI Verónica Analía",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2145,
+    "Asignatura-Actividad": "SEMINARIO INTEGRADOR (**)",
+    "Correlatividades": "(***)",
+    "Horas semanales teórico-prácticas": 2,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2145-01",
+        "Docente/s (1)": "ABRUZZINI Marina",
+        "Día/s y horario/s": "VIE 17 A 19",
+        "Turno": "Noche",
+        "Aula/s": "B201A",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2146,
+    "Asignatura-Actividad": "SALUD Y EPIDEMIOLOGÍA",
+    "Correlatividades": "2127-2129-2131",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2146-01",
+        "Docente/s (1)": "CURIESES Silvana",
+        "Día/s y horario/s": "MIÉ 17 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2147,
+    "Asignatura-Actividad": "GESTIÓN DE RESIDUOS SÓLIDOS URBANOS",
+    "Correlatividades": "2135-2137-2138",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2147-01",
+        "Docente/s (1)": "DI FEDE Alicia",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2148,
+    "Asignatura-Actividad": "COMUNICACIÓN SOCIAL Y AMBIENTE",
+    "Correlatividades": "2117-2129",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2148-01",
+        "Docente/s (1)": "ESPINOZA ALMONACID Luis",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 2149,
+    "Asignatura-Actividad": "AMBIENTE LABORAL",
+    "Correlatividades": "2141-2143",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2149-01",
+        "Docente/s (1)": "ZANOLO Luciano\r\n",
+        "Día/s y horario/s": "MAR 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2151,
+    "Asignatura-Actividad": "GESTIÓN AMBIENTAL DE LA ENERGÍA",
+    "Correlatividades": 2142,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2151-01",
+        "Docente/s (1)": "SABBATELLA Ignacio",
+        "Día/s y horario/s": "LUN 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "18 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2152,
+    "Asignatura-Actividad": "GESTIÓN AMBIENTAL DE LOS RECURSOS HÍDRICOS Y SANEAMIENTO",
+    "Correlatividades": "2135-2136-2137",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2152-01",
+        "Docente/s (1)": "DE SIMONE, Silvia Noemi",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "B201A",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2153,
+    "Asignatura-Actividad": "GESTIÓN AMBIENTAL URBANA",
+    "Correlatividades": "2135-2137-2138-2144",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "2153-01",
+        "Docente/s (1)": "PINTOS Mónica",
+        "Día/s y horario/s": "MIÉ 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "15 DORREGO",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "26/03 16/04 30/04 14/05 2805 11/06 25/06"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2154,
+    "Asignatura-Actividad": "TALLER DE PRÁCTICA PRE-PROFESIONAL (***)",
+    "Correlatividades": 2145,
+    "Horas semanales teórico-prácticas": "***",
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "2154-01",
+        "Docente/s (1)": "ABRUZZINI Marina",
+        "Día/s y horario/s": "VIE 19.30 A 21.30",
+        "Turno": "Noche",
+        "Aula/s": "B201A",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2155,
+    "Asignatura-Actividad": "GESTIÓN DE EMERGENCIAS",
+    "Correlatividades": "2135-2145-2148",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2155-01",
+        "Docente/s (1)": "TORRES Martín",
+        "Día/s y horario/s": "JUE 18 A 23",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2156,
+    "Asignatura-Actividad": "GESTIÓN DE RESIDUOS PELIGROSOS Y PATOGÉNICOS",
+    "Correlatividades": "2141-2142-2145-2146",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2156-01",
+        "Docente/s (1)": "BARRAGAN Ayelen",
+        "Día/s y horario/s": "SÁB 9 A 14",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2157,
+    "Asignatura-Actividad": "FORMULACIÓN DE PROYECTOS Y FINANCIAMIENTO",
+    "Correlatividades": "2141-2142-2145-2146",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2157-01",
+        "Docente/s (1)": "RUBIO Gonzalo",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 2158,
+    "Asignatura-Actividad": "SISTEMAS DE REMEDIACIÓN",
+    "Correlatividades": "2141-2143",
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "2158-01",
+        "Docente/s (1)": "BARRAGAN Ayelen",
+        "Día/s y horario/s": "MAR 17 A 22",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  }
+]

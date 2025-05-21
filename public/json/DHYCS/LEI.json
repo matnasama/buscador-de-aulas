@@ -1,0 +1,382 @@
+[
+  {
+    "Año": 1,
+    "Código": 3411,
+    "Asignatura-Actividad": "ANTROPOLOGÍA SOCIAL",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3411-01",
+        "Docente/s (1)": "SCARFO Gabriela",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3412,
+    "Asignatura-Actividad": "INFANCIA Y EDUCACIÓN",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3412-01",
+        "Docente/s (1)": "CANCIANI María Laura",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "G002",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3413,
+    "Asignatura-Actividad": "METODOLOGÍA DE LA INVESTIGACIÓN EDUCATIVA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3413-01",
+        "Docente/s (1)": "VEZUB Lea",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "10 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3414,
+    "Asignatura-Actividad": "TEORÍA PEDAGÓGICA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3414-01",
+        "Docente/s (1)": "NARVAJA Pablo",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "2 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3415,
+    "Asignatura-Actividad": "TALLER DE INTEGRACIÓN CONCEPTUAL I",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 2.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3415-01",
+        "Docente/s (1)": "ZARATE Martha",
+        "Día/s y horario/s": "1eros y 3eros SÁB 9 A 15",
+        "Turno": "Mañana",
+        "Aula/s": "11 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3416,
+    "Asignatura-Actividad": "HISTORIA SOCIAL DE LA EDUCACIÓN EN AMÉRICA LATINA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3416-01",
+        "Docente/s (1)": "SANCHEZ Maria Laura",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3417,
+    "Asignatura-Actividad": "INVESTIGACIÓN E INNOVACIÓN DIDÁCTICA",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3417-01",
+        "Docente/s (1)": "MERINO, Estrella Graciela",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3418,
+    "Asignatura-Actividad": "NEUROPSICOLOGÍA DEL APRENDIZAJE",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3418-01",
+        "Docente/s (1)": "SANCHEZ Maria Laura",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 3419,
+    "Asignatura-Actividad": "TALLER DE INTEGRACIÓN CONCEPTUAL II",
+    "Correlatividades": null,
+    "Horas semanales teórico-prácticas": 2.5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3419-01",
+        "Docente/s (1)": "AGÜERO Nancy",
+        "Día/s y horario/s": "1eros y 3eros SÁB 9 A 15",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3421,
+    "Asignatura-Actividad": "CONSTRUCCIÓN CURRICULAR EN EL NIVEL INICIAL",
+    "Correlatividades": 3413,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3421-01",
+        "Docente/s (1)": "FERREYRO Juana",
+        "Día/s y horario/s": "MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "4 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3422,
+    "Asignatura-Actividad": "INTEGRACIÓN E INCLUSIÓN",
+    "Correlatividades": 3413,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3422-01",
+        "Docente/s (1)": "RODRIGUEZ GARCIA, Noelia",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "H101A",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3423,
+    "Asignatura-Actividad": "POLÍTICA EDUCATIVA",
+    "Correlatividades": 3411,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3423-01",
+        "Docente/s (1)": "BARRERA, Karina",
+        "Día/s y horario/s": "JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "10 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3424,
+    "Asignatura-Actividad": "TALLER DE INTEGRACIÓN CONCEPTUAL III",
+    "Correlatividades": 3411,
+    "Horas semanales teórico-prácticas": 2.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3424-01",
+        "Docente/s (1)": "AGÜERO Nancy",
+        "Día/s y horario/s": "1eros y 3eros SÁB 9 A 15",
+        "Turno": "Mañana",
+        "Aula/s": "12 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3425,
+    "Asignatura-Actividad": "DERECHOS HUMANOS",
+    "Correlatividades": 3411,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3425-01",
+        "Docente/s (1)": "CANCIANI María Laura",
+        "Día/s y horario/s": "LUN 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3426,
+    "Asignatura-Actividad": "PLANEAMIENTO PARTICIPATIVO DE LA EDUCACIÓN",
+    "Correlatividades": 3411,
+    "Horas semanales teórico-prácticas": 4.5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3426-01",
+        "Docente/s (1)": "VAZQUEZ Mariana",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3427,
+    "Asignatura-Actividad": "TALLER DE PROYECTO",
+    "Correlatividades": 3411,
+    "Horas semanales teórico-prácticas": 2.5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3427-01",
+        "Docente/s (1)": "DUMM Zelma",
+        "Día/s y horario/s": "2dos y 4tos SÁB 9 A 15",
+        "Turno": "Mañana",
+        "Aula/s": "16 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3427,
+    "Asignatura-Actividad": "TALLER DE PROYECTO",
+    "Correlatividades": 3411,
+    "Horas semanales teórico-prácticas": 2.5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3427-02",
+        "Docente/s (1)": "DUMM Zelma",
+        "Día/s y horario/s": "2dos y 4tosSÁB 9 A 15",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3428,
+    "Asignatura-Actividad": "TIC'S ORIENTADAS A LA EDUCACIÓN",
+    "Correlatividades": 3411,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3428-01",
+        "Docente/s (1)": "TOMAS Veronica Silvia",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad Cursada": "VIRTUAL CON ENCUENTROS PRESENCIALES",
+        "Clase presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3429,
+    "Asignatura-Actividad": "PROYECTO FINAL DE INTERVENCIÓN",
+    "Correlatividades": 3416,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "3429-01",
+        "Docente/s (1)": "FERNÁNDEZ Andrea",
+        "Día/s y horario/s": "1eros y 3eros SÁB 9 A 15",
+        "Turno": "Mañana",
+        "Aula/s": "7 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 3429,
+    "Asignatura-Actividad": "PROYECTO FINAL DE INTERVENCIÓN",
+    "Correlatividades": 3416,
+    "Horas semanales teórico-prácticas": 5,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "3429-01",
+        "Docente/s (1)": "FERNÁNDEZ Andrea",
+        "Día/s y horario/s": "1eros y 3eros SÁB 9 A 15",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase presencial": "TODAS"
+      }
+    ]
+  }
+]

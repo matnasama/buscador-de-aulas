@@ -1,0 +1,676 @@
+[
+  {
+    "Año": 3,
+    "Código": 1331,
+    "Asignatura-Actividad": "INDICADORES ECONÓMICOS Y CUENTAS NACIONALES",
+    "Correlatividades": 1021,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1331-01",
+        "Docente/s (1)": "MONTAGU Haroldo Arian / GONZALEZ ALVARISQUETA Soledad",
+        "Día/s y horario/s": "MAR 18 A 20 Y MIÉ 18 A 20",
+        "Turno": "Noche",
+        "Aula": "G002",
+        "Modalidad Cursada": "PRESENCIAL C/ACTIVIDADES VIRTUALES***",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 1332,
+    "Asignatura-Actividad": "HISTORIA Y EPISTEMOLOGÍA DEL PENSAMIENTO ECONÓMICO",
+    "Correlatividades": 1021,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1332-01",
+        "Docente/s (1)": "CRESPO Eduardo / BECHAROUCH Jaqueline",
+        "Día/s y horario/s": "MIÉ 20 A 22 Y VIE 18 A 22",
+        "Turno": "Noche",
+        "Aula": "16 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIERCOLES"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 1333,
+    "Asignatura-Actividad": "MATEMÁTICA PARA ECONOMISTAS",
+    "Correlatividades": "1013-1021",
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1333-01",
+        "Docente/s (1)": "GOSPARINI Florencia / RAMOS Graciela / AGOSTINO Rodrigo Javier",
+        "Día/s y horario/s": "LUN Y JUE 18 A 22",
+        "Turno": "Noche",
+        "Aula": "14 DORREGO",
+        "Modalidad Cursada": "PRRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 1334,
+    "Asignatura-Actividad": "MACROECONOMÍA SUPERIOR",
+    "Correlatividades": "1025-1333",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1334-01",
+        "Docente/s (1)": "AMICO Fabián / CORDOBA Fernando",
+        "Día/s y horario/s": "MIÉ 18 A 22 Y VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 1335,
+    "Asignatura-Actividad": "ECONOMÍA SECTORIAL Y REGIONAL ARGENTINA",
+    "Correlatividades": 1331,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1335-01",
+        "Docente/s (1)": "SANCHEZ Adriana / GONZALEZ ALVARISQUETA Soledad",
+        "Día/s y horario/s": "LUN 18 A 22 y JUE 18 A 20",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL CON ACTIVIDADES VIRTUALES",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 1336,
+    "Asignatura-Actividad": "ANTROPOLOGÍA ECONÓMICA",
+    "Correlatividades": 1021,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1336-01",
+        "Docente/s (1)": "MUÑIZ Marcelo / FANEGO Fabián",
+        "Día/s y horario/s": "MAR 18 A 22 y JUE 20 A 22",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 1341,
+    "Asignatura-Actividad": "ECONOMÍA INTERNACIONAL",
+    "Correlatividades": 1334,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1341-01",
+        "Docente/s (1)": "BERTONI Ramiro Luis /ZIRULNIK Federico",
+        "Día/s y horario/s": "VIE 18 A 20 Y SÁB 9 A 13",
+        "Turno": "Noche",
+        "Aula": "8 DORREGO / 7 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 1342,
+    "Asignatura-Actividad": "ECONOMETRÍA",
+    "Correlatividades": 1024,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1342-01",
+        "Docente/s (1)": "MARIO Agustin Ángel/LAUSTONAU Alan",
+        "Día/s y horario/s": "MAR Y MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula": "B101 / 17 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 1343,
+    "Asignatura-Actividad": "MICROECONOMÍA SUPERIOR",
+    "Correlatividades": "1025-1333",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1343-01",
+        "Docente/s (1)": "ALVAREZ Ramiro / FANEGO Fabián",
+        "Día/s y horario/s": "LUN 18 A 22 Y JUE 18 A 20",
+        "Turno": "Noche",
+        "Aula": "8 DARACT II / 18 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 1344,
+    "Asignatura-Actividad": "CRECIMIENTO, DESARROLLO Y PLANIFICACIÓN",
+    "Correlatividades": 1334,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1344-01",
+        "Docente/s (1)": "ROBBA Alejandro / BENITEZ Lucas",
+        "Día/s y horario/s": "MAR 18 A 22 Y JUE 20 A 22",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 1345,
+    "Asignatura-Actividad": "ECONOMÍA DEL TRABAJO Y DISTRIBUCIÓN DEL INGRESO",
+    "Correlatividades": "1334-1343",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1345-01",
+        "Docente/s (1)": "GIOSA ZUAZUA Noemí / DE VILLALOBOS Alfonso",
+        "Día/s y horario/s": "LUN 18 A 22 Y JUE 18 A 20",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 4,
+    "Código": 1346,
+    "Asignatura-Actividad": "GESTIÓN PRESUPUESTARIA Y FINANZAS PÚBLICAS",
+    "Correlatividades": 1331,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1346-01",
+        "Docente/s (1)": "ANDRADE Hugo Omar / GOSPARINI Florencia",
+        "Día/s y horario/s": "MIÉ 18 A 22 Y VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": "1153/1351",
+    "Asignatura-Actividad": "FORMULACIÓN Y EVALUACIÓN ECONÓMICA Y SOCIAL DE PROYECTOS",
+    "Correlatividades": 1027,
+    "Horas semanales teórico-prácticas": 8,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1351-01",
+        "Docente/s (1)": "KLEIN Walter / RUBIO Gonzalo",
+        "Día/s y horario/s": "LUN 18  A 22 Y VIE 18 A 20",
+        "Turno": "Noche",
+        "Aula": "4 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL CON ACTIVIDADES VIRTUALES",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 1352,
+    "Asignatura-Actividad": "TERRITORIO, AMBIENTE Y DESARROLLO LOCAL",
+    "Correlatividades": "1335-1344",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1352-01",
+        "Docente/s (1)": "SANCHEZ Esteban",
+        "Día/s y horario/s": "MAR 18 A 20 Y JUE 18 A 20",
+        "Turno": "Noche",
+        "Aula": "14 DARACT I / 8 DARACT II",
+        "Modalidad Cursada": "PRESENCIAL C/ACTIVIDADES VIRTUALES***",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 1353,
+    "Asignatura-Actividad": "DINERO, CRÉDITO Y BANCOS",
+    "Correlatividades": 1334,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1353-01",
+        "Docente/s (1)": "DE LUCCHI, Juan Matias / CAÑETE Alejandro Nahuel",
+        "Día/s y horario/s": "MIÉ 18 A 22 Y JUE 20 A 22",
+        "Turno": "Noche",
+        "Aula": "8 DARACT I / 18 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 1354,
+    "Asignatura-Actividad": "SISTEMAS ECONÓMICOS COMPARADOS",
+    "Correlatividades": "1334-1343",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1354-01",
+        "Docente/s (1)": "CRESPO Eduardo Alberto / MUÑIZ Marcelo",
+        "Día/s y horario/s": "JUE 18 A 21 Y MIÉ 18 A 21",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIERCOLES"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 1355,
+    "Asignatura-Actividad": "ECONOMÍA SOCIAL",
+    "Correlatividades": "1343-1352",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1355-01",
+        "Docente/s (1)": "AGOSTINO Rodrigo / GONZALEZ ALVARISQUETA Soledad",
+        "Día/s y horario/s": "LUN 18 A 21 y VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 5,
+    "Código": 1356,
+    "Asignatura-Actividad": "POLÍTICA ECONÓMICA ARGENTINA",
+    "Correlatividades": "1334-1343",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1356-01",
+        "Docente/s (1)": "FIORITO Alejandro / ALVAREZ Ramiro",
+        "Día/s y horario/s": "MAR 18 A 21 y SÁB 9 A 12",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1161I /1261I/ 1361I/1461I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: INGLÉS I",
+    "Correlatividades": "1334-1343",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1361I-01",
+        "Docente/s (1)": "ASSIS María Paula",
+        "Día/s y horario/s": "MAR 9 A 12",
+        "Turno": "Mañana",
+        "Aula": "6 DARACT II",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1161I /1261I/ 1361I/1461I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: INGLÉS I",
+    "Correlatividades": "1334-1343",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1361I-02",
+        "Docente/s (1)": "ASSIS María Paula",
+        "Día/s y horario/s": "MAR 13 A 16",
+        "Turno": "Tarde",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1162I/1262I/ 1362I/1462I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: INGLÉS II",
+    "Correlatividades": "1161 I / 1261 I / 1361 I / 1461 I",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1362I-01",
+        "Docente/s (1)": "GARABITO Florencia",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula": "5 DARACT II",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "26/4, 24/5, 21/6, 28/6, 5/7"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1162I/1262I/ 1362I/1462I",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: INGLÉS II",
+    "Correlatividades": "1161 I / 1261 I / 1361 I / 1461 I",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1362I-02",
+        "Docente/s (1)": "GARABITO Florencia",
+        "Día/s y horario/s": "SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1161P/1261P/ 1361P/1461P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: PORTUGUÉS I",
+    "Correlatividades": "1161 I / 1261 I / 1361 I / 1461 I",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1361P-01",
+        "Docente/s (1)": "GOLDEGOL Rose Cristina",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula": "9 DARACT I",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1161P/1261P/ 1361P/1461P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: PORTUGUÉS I",
+    "Correlatividades": "1161 I / 1261 I / 1361 I / 1461 I",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1361P-02",
+        "Docente/s (1)": "A Designar",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1162P/1262P/ 1362P/1462P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: PORTUGUÉS II",
+    "Correlatividades": "1161 P / 1261 P / 1361 P / 1461 P",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1362P-01",
+        "Docente/s (1)": "PROBO CHAVES Alzira Celia",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula": "8 DORREGO",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1162P/1262P/ 1362P/1462P",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: PORTUGUÉS II",
+    "Correlatividades": "1161 P / 1261 P / 1361 P / 1461 P",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1362P-02",
+        "Docente/s (1)": "PROBO CHAVES Alzira Celia",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1161F/1261F/ 1361F/1461F",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: FRANCÉS I",
+    "Correlatividades": "1161 P / 1261 P / 1361 P / 1461 P",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1361F-01",
+        "Docente/s (1)": "LABADO Silvia Nora",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula": "2 DARACT I",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1162F/1262F/ 1362F/1462F",
+    "Asignatura-Actividad": "IDIOMA OPTATIVO: FRANCÉS II",
+    "Correlatividades": "1161 F / 1261 F/ 1361 F / 1461 F",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1362F-01",
+        "Docente/s (1)": "LABADO Silvia Nora",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1163N/1263N/ 1363N/1463N",
+    "Asignatura-Actividad": "SEMINARIO TALLER OPTATIVO: FINANZAS CORPORATIVAS   ",
+    "Correlatividades": "1161 F / 1261 F/ 1361 F / 1461 F",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1363N-01",
+        "Docente/s (1)": "ROBLEDO Andrea",
+        "Día/s y horario/s": "MIÉ 18 A 22",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1163O/1263O/ 1363O/1463O",
+    "Asignatura-Actividad": "SEMINARIO TALLER OPTATIVO: MÉTODOS Y TÉCNICAS DE INVESTIGACIÓN PARA GESTIÓN Y ORGANIZACIONES",
+    "Correlatividades": "1161 F / 1261 F/ 1361 F / 1461 F",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1363O-01",
+        "Docente/s (1)": "HENRY María Laura",
+        "Día/s y horario/s": "JUE 15 A 18",
+        "Turno": "Tarde",
+        "Aula": "10 DARACT I",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1163I/1263I 1363I/1463I",
+    "Asignatura-Actividad": "SEMINARIO TALLER OPTATIVO: CONSULTORÍA ORGANIZACIONAL",
+    "Correlatividades": "1161 F / 1261 F/ 1361 F / 1461 F",
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1363I-01",
+        "Docente/s (1)": "MANZOTTI Hernán",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1163Q/1263Q/ 1363Q",
+    "Asignatura-Actividad": "SEMINARIO OPTATIVO: TALLER DE LIQUIDACIÓN DE SUELDOS Y JORNALES",
+    "Correlatividades": "1161 F / 1261 F/ 1361 F / 1461 F",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1363Q-01",
+        "Docente/s (1)": "BARRIOS Ignacio",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula": "5 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "1363Q-02",
+        "Docente/s (1)": "ARNAIZ Analía Gabriela",
+        "Día/s y horario/s": "VIE 14 A 17",
+        "Turno": "Noche",
+        "Aula": "5 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1163Q/1263Q/ 1363Q",
+    "Asignatura-Actividad": "SEMINARIO OPTATIVO: TALLER DE LIQUIDACIÓN DE SUELDOS Y JORNALES",
+    "Correlatividades": "1161 F / 1261 F/ 1361 F / 1461 F",
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "1363Q-03",
+        "Docente/s (1)": "ARNAIZ Analía Gabriela",
+        "Día/s y horario/s": "VIE 18 A 21",
+        "Turno": "Noche",
+        "Aula": "***",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1163U/1263U/1363U/1463",
+    "Asignatura-Actividad": "SEMINARIO OPTATIVO: NORMAS INTERNACIONALES DE INFORMACIÓN FINANCIERA",
+    "Correlatividades": "1161 F / 1261 F/ 1361 F / 1461 F",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "1363U-01",
+        "Docente/s (1)": "CHUL Carolina",
+        "Día/s y horario/s": "MAR 18 A 21",
+        "Turno": "Noche",
+        "Aula": "11 DARACT I",
+        "Modalidad Cursada": "SEMIPRESENCIAL",
+        "Clase Presencial": "Según cronograma del docente"
+      }
+    ]
+  },
+  {
+    "Año": "-",
+    "Código": "1164/1264/1364",
+    "Asignatura-Actividad": "TALLER DE PASANTÍA Y PRÁCTICA PRE-PROFESIONAL",
+    "Correlatividades": "(2)",
+    "Horas semanales teórico-prácticas": 12,
+    "Cuatrimestre": "1-2",
+    "Comisiones": [
+      {
+        "Comisión": "1364-01",
+        "Docente/s (1)": "SANCHEZ Adriana / KLEIN Walter Rolando/HENRY Laura /BECHAROUCH Jaqueline/FLORES Cecilia/CHACON Johana",
+        "Día/s y horario/s": "SÁB 13 A 17",
+        "Turno": "Tarde",
+        "Aula": "2 DORREGO",
+        "Modalidad Cursada": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  }
+]

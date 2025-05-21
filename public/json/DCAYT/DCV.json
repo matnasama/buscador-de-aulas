@@ -1,0 +1,1278 @@
+[
+  {
+    "Año": 1,
+    "Código": 240010,
+    "Asignatura-Actividad": "TALLER DE DISEÑO I",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240010-01",
+        "Docente/s (1)": "DE ROSE Roberto / CIAN Mariana / ESCUDERO Romina",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240010-02",
+        "Docente/s (1)": "DE ROSE Roberto / SAVIA Micaela Victoria / ORAZIETTI Nadia",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240010-03",
+        "Docente/s (1)": "DE ROSE Roberto / MOLERO Sandra / MENENDEZ Natalia",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240010-04",
+        "Docente/s (1)": "FELIPPE Mirela / TANUZ Leila / CEVALLOS Luciana",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "4 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240010-05",
+        "Docente/s (1)": "FELIPPE Mirela / FERREYRA Brenda / FORMICA Esteban",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240010-06",
+        "Docente/s (1)": "FELIPPE Mirela / GUISER Julieta / FREGA Laura",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "5 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240011,
+    "Asignatura-Actividad": "TECNOLOGÍA I",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240011-01",
+        "Docente/s (1)": "JAUREGUI Marianela / FERREYRA Brenda / ORAZETTI Nadia",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240011-02",
+        "Docente/s (1)": "JAUREGUI Marianela / CIAN Mariana / ESCUDERO Romina",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "4 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240011-03",
+        "Docente/s (1)": "JAUREGUI Marianela / TANUZ Leila / FORMICA Esteban",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240011-04",
+        "Docente/s (1)": "CIVIELLO Soledad / ZERVINO Florenica / MENENDEZ Natalia",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240011-05",
+        "Docente/s (1)": "CIVIELLO Soledad / VARGAS Elizabeth / CEVALLOS Luciana",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240011-06",
+        "Docente/s (1)": "CIVIELLO Soledad / GUISER Julieta / FREGA Laura",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "5 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240012,
+    "Asignatura-Actividad": "DIBUJO",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240012-01",
+        "Docente/s (1)": "FELIPPE Mirela / BADENAS Patricia / CRESPO Facundo",
+        "Día/s y horario/s": "MAR 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240012-02",
+        "Docente/s (1)": "FELIPPE Mirela / BUCHACRA Mariela / CEVALLOS Luciana",
+        "Día/s y horario/s": "MAR 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "19 DARACT 1",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240012-03",
+        "Docente/s (1)": "FELIPPE Mirela / JORGE Paula / CIABATTARI Johanna ",
+        "Día/s y horario/s": "MAR 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "5  DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240012-04",
+        "Docente/s (1)": "VARGAS Elizabeth / ORAZETTI Nadia ",
+        "Día/s y horario/s": "MAR 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "4 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240012-05",
+        "Docente/s (1)": "SAVIA Micaela Victoria / BENEDETTI Gustavo",
+        "Día/s y horario/s": "MAR 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "J101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240012-06",
+        "Docente/s (1)": "CHERNY Laura  / LÓPEZ Andrea",
+        "Día/s y horario/s": "MAR 13 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240013,
+    "Asignatura-Actividad": "MATEMÁTICA",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240013-01",
+        "Docente/s (1)": "SALDIVIA Diego",
+        "Día/s y horario/s": "JUE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "J101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-02",
+        "Docente/s (1)": "GUERRERO Virginia ",
+        "Día/s y horario/s": "JUE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-03",
+        "Docente/s (1)": "LÓPEZ Ernesto",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "3 DORREGO",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-04",
+        "Docente/s (1)": "REYNOSO Laura",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "G001",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-05",
+        "Docente/s (1)": "ACOSTA PEREIRA René",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "A003",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-06",
+        "Docente/s (1)": "COLL Pablo",
+        "Día/s y horario/s": "JUE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "K004",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-07",
+        "Docente/s (1)": "REYNOSO Laura",
+        "Día/s y horario/s": "VIE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-08",
+        "Docente/s (1)": "LÓPEZ Ernesto",
+        "Día/s y horario/s": "VIE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "J101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-09",
+        "Docente/s (1)": "BRAVO Silvio Damián",
+        "Día/s y horario/s": "VIE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240013-10",
+        "Docente/s (1)": "COLL Pablo",
+        "Día/s y horario/s": "VIE 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "13 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240014,
+    "Asignatura-Actividad": "FÍSICA",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": null,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240014-01",
+        "Docente/s (1)": "CABEZÓN Mariano ",
+        "Día/s y horario/s": "JUE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240014-02",
+        "Docente/s (1)": "ASPIROZ BATALLA Gabriela ",
+        "Día/s y horario/s": "JUE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240014-03",
+        "Docente/s (1)": "VIGO DEANDREIS Leandro",
+        "Día/s y horario/s": "JUE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240014-04",
+        "Docente/s (1)": "CURES Lorena",
+        "Día/s y horario/s": "JUE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240014-05",
+        "Docente/s (1)": "CABEZÓN Mariano ",
+        "Día/s y horario/s": "VIE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240014-06",
+        "Docente/s (1)": "ASPIROZ BATALLA Gabriela ",
+        "Día/s y horario/s": "VIE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "18 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240014-07",
+        "Docente/s (1)": "SALEMI Francisco ",
+        "Día/s y horario/s": "VIE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240014-08",
+        "Docente/s (1)": "ARAMBURU Germán ",
+        "Día/s y horario/s": "VIE 13.30 A 16.30",
+        "Turno": "Tarde",
+        "Aula/s": "19 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240015,
+    "Asignatura-Actividad": "TALLER DE DISEÑO II",
+    "Correlatividad Débil": null,
+    "Correlatividad Fuerte": 240010,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240015-01",
+        "Docente/s (1)": "DE ROSE Roberto / CIAN Mariana / ESCUDERO Romina",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240015-02",
+        "Docente/s (1)": "DE ROSE Roberto / SAVIA Micaela Victoria / ORAZETTI Nadia",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240015-03",
+        "Docente/s (1)": "DE ROSE Roberto / MOLERO Sandra / MENENDEZ Natalia",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240015-04",
+        "Docente/s (1)": "FELIPPE Mirela / TANUZ Leila / CEVALLOS Luciana",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240015-05",
+        "Docente/s (1)": "FELIPPE Mirela / FERREYRA Brenda / FORMICA Esteban",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240015-06",
+        "Docente/s (1)": "FELIPPE Mirela / GUISER Julieta / FREGA Laura",
+        "Día/s y horario/s": "LUN Y MIÉ 13 A 16",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240016,
+    "Asignatura-Actividad": "TECNOLOGÍA II",
+    "Correlatividad Débil": 240011,
+    "Correlatividad Fuerte": 240010,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240016-01",
+        "Docente/s (1)": "JAUREGUI Marianela / FERREYRA Brenda / ORAZETTI Nadia",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240016-02",
+        "Docente/s (1)": "JAUREGUI Marianela / CIAN Mariana / ESCUDERO Romina",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240016-03",
+        "Docente/s (1)": "JAUREGUI Marianela / ORAZIETTI Nadia / CEVALLOS Luciana",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240016-04",
+        "Docente/s (1)": "CIVIELLO Soledad / TANUZ Leila / FORMICA Esteban",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240016-05",
+        "Docente/s (1)": "CIVIELLO Soledad / GUISER Julieta / FREGA Laura",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240016-06",
+        "Docente/s (1)": "CIVIELLO Soledad / VARGAS Elizabeth / MENENDEZ Natalia",
+        "Día/s y horario/s": "LUN Y MIÉ 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240017,
+    "Asignatura-Actividad": "MORFOLOGÍA",
+    "Correlatividad Débil": 240012,
+    "Correlatividad Fuerte": 240010,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240017-01",
+        "Docente/s (1)": "FELIPPE Mirela / BADENAS Patricia / CRESPO Facundo",
+        "Día/s y horario/s": "MAR 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240017-02",
+        "Docente/s (1)": "FELIPPE Mirela / MOLERO Sandra / BENEDETTI Gustavo",
+        "Día/s y horario/s": "MAR 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240017-03",
+        "Docente/s (1)": "FELIPPE Mirela / JORGE Paula / CEVALLOS Luciana",
+        "Día/s y horario/s": "MAR 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240017-04",
+        "Docente/s (1)": "CHERNY Laura / SAVIA Micaela Victoria / ZUFRIATEGUI Macarena",
+        "Día/s y horario/s": "MAR 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240017-05",
+        "Docente/s (1)": "CHERNY Laura / LÓPEZ Andrea / A DESIGNAR ",
+        "Día/s y horario/s": "MAR 14 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 1,
+    "Código": 240018,
+    "Asignatura-Actividad": "PROBLEMAS SOCIECONÓMICOS ARGENTINOS",
+    "Correlatividad Débil": 240012,
+    "Correlatividad Fuerte": 240010,
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240018-01 (2)",
+        "Docente/s (1)": "DAMATO Marisa / MONTEAGUDO Paula",
+        "Día/s y horario/s": "LUN Y JUE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-02 (2)",
+        "Docente/s (1)": "VIGO DEANDREIS Mariano Gabriel / GIORGETTI Daniel",
+        "Día/s y horario/s": "LUN Y JUE 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-03 (2)",
+        "Docente/s (1)": "VICENTE Maximiliano Gastón",
+        "Día/s y horario/s": "MAR Y VIE 8 A 11",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-04 (2)",
+        "Docente/s (1)": "ZAMBON Mariel Beatriz",
+        "Día/s y horario/s": "MAR Y VIE 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-05 (2)",
+        "Docente/s (1)": "CAPRIA Nicolas Antonio/SOTELO Julian",
+        "Día/s y horario/s": "LUN Y JUE 18 A 21",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-06 (2)",
+        "Docente/s (1)": "TARUSELLI Gabriel Darío/SANCHEZ Ignacio",
+        "Día/s y horario/s": "MIÉ 18 A 21 Y SÁB 12 A 15",
+        "Turno": "Noche/Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-07 (2)",
+        "Docente/s (1)": "A designar /SANCHEZ ignacio",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y SÁB 9 A 12",
+        "Turno": "Tarde/Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-08 (2)",
+        "Docente/s (1)": "MENENDEZ Graciela/CARLOS Roxana",
+        "Día/s y horario/s": "JUE 15 A 18 Y SÁB 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-09 (2)",
+        "Docente/s (1)": "DAMATO Marisa/MANTEROLA Juan",
+        "Día/s y horario/s": "JUE 12 A 15 Y SÁB 9 A 12",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-10 (2)",
+        "Docente/s (1)": "CAPRIA Nicolas Antonio/VIGO DE ANDREIS Mariano",
+        "Día/s y horario/s": "JUE 15 A 18 Y SÁB 15 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240018-11 (2)",
+        "Docente/s (1)": "A designar /SANCHEZ ignacio",
+        "Día/s y horario/s": "JUE 12 A 15 Y SÁB 9 A 12",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240220,
+    "Asignatura-Actividad": "TALLER DE DISEÑO ORIENTADO I (COMUNICACIÓN VISUAL-MULTIMEDIAL)",
+    "Correlatividad Débil": 240012,
+    "Correlatividad Fuerte": "240010-240015",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240220-01",
+        "Docente/s (1)": "PINTO Carlos / ACOSTA José ",
+        "Día/s y horario/s": "JUE 13.30 A 17.30 Y VIE 15 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "4 DORREGO",
+        "Modalidad": "PRESENCIAL CON ACT. VIRTUALES",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "240220-02",
+        "Docente/s (1)": "CALABRESE Máximo / ROMERO MARCHESINI Nadia",
+        "Día/s y horario/s": "JUE 13.30 A 17.30 Y VIE 15 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "PRESENCIAL CON ACT. VIRTUALES",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "240220-03",
+        "Docente/s (1)": "BARBALAGA Patricia Ayelén / MENENDEZ Natalia",
+        "Día/s y horario/s": "JUE 13.30 A 17.30 Y VIE 15 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "5 DORREGO",
+        "Modalidad": "PRESENCIAL CON ACT. VIRTUALES",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240221,
+    "Asignatura-Actividad": "TECNOLOGÍA DISEÑO ORIENTADO I (COMUNICACIÓN VISUAL-MULTIMEDIAL)",
+    "Correlatividad Débil": "240013-240014-240016",
+    "Correlatividad Fuerte": 240011,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240221-01",
+        "Docente/s (1)": "REAL Melisa  ",
+        "Día/s y horario/s": "MAR 13.30 A 17.30",
+        "Turno": "Tarde",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "240221-02",
+        "Docente/s (1)": "MENÉNDEZ Fernando José / LISBOA Taorina",
+        "Día/s y horario/s": "MAR 13.30 A 17.30",
+        "Turno": "Tarde",
+        "Aula/s": "15 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "240221-03",
+        "Docente/s (1)": "CINTI Florencia",
+        "Día/s y horario/s": "MAR 13.30 A 17.30",
+        "Turno": "Tarde",
+        "Aula/s": "7 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240222,
+    "Asignatura-Actividad": "SISTEMAS DE REPRESENTACIÓN ORIENTADO I (COMUNICACIÓN VISUAL-MULTIMEDIAL)",
+    "Correlatividad Débil": 240012,
+    "Correlatividad Fuerte": 240011,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240222-01",
+        "Docente/s (1)": "ROMERO MARCHESINI Nadia / BENEDETTI Gustavo ",
+        "Día/s y horario/s": "LUN 13.30 A 17.30",
+        "Turno": "Tarde",
+        "Aula/s": "J101",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240222-02",
+        "Docente/s (1)": "BERTOLA Viviana / CIABATTARI Johanna / CRESPO Facundo",
+        "Día/s y horario/s": "LUN 13.30 A 17.30",
+        "Turno": "Tarde",
+        "Aula/s": "11 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240023,
+    "Asignatura-Actividad": "QUÍMICA",
+    "Correlatividad Débil": 240012,
+    "Correlatividad Fuerte": 240011,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240023-01",
+        "Docente/s (1)": "OSTERA Juan Manuel",
+        "Día/s y horario/s": "MIÉ 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240023-02",
+        "Docente/s (1)": "RODRIGUEZ Florencia",
+        "Día/s y horario/s": "MIÉ 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "J003",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240023-03",
+        "Docente/s (1)": "BARRAGAN Rubén",
+        "Día/s y horario/s": "MIÉ 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "G001",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240023-04",
+        "Docente/s (1)": "SOCOLOSKY Ariel",
+        "Día/s y horario/s": "MIÉ 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "A003",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240023-05",
+        "Docente/s (1)": "MACORETTA Christián",
+        "Día/s y horario/s": "MIÉ 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "15 17 DARACT II",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240023-06",
+        "Docente/s (1)": "SOSA Laura Valeria",
+        "Día/s y horario/s": "MIÉ 12 A 15",
+        "Turno": "Tarde",
+        "Aula/s": "P005",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240024,
+    "Asignatura-Actividad": "PANORAMA HISTÓRICO Y SOCIAL DEL DISEÑO",
+    "Correlatividad Débil": 240018,
+    "Correlatividad Fuerte": 240011,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240024-01",
+        "Docente/s (1)": "CECIAGA Mercedes",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y SAB 9 A 12",
+        "Turno": "Tarde",
+        "Aula/s": "1 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240024-02",
+        "Docente/s (1)": "ALCANTARA Maria Victoria",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y SAB 9 A 12",
+        "Turno": "Tarde",
+        "Aula/s": "13 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240024-03",
+        "Docente/s (1)": "FONTENLA Florencia",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y SAB 9 A 12",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240024-04",
+        "Docente/s (1)": "KONDAKJIAN Ana Micaela",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y SAB 9 A 12",
+        "Turno": "Tarde",
+        "Aula/s": "15 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240024-05",
+        "Docente/s (1)": "KONDAKJIAN Ana Micaela",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y SAB 9 A 12",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240024-06",
+        "Docente/s (1)": "DÍAZ VELO Paula",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y SAB 9 A 12",
+        "Turno": "Tarde",
+        "Aula/s": "15 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240225,
+    "Asignatura-Actividad": "TALLER DE DISEÑO ORIENTADO II (COMUNICACIÓN VISUAL-MULTIMEDIAL)",
+    "Correlatividad Débil": 240018,
+    "Correlatividad Fuerte": "240015-240220",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240225-01",
+        "Docente/s (1)": "PINTO Carlos / ACOSTA José",
+        "Día/s y horario/s": "JUE 13.30 A 17.30 Y VIE 15 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL CON ACT. VIRTUALES",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "240225-02",
+        "Docente/s (1)": "CALABRESE Máximo / ROMERO MARCHESINI Nadia",
+        "Día/s y horario/s": "JUE 13.30 A 17.30 Y VIE 15 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL CON ACT. VIRTUALES",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "240225-03",
+        "Docente/s (1)": "BARBALAGA Patricia Ayelén / MENENDEZ Natalia",
+        "Día/s y horario/s": "JUE 13.30 A 17.30 Y VIE 15 A 17",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL CON ACT. VIRTUALES",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240226,
+    "Asignatura-Actividad": "TECNOLOGÍA DE DISEÑO ORIENTADO II (COMUNICACIÓN VISUAL-MULTIMEDIAL)",
+    "Correlatividad Débil": 240221,
+    "Correlatividad Fuerte": 240016,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240226-01",
+        "Docente/s (1)": "REAL Melisa / MEDINA Manuel",
+        "Día/s y horario/s": "MAR 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240226-02",
+        "Docente/s (1)": "MENÉNDEZ Fernando José / LISBOA Taorina",
+        "Día/s y horario/s": "MAR 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240226-03",
+        "Docente/s (1)": "FLOR Mauro Ezequiel / CINTI Florencia",
+        "Día/s y horario/s": "MAR 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240227,
+    "Asignatura-Actividad": "SISTEMAS DE REPRESENTACIÓN ORIENTADO II (COMUNICACIÓN VISUAL-MULTIMEDIAL)",
+    "Correlatividad Débil": 240222,
+    "Correlatividad Fuerte": 240016,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240227-01",
+        "Docente/s (1)": "ROMERO MARCHESINI Nadia / BENEDETTI Gustavo",
+        "Día/s y horario/s": "LUN 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      },
+      {
+        "Comisión": "240227-02",
+        "Docente/s (1)": "CIABATTARI Johana / CRESPO Facundo",
+        "Día/s y horario/s": "LUN 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "TODAS"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240528,
+    "Asignatura-Actividad": "DIBUJO ASISTIDO POR PC PARA DISEÑO EN COMUNICACIÓN VISUAL",
+    "Correlatividad Débil": "240012-240017",
+    "Correlatividad Fuerte": 240016,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240528-01",
+        "Docente/s (1)": "BUCHACRA Mariela Roxana",
+        "Día/s y horario/s": "LUN 10:30 A 12 y SÁB 10 A 11.30",
+        "Turno": "Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      },
+      {
+        "Comisión": "240528-02",
+        "Docente/s (1)": "BUCHACRA Mariela Roxana",
+        "Día/s y horario/s": "LUN 12 A 13:30 y SÁB 10 A 11.30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": 240628,
+    "Asignatura-Actividad": "DIBUJO ASISTIDO POR PC PARA DISEÑO MULTIMEDIAL",
+    "Correlatividad Débil": "240012-240017",
+    "Correlatividad Fuerte": 240016,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240628-01",
+        "Docente/s (1)": "FLOR Mauro Ezequiel",
+        "Día/s y horario/s": "MAR 10:30 A 12 y SÁB 10 A 11.30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      },
+      {
+        "Comisión": "240628-02",
+        "Docente/s (1)": "FLOR Mauro Ezequiel",
+        "Día/s y horario/s": "MAR 12 A 13:30 y SÁB 10 A 11.30",
+        "Turno": "Tarde",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      },
+      {
+        "Comisión": "240628-03",
+        "Docente/s (1)": "BENEDETTI Gustavo",
+        "Día/s y horario/s": "MAR 18 A 19:30 y SÁB 10 A 11.30",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      },
+      {
+        "Comisión": "240628-04",
+        "Docente/s (1)": "BENEDETTI Gustavo",
+        "Día/s y horario/s": "MAR 19:30 A 21 y SÁB 10 A 11.30",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      },
+      {
+        "Comisión": "240628-05",
+        "Docente/s (1)": "FLOR Mauro Ezequiel",
+        "Día/s y horario/s": "JUE 10:30 A 12 y SÁB 10 A 11.30",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      },
+      {
+        "Comisión": "240628-06",
+        "Docente/s (1)": "FLOR Mauro Ezequiel",
+        "Día/s y horario/s": "JUE 12 A 13:30 y SÁB 10 A 11.30",
+        "Turno": "Noche",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "JUEVES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": "240500A",
+    "Asignatura-Actividad": "TÉCNICAS DE MAQUETIZACIÓN PARA ESTRUCTURAS VISUALES",
+    "Correlatividad Débil": "(*)",
+    "Correlatividad Fuerte": 240016,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240500A-01 (3)",
+        "Docente/s (1)": "CINTI Florencia",
+        "Día/s y horario/s": "MAR 18 A 19.30 Y VIE 11 A 12.30",
+        "Turno": "Noche / Mañana",
+        "Aula/s": "J003",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      }
+    ]
+  },
+  {
+    "Año": 2,
+    "Código": "240500A",
+    "Asignatura-Actividad": "TÉCNICAS DE MAQUETIZACIÓN PARA ESTRUCTURAS VISUALES",
+    "Correlatividad Débil": "(*)",
+    "Correlatividad Fuerte": 240016,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 2,
+    "Comisiones": [
+      {
+        "Comisión": "240500A-02",
+        "Docente/s (1)": "CINTI Florencia",
+        "Día/s y horario/s": "MAR 18 A 19.30 Y VIE 11 A 12.30",
+        "Turno": "Noche / Mañana",
+        "Aula/s": "***",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MARTES"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 240530,
+    "Asignatura-Actividad": "TALLER DE DISEÑO COMUNICACIÓN VISUAL I",
+    "Correlatividad Débil": "(*)",
+    "Correlatividad Fuerte": "240120-240125",
+    "Horas semanales teórico-prácticas": 6,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240530-01",
+        "Docente/s (1)": "CASTRO GAMARRA Alejandro / GUERRICO María Soledad",
+        "Día/s y horario/s": "LUN 14.30 A 18.30 Y JUE 13.30 A 15.30",
+        "Turno": "Tarde",
+        "Aula/s": "12 DARACT II",
+        "Modalidad": "PRESENCIAL CON ACT. VIRTUALES",
+        "Clase Presencial": "LUNES"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 240531,
+    "Asignatura-Actividad": "TECNOLOGÍA DE DISEÑO COMUNICACIÓN VISUAL I",
+    "Correlatividad Débil": "240013-240014-240023-240126",
+    "Correlatividad Fuerte": 240121,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240531-01",
+        "Docente/s (1)": "CASTRO GAMARRA Alejandro / GUERRICO María Soledad",
+        "Día/s y horario/s": "LUN 12 A 14 Y JUE 16 A 18",
+        "Turno": "Tarde",
+        "Aula/s": "13 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "LUNES"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 240532,
+    "Asignatura-Actividad": "SISTEMAS DE REPRESENTACIÓN PARA DISEÑO EN COMUNICACIÓN VISUAL I",
+    "Correlatividad Débil": 240127,
+    "Correlatividad Fuerte": 240122,
+    "Horas semanales teórico-prácticas": 4,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240532-01",
+        "Docente/s (1)": "CASTRO GAMARRA Alejandro / GUERRICO María Soledad",
+        "Día/s y horario/s": "MAR 13:30 A 17:30",
+        "Turno": "Tarde",
+        "Aula/s": "1 DARACT I",
+        "Modalidad": "PRESENCIAL",
+        "Clase Presencial": "LUNES"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": 240033,
+    "Asignatura-Actividad": "SEMIÓTICA APLICADA AL DISEÑO I",
+    "Correlatividad Débil": 240127,
+    "Correlatividad Fuerte": 240122,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240033-01",
+        "Docente/s (1)": "CECIAGA Mercedes / MUSUMECI Bárbara",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y  JUE 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "1 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240033-02",
+        "Docente/s (1)": "BARDI Ingrid / DÍAZ VELO Paula",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y  JUE 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "13 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240033-03",
+        "Docente/s (1)": "PASIN Malena / DE LA HOZ Mariela",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y  JUE 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "15 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      },
+      {
+        "Comisión": "240033-04",
+        "Docente/s (1)": "KONDAKJIAN Ana / VARRENTI Ana",
+        "Día/s y horario/s": "MIÉ 15 A 18 Y  JUE 18 A 21",
+        "Turno": "Tarde",
+        "Aula/s": "5 DARACT II",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "MIÉRCOLES CADA 15 DÍAS"
+      }
+    ]
+  },
+  {
+    "Año": 3,
+    "Código": "240500B",
+    "Asignatura-Actividad": "LABORATORIO DE IMAGEN CORPORATIVA",
+    "Correlatividad Débil": "(*)",
+    "Correlatividad Fuerte": 240122,
+    "Horas semanales teórico-prácticas": 3,
+    "Cuatrimestre": 1,
+    "Comisiones": [
+      {
+        "Comisión": "240500B-01",
+        "Docente/s (1)": "BUCHACRA Mariela Roxana",
+        "Día/s y horario/s": "SÁB 10 A 13",
+        "Turno": "Mañana",
+        "Aula/s": "1 DARACT I",
+        "Modalidad": "SEMIPRESENCIAL",
+        "Clase Presencial": "SEMANA POR MEDIO"
+      }
+    ]
+  }
+]
