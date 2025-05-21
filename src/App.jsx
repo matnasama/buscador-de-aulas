@@ -395,8 +395,8 @@ function App() {
 				sx={{
 					bgcolor: '#fff',
 					minWidth: 340,
-					width: '90%',
-					maxWidth: 1000,
+					width: isWide ? '100vw' : '90%',
+					maxWidth: isWide ? '100vw' : 1000,
 					px: isMobile ? 0.5 : 3,
 					borderRadius: 2,
 					boxShadow: 3,
@@ -710,8 +710,8 @@ function App() {
 									<span style={{ flexBasis: 80, minWidth: 80, maxWidth: 80 }}>Comisión</span>
 									<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180, marginLeft: 12 }}>Docente/s</span>
 									<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180, marginLeft: 12 }}>Día y horario</span>
-									<span style={{ flexBasis: 100, minWidth: 100, maxWidth: 100, marginLeft: 12 }}>Turno</span>
-									<span style={{ flexBasis: 100, minWidth: 100, maxWidth: 100, marginLeft: 12 }}>Aula</span>
+									{/* <span style={{ flexBasis: 100, minWidth: 100, maxWidth: 100, marginLeft: 12 }}>Turno</span> */}
+									<span style={{ flexBasis: 220, minWidth: 220, maxWidth: 400, marginLeft: 12 }}>Aula</span>
 									<span style={{ flexBasis: 120, minWidth: 120, maxWidth: 120, marginLeft: 12 }}>Modalidad</span>
 									<span style={{ flexBasis: 120, minWidth: 120, maxWidth: 120, marginLeft: 12 }}>Clase presencial</span>
 								</div>
@@ -733,8 +733,8 @@ function App() {
 										<span style={{ flexBasis: 80, minWidth: 80, maxWidth: 80, fontWeight: 700, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Comisión']}</span>
 										<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Docente/s (1)']}</span>
 										<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Día/s y horario/s']}</span>
-										<span style={{ flexBasis: 100, minWidth: 100, maxWidth: 100, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Turno']}</span>
-										<span style={{ flexBasis: 100, minWidth: 100, maxWidth: 100, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Aula'] || c['Aula/s']}</span>
+										{/* <span style={{ flexBasis: 100, minWidth: 100, maxWidth: 100, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Turno']}</span> */}
+										<span style={{ flexBasis: 220, minWidth: 220, maxWidth: 400, marginLeft: 12, overflow: 'auto', textOverflow: 'initial', whiteSpace: 'normal', wordBreak: 'break-word' }}>{c['Aula'] || c['Aula/s']}</span>
 										<span style={{ flexBasis: 120, minWidth: 120, maxWidth: 120, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Modalidad'] || c['Modalidad Cursada']}</span>
 										<span style={{ flexBasis: 120, minWidth: 120, maxWidth: 120, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Clase Presencial'] || c['Clase presencial']}</span>
 									</Paper>
