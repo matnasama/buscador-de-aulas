@@ -18,6 +18,7 @@ import {
 } from '@mui/material';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
+import '@fontsource/montserrat/700.css';
 
 // Departamentos y carreras (puedes ajustar los nombres según tus archivos JSON)
 const departamentos = [
@@ -315,7 +316,7 @@ function App() {
 	return (
 		<Box
 			sx={{
-				bgcolor: '#222',
+				bgcolor: '#fff',
 				minHeight: '100vh',
 				py: 2,
 				width: '100vw',
@@ -325,11 +326,74 @@ function App() {
 				alignItems: 'center',
 			}}
 		>
+			<Box
+  sx={{
+    width: '100%',
+    bgcolor: '#0a2447',
+    display: 'flex',
+    alignItems: 'center',
+    py: isMobile ? 1.5 : 2.5,
+    pl: isMobile ? 2 : 10,
+    pr: isMobile ? 1 : 0,
+    borderRadius: 0,
+    mt: 0,
+    mb: 0,
+    boxSizing: 'border-box',
+    maxWidth: '100%', // Cambia maxWidth a 100% para que nunca sobresalga
+    margin: '0 auto',
+  }}
+>
+  <img src={logo} alt="Logo UNM" style={{ height: isMobile ? 60 : 90, marginRight: isMobile ? 2 : 22, marginLeft: 0, flexShrink: 0 }} />
+  <div style={{ display: 'flex', flexDirection: 'column', justifyContent: 'center', alignItems: 'flex-start' }}>
+    <span style={{
+      color: '#fff',
+      fontWeight: 700,
+      fontSize: isMobile ? 16 : 22,
+      letterSpacing: .2,
+      fontFamily: 'Montserrat, Arial Narrow, Arial, sans-serif',
+      fontStretch: 'condensed',
+      lineHeight: 1.05,
+      textTransform: 'uppercase',
+      textAlign: 'left',
+      display: 'block',
+    }}>
+      UNIVERSIDAD
+    </span>
+    <span style={{
+      color: '#fff',
+      fontWeight: 700,
+      fontSize: isMobile ? 16 : 22,
+      letterSpacing: .2,
+      fontFamily: 'Montserrat, Arial Narrow, Arial, sans-serif',
+      fontStretch: 'condensed',
+      lineHeight: 1.05,
+      textTransform: 'uppercase',
+      textAlign: 'left',
+      display: 'block',
+    }}>
+      NACIONAL
+    </span>
+    <span style={{
+      color: '#fff',
+      fontWeight: 700,
+      fontSize: isMobile ? 16 : 22,
+      letterSpacing: .2,
+      fontFamily: 'Montserrat, Arial Narrow, Arial, sans-serif',
+      fontStretch: 'condensed',
+      lineHeight: 1.05,
+      textTransform: 'uppercase',
+      textAlign: 'left',
+      display: 'block',
+    }}>
+      DE MORENO
+    </span>
+  </div>
+</Box>
 			<Container
 				maxWidth={false}
 				disableGutters
 				sx={{
-					bgcolor: '#222',
+					bgcolor: '#fff',
 					minWidth: 340,
 					width: '90%',
 					maxWidth: 1000,
@@ -341,17 +405,17 @@ function App() {
 					alignItems: 'center',
 				}}
 			>
-				<Typography variant="h4" align="center" sx={{ mb: 2, color: '#fff', fontWeight: 700, pt: 2 }}>
+				<Typography variant="h4" align="center" sx={{ mb: 4, color: '#111', fontWeight: 700, pt: 5 }}>
 					ASIGNACIÓN DE COMISIONES
 				</Typography>
-				<Typography variant="h6" align="center" sx={{ mb: 2, color: '#fff' }}>
+				<Typography variant="h6" align="center" sx={{ mb: 4, color: '#111' }}>
 					Primer cuatrimestre 2025
 				</Typography>
-				<Typography variant="h6" sx={{ mb: 2, color: '#fff' }}>Filtro de Materias</Typography>
-				<Typography sx={{ mb: 2, color: '#fff', fontSize: 16 }}>
+				<Typography variant="h6" sx={{ mb: 2, color: '#111' }}>Filtro de Materias</Typography>
+				<Typography sx={{ mb: 4, color: '#111', fontSize: 16, px: 5 }}>
 					Si sabés el nombre de la asignatura o el código de la materia podés ingresarlos directamente en los campos de búsqueda.
 				</Typography>
-				<Grid container spacing={2} alignItems="center" sx={{ mb: 2, placeContent:'center' }}>
+				<Grid container spacing={2} alignItems="center" sx={{ mb: 4, placeContent:'center', px: 6 }}>
 					<Grid item xs={12} sm={5}>
 						<TextField
 							fullWidth
@@ -413,8 +477,8 @@ function App() {
 				{/* SOLO mostrar botones de departamento/carrera si NO hay búsqueda por texto ni código */}
 				{!mostrarPorCodigoMateria && !mostrarPorBusqueda && (
 					<>
-						<Typography variant="h6" align="center" sx={{ mb: 2, color: '#fff' }}>Seleccioná tu departamento</Typography>
-						<Grid container spacing={1} justifyContent="center" sx={{ mb: 2 }}>
+						<Typography variant="h6" align="center" sx={{ mb: 2, color: '#111' }}>Seleccioná tu departamento</Typography>
+						<Grid container spacing={1} justifyContent="center" sx={{ mb: 4 }}>
 							{departamentos.map(dep => (
 								<Grid item key={dep.carpeta} xs={12} sm={8} md={4}>
 									<Button
@@ -440,15 +504,15 @@ function App() {
 											},
 										}}
 									>
-										{dep.nombre}
+										{dep.nombre.replace('Departamento de ', '')}
 									</Button>
 								</Grid>
 							))}
 						</Grid>
 						{departamento && (
 							<>
-								<Typography variant="h6" align="center" sx={{ mb: 2, color: '#fff' }}>Seleccioná tu carrera</Typography>
-								<Grid container spacing={1} justifyContent="center" sx={{ mb: 2 }}>
+								<Typography variant="h6" align="center" sx={{ mb: 2, color: '#111' }}>Seleccioná tu carrera</Typography>
+								<Grid container spacing={1} justifyContent="center" sx={{ mb: 4 }}>
 									{departamento.carreras.map(c => (
 										<Grid item key={c} xs={12} sm={8} md={6}>
 											<Button
@@ -463,13 +527,25 @@ function App() {
 													setPagina(1);
 												}}
 												sx={{
-													bgcolor: departamento.carpeta === 'DCAYT' ? (carrera === c ? '#2176a5' : '#3399cc') : departamento.carpeta === 'DCEYJ' ? (carrera === c ? '#003d00' : '#006400') : (carrera === c ? '#b20000' : '#ff0000'),
+													bgcolor: carrera === c
+														? (departamento.carpeta === 'DCAYT'
+																? '#3399cc'
+																: departamento.carpeta === 'DCEYJ'
+																	? '#006400'
+																	: '#ff0000')
+														: '#888',
 													color: '#fff',
 													fontWeight: carrera === c ? 'bold' : 'normal',
 													mb: 1,
-                          fontSize: isVerySmall ? 13 : 15,
+													fontSize: isVerySmall ? 13 : 15,
 													'&:hover': {
-														bgcolor: departamento.carpeta === 'DCAYT' ? '#2176a5' : departamento.carpeta === 'DCEYJ' ? '#003d00' : '#b20000',
+														bgcolor: carrera === c
+															? (departamento.carpeta === 'DCAYT'
+																	? '#2176a5'
+																	: departamento.carpeta === 'DCEYJ'
+																		? '#003d00'
+																		: '#b20000')
+															: '#666',
 													},
 												}}
 											>
@@ -486,8 +562,8 @@ function App() {
 				{!cargado ? (
 					<div style={{ marginTop: 32, textAlign: 'center' }}>Cargando asignaturas...</div>
 				) : (
-					<div style={{ marginTop: 16, width: '100%' }}>
-						<b>Asignaturas:</b>
+					<div style={{ marginTop: 16, marginBottom: 32, width: '100%' }}>
+						<h3 style={{color: '#111'}}>ASIGNATURAS</h3>
 						<div style={{ marginBottom: 8, color: '#888', fontSize: 14 }}>
 							Mostrando {asignaturasFiltradasPaginadas.length} resultados de {todasAsignaturas.length} asignaturas
 						</div>
@@ -506,19 +582,20 @@ function App() {
 								marginBottom: 8,
 								width: '100%',
 								maxWidth: 900,
-								margin: '8px auto'
+								margin: '8px auto',
+								boxSizing: 'border-box',
 							}}>
-								<span style={{ minWidth: 220 }}>Asignatura</span>
-								<span style={{ minWidth: 120 }}>Código</span>
-								<span style={{ minWidth: 220 }}>Carrera</span>
-								<span style={{ minWidth: 180 }}> </span>
+								<span style={{ flexBasis: 220, minWidth: 220, maxWidth: 220, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', textAlign: 'left' }}>Asignatura</span>
+								<span style={{ flexBasis: 120, minWidth: 120, maxWidth: 120, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', textAlign: 'center' }}>Código</span>
+								<span style={{ flexBasis: 220, minWidth: 220, maxWidth: 220, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', textAlign: 'center' }}>Carrera</span>
+								<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180 }}></span>
 							</div>
 						)}
 						{/* ASIGNATURAS: CARDS EN COLUMNA SIEMPRE, PERO EN >=780px CADA CARD ES UN ROW (FILA) */}
 						<Grid container spacing={2} direction="column">
 							{asignaturasPagina.length === 0 ? (
 								<Grid item xs={12}>
-									<Paper sx={{ p: 2, textAlign: 'center', color: '#888', bgcolor: '#222' }}>
+									<Paper sx={{ p: 2, textAlign: 'center', color: '#888', bgcolor: '#fff' }}>
 										No se encontraron asignaturas para los filtros seleccionados.
 									</Paper>
 								</Grid>
@@ -528,8 +605,8 @@ function App() {
 										<Paper
 											sx={{
 												p: 1.5,
-												bgcolor: asignaturaSeleccionada === a ? '#e0f7fa' : '#333',
-												color: asignaturaSeleccionada === a ? '#222' : '#fff',
+												bgcolor: asignaturaSeleccionada === a ? '#e0f7fa' : '#f5f5f5',
+												color: asignaturaSeleccionada === a ? '#222' : '#111',
 												borderRadius: 2,
 												height: '100%',
 												display: 'flex',
@@ -543,13 +620,13 @@ function App() {
 												boxSizing: 'border-box',
 											}}
 										>
-											<div style={{ fontWeight: 700, fontSize: 16, flexBasis: isWide ? 220 : undefined, flexShrink: 0, flexGrow: 0, minWidth: isWide ? 220 : undefined, maxWidth: isWide ? 220 : undefined, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', boxSizing: 'border-box', width: isWide ? undefined : '100%' }}>
+											<div style={{ fontWeight: 700, fontSize: 16, flexBasis: isWide ? 220 : undefined, flexShrink: 0, flexGrow: 0, minWidth: isWide ? 220 : undefined, maxWidth: isWide ? 220 : undefined, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', boxSizing: 'border-box', width: isWide ? undefined : '100%', textAlign: isWide ? 'left' : undefined }}>
                         {a['Asignatura-Actividad']}
                       </div>
-                      <div style={{ fontSize: 14, marginBottom: isWide ? 0 : 4, flexBasis: isWide ? 120 : undefined, flexShrink: 0, flexGrow: 0, minWidth: isWide ? 120 : undefined, maxWidth: isWide ? 120 : undefined, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', textAlign: isWide ? 'left' : undefined, boxSizing: 'border-box', width: isWide ? undefined : '100%' }}>
+                      <div style={{ fontSize: 14, marginBottom: isWide ? 0 : 4, flexBasis: isWide ? 120 : undefined, flexShrink: 0, flexGrow: 0, minWidth: isWide ? 120 : undefined, maxWidth: isWide ? 120 : undefined, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', textAlign: isWide ? 'center' : undefined, boxSizing: 'border-box', width: isWide ? undefined : '100%' }}>
                         {isWide ? a['Código'] : `Código: ${a['Código']}`}
                       </div>
-                      <div style={{ fontSize: 14, marginBottom: isWide ? 0 : 4, flexBasis: isWide ? 220 : undefined, flexShrink: 0, flexGrow: 0, minWidth: isWide ? 220 : undefined, maxWidth: isWide ? 220 : undefined, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', textAlign: isWide ? 'left' : undefined, boxSizing: 'border-box', width: isWide ? undefined : '100%' }}>
+                      <div style={{ fontSize: 14, marginBottom: isWide ? 0 : 4, flexBasis: isWide ? 220 : undefined, flexShrink: 0, flexGrow: 0, minWidth: isWide ? 220 : undefined, maxWidth: isWide ? 220 : undefined, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', textAlign: isWide ? 'center' : undefined, boxSizing: 'border-box', width: isWide ? undefined : '100%' }}>
                         {isWide ? (a._carrera === 'Ciclo Comun' ? 'Ciclo Comun' : a._carrera) : `Carrera: ${a._carrera === 'Ciclo Comun' ? 'Ciclo Comun' : a._carrera}`}
                       </div>
                       <div style={{ flexBasis: isWide ? 180 : undefined, flexShrink: 0, flexGrow: 0, minWidth: isWide ? 180 : undefined, maxWidth: isWide ? 180 : undefined, display: 'flex', justifyContent: isWide ? 'flex-end' : undefined, width: isWide ? '100%' : undefined, boxSizing: 'border-box' }}>
@@ -569,19 +646,37 @@ function App() {
 								))
 							)}
 						</Grid>
-						<div style={{ marginTop: 8, color: '#fff' }}>
+						<div style={{ marginTop: 24, color: '#111' }}>
 							Página {pagina} de {totalPaginas}
 							<Button
 								disabled={pagina === 1}
 								onClick={() => setPagina(pagina - 1)}
-								sx={{ marginLeft: 1, color: '#fff', borderColor: '#888', '&:hover': { borderColor: '#666' } }}
+								sx={{
+									marginLeft: 1,
+									color: '#fff',
+									bgcolor: pagina === 1 ? '#ccc' : '#888',
+									'&:hover': { bgcolor: pagina === 1 ? '#ccc' : '#666' },
+									minWidth: 100,
+									fontWeight: 'bold',
+									borderRadius: 2,
+									boxShadow: 0,
+								}}
 							>
 								Anterior
 							</Button>
 							<Button
 								disabled={pagina === totalPaginas}
 								onClick={() => setPagina(pagina + 1)}
-								sx={{ marginLeft: 1, color: '#fff', borderColor: '#888', '&:hover': { borderColor: '#666' } }}
+								sx={{
+									marginLeft: 1,
+									color: '#fff',
+									bgcolor: pagina === totalPaginas ? '#ccc' : '#888',
+									'&:hover': { bgcolor: pagina === totalPaginas ? '#ccc' : '#666' },
+									minWidth: 100,
+									fontWeight: 'bold',
+									borderRadius: 2,
+									boxShadow: 0,
+								}}
 							>
 								Siguiente
 							</Button>
@@ -590,9 +685,9 @@ function App() {
 				)}
 				{/* COMISIONES: modo tabla en mobile, modo cards en desktop */}
 				{asignaturaSeleccionada && (
-					<div style={{ marginTop: 16, width: '100%' }}>
-						<Typography variant="h6" sx={{ mb: 2, color: '#fff' }}>
-							Comisiones de {asignaturaSeleccionada['Asignatura-Actividad']}:
+					<div style={{ marginTop: 32, marginBottom: 32, width: '100%' }}>
+						<Typography variant="h6" sx={{ mb: 4, color: '#111' }}>
+							{asignaturaSeleccionada['Asignatura-Actividad']}
 						</Typography>
 						{/* Desktop/tablet: grid tipo fila, headers una sola vez */}
 						{isWideComisiones && comisiones.filter(c => String(c['Aula'] || c['Aula/s'] || '').trim() !== '***').length > 0 ? (
@@ -625,15 +720,15 @@ function App() {
 										display: 'flex',
 										alignItems: 'center',
 										justifyContent: 'space-between',
-										bgcolor: '#222',
-										color: '#fff',
+										bgcolor: '#fff',
+										color: '#111',
 										borderRadius: 2,
 										p: 1.5,
 										mb: 1,
 										fontSize: 15,
 										width: '100%',
 										maxWidth: 1050,
-										margin: 'auto'
+										margin: '8px auto'
 									}}>
 										<span style={{ flexBasis: 80, minWidth: 80, maxWidth: 80, fontWeight: 700, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Comisión']}</span>
 										<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Docente/s (1)']}</span>
@@ -650,7 +745,7 @@ function App() {
 							<Grid container spacing={2} direction="column">
 								{comisiones.filter(c => String(c['Aula'] || c['Aula/s'] || '').trim() !== '***').map((c, i) => (
 									<Grid item xs={12} key={i}>
-										<Paper sx={{ p: 1.5, bgcolor: '#222', color: '#fff', borderRadius: 2 }}>
+										<Paper sx={{ p: 1.5, bgcolor: '#fff', color: '#111', borderRadius: 2 }}>
 											<div style={{ fontWeight: 700, fontSize: 15 }}>Comisión: {c['Comisión']}</div>
 											<div style={{ fontSize: 14 }}>Docente/s: {c['Docente/s (1)']}</div>
 											<div style={{ fontSize: 14 }}>Día y horario: {c['Día/s y horario/s']}</div>
@@ -665,6 +760,18 @@ function App() {
 						)}
 					</div>
 				)}
+				{/* FOOTER */}
+				<Box sx={{ width: '100%', mt: 6, mb: 2 }}>
+      <Paper sx={{ bgcolor: '#f5f5f5', color: '#111', p: 3, borderRadius: 2, textAlign: 'center', fontSize: 15, boxShadow: 0 }}>
+        <div style={{ fontWeight: 700, fontSize: 18, marginBottom: 4 }}>Departamento de Alumnos</div>
+        <div>Universidad Nacional de Moreno</div>
+        <div>Bmé. Mitre 1891 (1744) Moreno</div>
+        <div>Buenos Aires, Argentina</div>
+        <div>Teléfono provisorio 011 2078-9170 (líneas rotativas)</div>
+		<div>alumnos@unm.edu.ar</div>
+        <div><a href="https://www.unm.edu.ar" style={{ color: '#1976d2', textDecoration: 'none' }} target="_blank" rel="noopener noreferrer">www.unm.edu.ar</a></div>
+      </Paper>
+    </Box>
 			</Container>
 		</Box>
 	);

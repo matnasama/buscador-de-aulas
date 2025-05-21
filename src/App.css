@@ -1,7 +1,12 @@
 #root {
-  max-width: 1280px;
+  max-width: 100%;
   margin: auto;
   text-align: center;
+}
+
+body {
+  display: grid;
+  place-content: center;
 }
 
 .logo {
