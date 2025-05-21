@@ -1,0 +1,48 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Vite cache
+.vite/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Env
+.env
+.env.*
+
+# Misc
+*.local
+
+# Coverage
+coverage/
+
+# Optional: ignore Mac system files
+.AppleDouble
+.LSOverride
+
+# Optional: ignore test snapshots
+__snapshots__/
+
+# Optional: ignore typescript build info
+*.tsbuildinfo
