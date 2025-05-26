@@ -848,51 +848,6 @@
         "Docente/s (1)": "GARCIA ALLEGRONE Verónica Paz / DELBONO Gaston",
         "Día/s y horario/s": "LUN Y JUE 8 A 11",
         "Turno": "Mañana",
-        "Aula": "***",
-        "Modalidad Cursada": "PRESENCIAL ",
-        "Clase Presencial": "TODAS"
-      },
-      {
-        "Comisión": "1015-02",
-        "Docente/s (1)": "GALEANO Viviana",
-        "Día/s y horario/s": "LUN Y JUE 15 A 18",
-        "Turno": "Tarde",
-        "Aula": "***",
-        "Modalidad Cursada": "PRESENCIAL ",
-        "Clase Presencial": "TODAS"
-      },
-      {
-        "Comisión": "1015-03",
-        "Docente/s (1)": "STROPPARO Pablo / MUNIZ Marcelo",
-        "Día/s y horario/s": "LUN Y JUE 18 A 21",
-        "Turno": "Noche",
-        "Aula": "***",
-        "Modalidad Cursada": "PRESENCIAL ",
-        "Clase Presencial": "TODAS"
-      },
-      {
-        "Comisión": "1015-04",
-        "Docente/s (1)": "CABRAL Natalia",
-        "Día/s y horario/s": "MAR Y VIE 8 A 11",
-        "Turno": "Mañana",
-        "Aula": "***",
-        "Modalidad Cursada": "PRESENCIAL ",
-        "Clase Presencial": "TODAS"
-      },
-      {
-        "Comisión": "1015-05",
-        "Docente/s (1)": "AMEGHINO Nadia",
-        "Día/s y horario/s": "MAR Y VIE 18 A 21",
-        "Turno": "Noche",
-        "Aula": "***",
-        "Modalidad Cursada": "PRESENCIAL ",
-        "Clase Presencial": "TODAS"
-      },
-      {
-        "Comisión": "1015-01",
-        "Docente/s (1)": "GARCIA ALLEGRONE Verónica Paz / DELBONO Gaston",
-        "Día/s y horario/s": "LUN Y JUE 8 A 11",
-        "Turno": "Mañana",
         "Aula": "5 DARACT II",
         "Modalidad Cursada": "PRESENCIAL",
         "Clase Presencial": "TODAS"
@@ -937,7 +892,7 @@
   },
   {
     "Año": 1,
-    "Código": "1015/3215/1515",
+    "Código": "1015",
     "Asignatura-Actividad": "HISTORIA DEL PENSAMIENTO SOCIAL Y POLÍTICO",
     "Correlatividades": 1012,
     "Horas semanales teórico-prácticas": 6,
@@ -1597,7 +1552,7 @@
   },
   {
     "Año": 2,
-    "Código": "1025/3225",
+    "Código": "1025",
     "Asignatura-Actividad": "ESTRUCTURA ECONÓMICA ARGENTINA Y MUNDIAL",
     "Correlatividades": 1021,
     "Horas semanales teórico-prácticas": 6,
@@ -1634,7 +1589,7 @@
   },
   {
     "Año": 2,
-    "Código": "1025/3225",
+    "Código": 1025,
     "Asignatura-Actividad": "ESTRUCTURA ECONÓMICA ARGENTINA Y MUNDIAL",
     "Correlatividades": 1021,
     "Horas semanales teórico-prácticas": 6,
