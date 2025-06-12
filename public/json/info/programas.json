@@ -2501,8 +2501,8 @@
     {
       "id": 11,
       "departamento": "DHYCS",
-      "carrera": "LCS",
-      "codigo": "",
+      "carrera": "Licenciatura en Comunicación Social", 
+      "codigo": "LCS",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/",
       "contenido": [
         {
@@ -2862,8 +2862,8 @@
     {
       "id": 12,
       "departamento": "DHYCS",
-      "carrera": "LEI",
-      "codigo": "",
+      "carrera": "Licenciatura en Educación Inicial",
+      "codigo": "LEI",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/",
       "contenido": [
         {
@@ -3015,8 +3015,8 @@
     {
       "id": 13,
       "departamento": "DHYCS",
-      "carrera": "LES",
-      "codigo": "",
+      "carrera": "Licenciatura en Educación Secundaria",
+      "codigo": "LES",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/",
       "contenido": [
         {
@@ -3152,8 +3152,8 @@
     {
       "id": 14,
       "departamento": "DHYCS",
-      "carrera": "LTS",
-      "codigo": "",
+      "carrera": "Licenciatura en Trabajo Social",
+      "codigo": "LTS",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/",
       "contenido": [
         {
