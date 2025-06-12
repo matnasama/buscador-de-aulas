@@ -3,7 +3,8 @@
     {
       "id": 1,
       "departamento": "DCAYT",
-      "carrera": "ARQ",
+      "carrera": "Arquitectura",
+      "codigo": "ARQ",
       "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/",
       "contenido": [
         {
@@ -339,7 +340,8 @@
     {
       "id": 2,
       "departamento": "DCAYT",
-      "carrera": "IEL",
+      "carrera": "Ingeniería en Electrónica",
+      "codigo": "INEL",
       "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/",
       "contenido": [
         {
@@ -899,7 +901,8 @@
     {
       "id": 3,
       "departamento": "DCAYT",
-      "carrera": "LBIO",
+      "carrera": "Licenciatura en Biotecnología",
+      "codigo": "BIO",
       "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/",
       "contenido": [
         {
@@ -1219,7 +1222,8 @@
     {
       "id": 4,
       "departamento": "DCAYT",
-      "carrera": "LGA",
+      "carrera": "Licenciatura en Gestión Ambiental",
+      "codigo": "LGA",
       "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/",
       "contenido": [
         {
@@ -1562,8 +1566,9 @@
     },
     {
       "id": 5,
-      "departamento": "DEYA",
+      "departamento": "DCEYJ",
       "carrera": "ACT COMPLEMENTARIAS",
+      "codigo": "ACT_COMPLEMENTARIAS",
       "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/",
       "contenido": [
         {
@@ -1762,8 +1767,9 @@
     },
     {
       "id": 6,
-      "departamento": "DEYA",
-      "carrera": "CICLO COMUN",
+      "departamento": "DCEYJ",
+      "carrera": "Ciclo Comun",
+      "codigo": "CICLO COMUN",
       "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/",
       "contenido": [
         {
@@ -1874,8 +1880,9 @@
     },
     {
       "id": 7,
-      "departamento": "DEYA",
-      "carrera": "CPN",
+      "departamento": "DCEYJ",
+      "carrera": "Contador Público Nacional",
+      "codigo": "CPN",
       "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/",
       "contenido": [
         {
@@ -2034,8 +2041,9 @@
     },
     {
       "id": 8,
-      "departamento": "DEYA",
-      "carrera": "LADM",
+      "departamento": "DCEYJ",
+      "carrera": "Licenciatura en Administración",
+      "codigo": "LADM",
       "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/",
       "contenido": [
         {
@@ -2194,8 +2202,9 @@
     },
     {
       "id": 9,
-      "departamento": "DEYA",
-      "carrera": "LECO",
+      "departamento": "DCEYJ",
+      "carrera": "Licenciatura en Economía",
+      "codigo": "LECO",
       "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/",
       "contenido": [
         {
@@ -2338,8 +2347,9 @@
     },
     {
       "id": 10,
-      "departamento": "DEYA",
-      "carrera": "LRT",
+      "departamento": "DCEYJ",
+      "carrera": "Licenciatura en Relaciones del Trabajo",
+      "codigo": "LRT",
       "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/",
       "contenido": [
         {
@@ -2492,6 +2502,7 @@
       "id": 11,
       "departamento": "DHYCS",
       "carrera": "LCS",
+      "codigo": "",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/",
       "contenido": [
         {
@@ -2852,6 +2863,7 @@
       "id": 12,
       "departamento": "DHYCS",
       "carrera": "LEI",
+      "codigo": "",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/",
       "contenido": [
         {
@@ -3004,6 +3016,7 @@
       "id": 13,
       "departamento": "DHYCS",
       "carrera": "LES",
+      "codigo": "",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/",
       "contenido": [
         {
@@ -3140,6 +3153,7 @@
       "id": 14,
       "departamento": "DHYCS",
       "carrera": "LTS",
+      "codigo": "",
       "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/",
       "contenido": [
         {
@@ -3484,6 +3498,7 @@
       "id": 15,
       "departamento": "POS",
       "carrera": "Diplo Econ social y solidaria",
+      "codigo": "DIPLO_ECON_SOCIAL_Y_SOLIDARIA",
       "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Econ%20social%20y%20solidaria/",
       "contenido": [
         {
@@ -3508,6 +3523,7 @@
       "id": 16,
       "departamento": "POS",
       "carrera": "Diplo Habitat",
+      "codigo": "DIPLO_HABITAT",
       "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/",
       "contenido": [
         {
@@ -3572,6 +3588,7 @@
       "id": 17,
       "departamento": "POS",
       "carrera": "Esp Lectura y escritura",
+      "codigo": "ESP_LECTURA_Y_ESCRITURA",
       "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/",
       "contenido": [
         {
