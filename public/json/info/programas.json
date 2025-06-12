@@ -1,0 +1,3700 @@
+{
+  "tramites": [
+    {
+      "id": 1,
+      "departamento": "DCAYT",
+      "carrera": "ARQ",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/",
+      "contenido": [
+        {
+          "nombre": "2311 TALLER DE ARQUITECTURA I CL 2015 R 112_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2311%20TALLER%20DE%20ARQUITECTURA%20I%20CL%202015%20R%20112_15.pdf",
+          "codigo": "2311",
+          "materia": "TALLER DE ARQUITECTURA I",
+          "ciclo_lectivo": "2015",
+          "resolucion": "R 112_15"
+        },
+        {
+          "nombre": "2312 MATEMATICA I CL 2015 R 79_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2312%20MATEMATICA%20I%20CL%202015%20R%2079_15.pdf",
+          "codigo": "2312",
+          "materia": "MATEMATICA I",
+          "ciclo_lectivo": "2015",
+          "resolucion": "R 79_15"
+        },
+        {
+          "nombre": "2313 DIBUJO ARQUITECTONICO I CL 2015 R 78_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2313%20DIBUJO%20ARQUITECTONICO%20I%20CL%202015%20R%2078_15.pdf",
+          "codigo": "2313",
+          "materia": "DIBUJO ARQUITECTONICO I",
+          "ciclo_lectivo": "2015",
+          "resolucion": "R 78_15"
+        },
+        {
+          "nombre": "2314 FISICA CL 2015 R-62_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2314%20FISICA%20CL%202015%20R-62_15.pdf",
+          "codigo": "2314",
+          "materia": "FISICA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "R-62_15"
+        },
+        {
+          "nombre": "2315  INTRODUCCION A LA HISTORIA DE LA ARQUITECTURA Y EL URBANISMO CL 2015 R 111_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2315%20%20INTRODUCCION%20A%20LA%20HISTORIA%20DE%20LA%20ARQUITECTURA%20Y%20EL%20URBANISMO%20CL%202015%20R%20111_15.pdf",
+          "codigo": "2315",
+          "materia": "INTRODUCCION A LA HISTORIA DE LA ARQUITECTURA Y EL URBANISMO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "R 111_15"
+        },
+        {
+          "nombre": "2316 INTRODUCCION A LA TECNOLOGIA  CL 2015 R 114_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2316%20INTRODUCCION%20A%20LA%20TECNOLOGIA%20%20CL%202015%20R%20114_15.pdf",
+          "codigo": "2316",
+          "materia": "INTRODUCCION A LA TECNOLOGIA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "R 114_15"
+        },
+        {
+          "nombre": "2317 MORFOLOGIA I CL 2015 R 113_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2317%20MORFOLOGIA%20I%20CL%202015%20R%20113_15.pdf",
+          "codigo": "2317",
+          "materia": "MORFOLOGIA I",
+          "ciclo_lectivo": "2015",
+          "resolucion": "R 113_15"
+        },
+        {
+          "nombre": "2321 TALLER DE ARQUITECTURA II CL 2016 DADU 01_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2321%20TALLER%20DE%20ARQUITECTURA%20II%20CL%202016%20DADU%2001_16.pdf",
+          "codigo": "2321",
+          "materia": "TALLER DE ARQUITECTURA II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 01_16"
+        },
+        {
+          "nombre": "2322 MATEMATICA II CL 2016 DADU 02_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2322%20MATEMATICA%20II%20CL%202016%20DADU%2002_16.pdf",
+          "codigo": "2322",
+          "materia": "MATEMATICA II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 02_16"
+        },
+        {
+          "nombre": "2323 DIBUJO ARQUITECTONICO II CL 2016 DADU 03_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2323%20DIBUJO%20ARQUITECTONICO%20II%20CL%202016%20DADU%2003_16.pdf",
+          "codigo": "2323",
+          "materia": "DIBUJO ARQUITECTONICO II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 03_16"
+        },
+        {
+          "nombre": "2324 HISTORIA DE LA ARQUITECTURA Y EL URBANISMO I CL 2016 DADU 04_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2324%20HISTORIA%20DE%20LA%20ARQUITECTURA%20Y%20EL%20URBANISMO%20I%20CL%202016%20DADU%2004_16.pdf",
+          "codigo": "2324",
+          "materia": "HISTORIA DE LA ARQUITECTURA Y EL URBANISMO I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 04_16"
+        },
+        {
+          "nombre": "2325 TECNOLOGIA CL 2016 DADU 05_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2325%20TECNOLOGIA%20CL%202016%20DADU%2005_16.pdf",
+          "codigo": "2325",
+          "materia": "TECNOLOGIA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 05_16"
+        },
+        {
+          "nombre": "2326 ESTRUCTURAS I CL 2016 DADU 06_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2326%20ESTRUCTURAS%20I%20CL%202016%20DADU%2006_16.pdf",
+          "codigo": "2326",
+          "materia": "ESTRUCTURAS I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 06_16"
+        },
+        {
+          "nombre": "2327 MORFOLOGIA II CL 2016 DADU 07_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2327%20MORFOLOGIA%20II%20CL%202016%20DADU%2007_16.pdf",
+          "codigo": "2327",
+          "materia": "MORFOLOGIA II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 07_16"
+        },
+        {
+          "nombre": "2335 CONSTRUCCIONES I CL 2017 DADU 06_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2335%20CONSTRUCCIONES%20I%20CL%202017%20DADU%2006_17.pdf",
+          "codigo": "2335",
+          "materia": "CONSTRUCCIONES I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DADU 06_17"
+        },
+        {
+          "nombre": "2336 ESTRUCTURAS II CL 2017 DADU 05_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2336%20ESTRUCTURAS%20II%20CL%202017%20DADU%2005_17.pdf",
+          "codigo": "2336",
+          "materia": "ESTRUCTURAS II",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DADU 05_17"
+        },
+        {
+          "nombre": "2337 INSTALACIONES I CL 2017 DADU 07_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2337%20INSTALACIONES%20I%20CL%202017%20DADU%2007_17.pdf",
+          "codigo": "2337",
+          "materia": "INSTALACIONES I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DADU 07_17"
+        },
+        {
+          "nombre": "2341 TALLER DE ARQUITECTURA IV CL 2018  DCAyT 56_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2341%20TALLER%20DE%20ARQUITECTURA%20IV%20CL%202018%20%20DCAyT%2056_18.pdf",
+          "codigo": "2341",
+          "materia": "TALLER DE ARQUITECTURA IV",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 56_18"
+        },
+        {
+          "nombre": "2342 INTRODUCCION  AL URBANISMO CL 2018 DCAyT 55_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2342%20INTRODUCCION%20%20AL%20URBANISMO%20CL%202018%20DCAyT%2055_18.pdf",
+          "codigo": "2342",
+          "materia": "INTRODUCCION  AL URBANISMO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 55_18"
+        },
+        {
+          "nombre": "2343 HISTORIA DE LA ARQUIECTURA Y EL URBANISMO III CL 2018 DCAyT 54_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2343%20HISTORIA%20DE%20LA%20ARQUIECTURA%20Y%20EL%20URBANISMO%20III%20CL%202018%20DCAyT%2054_18.pdf",
+          "codigo": "2343",
+          "materia": "HISTORIA DE LA ARQUIECTURA Y EL URBANISMO III",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 54_18"
+        },
+        {
+          "nombre": "2344 CONSTRUCCIONES II CL 2018 DCAyT 59_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2344%20CONSTRUCCIONES%20II%20CL%202018%20DCAyT%2059_18.pdf",
+          "codigo": "2344",
+          "materia": "CONSTRUCCIONES II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 59_18"
+        },
+        {
+          "nombre": "2345 ESTRUCTURAS III CL 2018 DCAyT 53_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2345%20ESTRUCTURAS%20III%20CL%202018%20DCAyT%2053_18.pdf",
+          "codigo": "2345",
+          "materia": "ESTRUCTURAS III",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 53_18"
+        },
+        {
+          "nombre": "2346 INSTALACIONES II CL 2018 DCAyT 52_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2346%20INSTALACIONES%20II%20CL%202018%20DCAyT%2052_18.pdf",
+          "codigo": "2346",
+          "materia": "INSTALACIONES II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 52_18"
+        },
+        {
+          "nombre": "2351 TALLER DE ARQUITECTURA V CL 2019 DCAyT 05_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2351%20TALLER%20DE%20ARQUITECTURA%20V%20CL%202019%20DCAyT%2005_19.pdf",
+          "codigo": "2351",
+          "materia": "TALLER DE ARQUITECTURA V",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 05_19"
+        },
+        {
+          "nombre": "2352 LEGISLACION DE OBRAS CL 2019 DCAyT 02_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2352%20LEGISLACION%20DE%20OBRAS%20CL%202019%20DCAyT%2002_19.pdf",
+          "codigo": "2352",
+          "materia": "LEGISLACION DE OBRAS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 02_19"
+        },
+        {
+          "nombre": "2353 URBANISMO I CL 2019 DCAyT 04_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2353%20URBANISMO%20I%20CL%202019%20DCAyT%2004_19.pdf",
+          "codigo": "2353",
+          "materia": "URBANISMO I",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 04_19"
+        },
+        {
+          "nombre": "2354 SEMINARIO ENERGIAS ALTERNATIVAS- ACONDICIONAMIENTO CL 2019 DCAyT 06_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2354%20SEMINARIO%20ENERGIAS%20ALTERNATIVAS-%20ACONDICIONAMIENTO%20CL%202019%20DCAyT%2006_19.pdf",
+          "codigo": "2354",
+          "materia": "SEMINARIO ENERGIAS ALTERNATIVAS- ACONDICIONAMIENTO",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 06_19"
+        },
+        {
+          "nombre": "2355 SEMINARIO ESTRUCTURAS ESPECIALES CL 2019 DCAyT 01_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2355%20SEMINARIO%20ESTRUCTURAS%20ESPECIALES%20CL%202019%20DCAyT%2001_19.pdf",
+          "codigo": "2355",
+          "materia": "SEMINARIO ESTRUCTURAS ESPECIALES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 01_19"
+        },
+        {
+          "nombre": "2356 SEGURIDAD LABORAL E IMPACTO AMBIENTAL EN LA INDUSTRIA DE LA CONSTRUCCION CL 2019 DCAyT 21_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2356%20SEGURIDAD%20LABORAL%20E%20IMPACTO%20AMBIENTAL%20EN%20LA%20INDUSTRIA%20DE%20LA%20CONSTRUCCION%20CL%202019%20DCAyT%2021_19.pdf",
+          "codigo": "2356",
+          "materia": "SEGURIDAD LABORAL E IMPACTO AMBIENTAL EN LA INDUSTRIA DE LA CONSTRUCCION",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 21_19"
+        },
+        {
+          "nombre": "2357 DIRECCION, GESTION Y EJECUCION DE OBRAS CL 2019 DCAyT 16_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2357%20DIRECCION,%20GESTION%20Y%20EJECUCION%20DE%20OBRAS%20CL%202019%20DCAyT%2016_19.pdf",
+          "codigo": "2357",
+          "materia": "DIRECCION, GESTION Y EJECUCION DE OBRAS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 16_19"
+        },
+        {
+          "nombre": "2358 SEMINARIO REDES DE INFRAESTRUCTURAS URBANAS CL 2019 DCAyT 23_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2358%20SEMINARIO%20REDES%20DE%20INFRAESTRUCTURAS%20URBANAS%20CL%202019%20DCAyT%2023_19.pdf",
+          "codigo": "2358",
+          "materia": "SEMINARIO REDES DE INFRAESTRUCTURAS URBANAS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 23_19"
+        },
+        {
+          "nombre": "2359 SEMINARIO TASACIONES, PERITAJES Y VALUACIONES CL 2019 DCAyT 22_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2359%20SEMINARIO%20TASACIONES,%20PERITAJES%20Y%20VALUACIONES%20CL%202019%20DCAyT%2022_19.pdf",
+          "codigo": "2359",
+          "materia": "SEMINARIO TASACIONES, PERITAJES Y VALUACIONES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 22_19"
+        },
+        {
+          "nombre": "2371 I INGLES CL 2018 DCAyT 51_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2371%20I%20INGLES%20CL%202018%20DCAyT%2051_18.pdf",
+          "codigo": "2371",
+          "materia": "I INGLES",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 51_18"
+        },
+        {
+          "nombre": "2371 P PORTUGUES CL 2019 DCAyT 03_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2371%20P%20PORTUGUES%20CL%202019%20DCAyT%2003_19.pdf",
+          "codigo": "2371",
+          "materia": "P PORTUGUES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 03_19"
+        },
+        {
+          "nombre": "2372 REQUISITO DE DISEÑO ASISTIDO POR COMPUTADORA CL 2016 DADU 08_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2372%20REQUISITO%20DE%20DISE%c3%91O%20ASISTIDO%20POR%20COMPUTADORA%20CL%202016%20DADU%2008_16.pdf",
+          "codigo": "2372",
+          "materia": "REQUISITO DE DISEÑO ASISTIDO POR COMPUTADORA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DADU 08_16"
+        },
+        {
+          "nombre": "2373A SISTEMA DE INFORMACION GEOGRAFICA  CL 2019 DCAyT 19_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2373A%20SISTEMA%20DE%20INFORMACION%20GEOGRAFICA%20%20CL%202019%20DCAyT%2019_19.pdf",
+          "codigo": "2373A",
+          "materia": "SISTEMA DE INFORMACION GEOGRAFICA",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 19_19"
+        },
+        {
+          "nombre": "2373B DISEÑO DE MOBILIARIO URBANO CL 2019 DCAyT 12_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2373B%20DISE%c3%91O%20DE%20MOBILIARIO%20URBANO%20CL%202019%20DCAyT%2012_19.pdf",
+          "codigo": "2373B",
+          "materia": "DISEÑO DE MOBILIARIO URBANO",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 12_19"
+        },
+        {
+          "nombre": "2373C ARQUITECTURA PARA LA SALUD CL 2019 DCAyT 13_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2373C%20ARQUITECTURA%20PARA%20LA%20SALUD%20CL%202019%20DCAyT%2013_19.pdf",
+          "codigo": "2373C",
+          "materia": "ARQUITECTURA PARA LA SALUD",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 13_19"
+        },
+        {
+          "nombre": "2373D DISEÑO DE PAISAJE CL 2019 DCAyT 14_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2373D%20DISE%c3%91O%20DE%20PAISAJE%20CL%202019%20DCAyT%2014_19.pdf",
+          "codigo": "2373D",
+          "materia": "DISEÑO DE PAISAJE",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 14_19"
+        },
+        {
+          "nombre": "2373E ASIGNATURA ELECTIVA ESPACIO PÚBLICO CONTENEDOR  CL 2019 DCAyT 20_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2373E%20ASIGNATURA%20ELECTIVA%20ESPACIO%20P%c3%9aBLICO%20CONTENEDOR%20%20CL%202019%20DCAyT%2020_19.pdf",
+          "codigo": "2373E",
+          "materia": "ASIGNATURA ELECTIVA ESPACIO PÚBLICO CONTENEDOR",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 20_19"
+        },
+        {
+          "nombre": "2373F ASIGNATURA ELECTIVA DISEÑO BIOCLIMÁTICO  CL 2019 DCAyT 34_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20ARQ/2373F%20ASIGNATURA%20ELECTIVA%20DISE%c3%91O%20BIOCLIM%c3%81TICO%20%20CL%202019%20DCAyT%2034_19.pdf",
+          "codigo": "2373F",
+          "materia": "ASIGNATURA ELECTIVA DISEÑO BIOCLIMÁTICO",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT 34_19"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "departamento": "DCAYT",
+      "carrera": "IEL",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/",
+      "contenido": [
+        {
+          "nombre": "2011 ALGEBRA Y GEOMETRIA ANALITICA CL 2016 DCAyT 11_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2011%20ALGEBRA%20Y%20GEOMETRIA%20ANALITICA%20CL%202016%20DCAyT%2011_16.pdf",
+          "codigo": "2011",
+          "materia": "ALGEBRA Y GEOMETRIA ANALITICA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 11_16"
+        },
+        {
+          "nombre": "2012 ANALISIS MATEMATICO CL 2017 UNM-DCAyT 21_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2012%20ANALISIS%20MATEMATICO%20CL%202017%20UNM-DCAyT%2021_17.pdf",
+          "codigo": "2012",
+          "materia": "ANALISIS MATEMATICO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 21_17"
+        },
+        {
+          "nombre": "2013 FISICA I CL 2017 UNM-DCAyT 12_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2013%20FISICA%20I%20CL%202017%20UNM-DCAyT%2012_17.pdf",
+          "codigo": "2013",
+          "materia": "FISICA I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 12_17"
+        },
+        {
+          "nombre": "2014 QUIMICA GENERAL CL 2016 DCAyT 23_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2014%20QUIMICA%20GENERAL%20CL%202016%20DCAyT%2023_16.pdf",
+          "codigo": "2014",
+          "materia": "QUIMICA GENERAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 23_16"
+        },
+        {
+          "nombre": "2015 INFORMATICA I CL 2014 DCAyT 32_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2015%20INFORMATICA%20I%20CL%202014%20DCAyT%2032_14.pdf",
+          "codigo": "2015",
+          "materia": "INFORMATICA I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 32_14"
+        },
+        {
+          "nombre": "2016 INGLES TECNICO I CL 2014 DCAyT 33_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2016%20INGLES%20TECNICO%20I%20CL%202014%20DCAyT%2033_14.pdf",
+          "codigo": "2016",
+          "materia": "INGLES TECNICO I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 33_14"
+        },
+        {
+          "nombre": "2017A FUNDAMENTOS AGRONOMICOS I CL 2017 UNM-DCAyT 13_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2017A%20FUNDAMENTOS%20AGRONOMICOS%20I%20CL%202017%20UNM-DCAyT%2013_17.pdf",
+          "codigo": "2017A",
+          "materia": "FUNDAMENTOS AGRONOMICOS I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 13_17"
+        },
+        {
+          "nombre": "2017M OPTICA Y SONIDO CL 2014 DCAyT 13_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2017M%20OPTICA%20Y%20SONIDO%20CL%202014%20DCAyT%2013_14.pdf",
+          "codigo": "2017M",
+          "materia": "OPTICA Y SONIDO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 13_14"
+        },
+        {
+          "nombre": "2017R REDES IS CL 2014 DCAyT 12_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2017R%20REDES%20IS%20CL%202014%20DCAyT%2012_14.pdf",
+          "codigo": "2017R",
+          "materia": "REDES IS",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 12_14"
+        },
+        {
+          "nombre": "2021 ANALISIS MATEMATICO CL 2017 UNM-DCAyT 14_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2021%20ANALISIS%20MATEMATICO%20CL%202017%20UNM-DCAyT%2014_17.pdf",
+          "codigo": "2021",
+          "materia": "ANALISIS MATEMATICO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 14_17"
+        },
+        {
+          "nombre": "2022 FISICA II CL 2014 DCAyT 36_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2022%20FISICA%20II%20CL%202014%20DCAyT%2036_17.pdf",
+          "codigo": "2022",
+          "materia": "FISICA II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 36_17"
+        },
+        {
+          "nombre": "2023 TECNICAS DIGITALES I CL 2017 UNM-DCAyT 15_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2023%20TECNICAS%20DIGITALES%20I%20CL%202017%20UNM-DCAyT%2015_17.pdf",
+          "codigo": "2023",
+          "materia": "TECNICAS DIGITALES I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 15_17"
+        },
+        {
+          "nombre": "2024 DISPOSITIVOS ELECTRONICOS CL 2017 UNM-DCAyT 18_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2024%20DISPOSITIVOS%20ELECTRONICOS%20CL%202017%20UNM-DCAyT%2018_17.pdf",
+          "codigo": "2024",
+          "materia": "DISPOSITIVOS ELECTRONICOS",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 18_17"
+        },
+        {
+          "nombre": "2025 INFORMATICA II CL 2014 DCAyT 25_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2025%20INFORMATICA%20II%20CL%202014%20DCAyT%2025_14.pdf",
+          "codigo": "2025",
+          "materia": "INFORMATICA II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 25_14"
+        },
+        {
+          "nombre": "2026 INGLES TECNICO II CL 2014 DCAyT 48_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2026%20INGLES%20TECNICO%20II%20CL%202014%20DCAyT%2048_14.pdf",
+          "codigo": "2026",
+          "materia": "INGLES TECNICO II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 48_14"
+        },
+        {
+          "nombre": "2027 PROBABILIDAD Y ESTADISTICA CL 2017 UNM-DCAyT 17_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2027%20PROBABILIDAD%20Y%20ESTADISTICA%20CL%202017%20UNM-DCAyT%2017_17.pdf",
+          "codigo": "2027",
+          "materia": "PROBABILIDAD Y ESTADISTICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 17_17"
+        },
+        {
+          "nombre": "2028A FUNDAMENTOS AGRONOMICOS II CL 2015 DCAyT 15_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2028A%20FUNDAMENTOS%20AGRONOMICOS%20II%20CL%202015%20DCAyT%2015_15.pdf",
+          "codigo": "2028A",
+          "materia": "FUNDAMENTOS AGRONOMICOS II",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 15_15"
+        },
+        {
+          "nombre": "2028M IMAGEN Y ACUSTICA CL 2014 DCAyT 31_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2028M%20IMAGEN%20Y%20ACUSTICA%20CL%202014%20DCAyT%2031_14.pdf",
+          "codigo": "2028M",
+          "materia": "IMAGEN Y ACUSTICA",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 31_14"
+        },
+        {
+          "nombre": "2028R REDES IB CL 2014 DCAyT 27_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2028R%20REDES%20IB%20CL%202014%20DCAyT%2027_14.pdf",
+          "codigo": "2028R",
+          "materia": "REDES IB",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 27_14"
+        },
+        {
+          "nombre": "2031 ANALISIS DE SEÑALES Y SISTEMAS CL 2017 UNM-DCAyT 10_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2031%20ANALISIS%20DE%20SE%c3%91ALES%20Y%20SISTEMAS%20CL%202017%20UNM-DCAyT%2010_17.pdf",
+          "codigo": "2031",
+          "materia": "ANALISIS DE SEÑALES Y SISTEMAS",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 10_17"
+        },
+        {
+          "nombre": "2032 TEORIA DE LOS CIRCUITOS CL 2017 UNM-DCAyT 16_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2032%20TEORIA%20DE%20LOS%20CIRCUITOS%20CL%202017%20UNM-DCAyT%2016_17.pdf",
+          "codigo": "2032",
+          "materia": "TEORIA DE LOS CIRCUITOS",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 16_17"
+        },
+        {
+          "nombre": "2033 ELECTRONICA APLICADA I CL 2014 DCAyT 18_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2033%20ELECTRONICA%20APLICADA%20I%20CL%202014%20DCAyT%2018_14.pdf",
+          "codigo": "2033",
+          "materia": "ELECTRONICA APLICADA I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 18_14"
+        },
+        {
+          "nombre": "2034 TECNICAS DIGITALES II CL 2017 DCAyT 33_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2034%20TECNICAS%20DIGITALES%20II%20CL%202017%20DCAyT%2033_17.pdf",
+          "codigo": "2034",
+          "materia": "TECNICAS DIGITALES II",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 33_17"
+        },
+        {
+          "nombre": "2035 INSTRUMENTOS Y MEDICIONES CL 2017 UNM-DCAyT 09_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2035%20INSTRUMENTOS%20Y%20MEDICIONES%20CL%202017%20UNM-DCAyT%2009_17.pdf",
+          "codigo": "2035",
+          "materia": "INSTRUMENTOS Y MEDICIONES",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 09_17"
+        },
+        {
+          "nombre": "2036 DIBUJO ASISTIDO POR PC CL 2014 DCAyT 19_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2036%20DIBUJO%20ASISTIDO%20POR%20PC%20CL%202014%20DCAyT%2019_14.pdf",
+          "codigo": "2036",
+          "materia": "DIBUJO ASISTIDO POR PC",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 19_14"
+        },
+        {
+          "nombre": "2037A MECANIZACIÓN AGRÍCOLA CL 2016 DCAyT 22_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2037A%20MECANIZACI%c3%93N%20AGR%c3%8dCOLA%20CL%202016%20DCAyT%2022_16.pdf",
+          "codigo": "2037A",
+          "materia": "MECANIZACIÓN AGRÍCOLA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 22_16"
+        },
+        {
+          "nombre": "2037M GRABACION CL 2014 DCAyT 17_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2037M%20GRABACION%20CL%202014%20DCAyT%2017_14.pdf",
+          "codigo": "2037M",
+          "materia": "GRABACION",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 17_14"
+        },
+        {
+          "nombre": "2037R REDES IIA CL 2014 DCAyT 16_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2037R%20REDES%20IIA%20CL%202014%20DCAyT%2016_14.pdf",
+          "codigo": "2037R",
+          "materia": "REDES IIA",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 16_14"
+        },
+        {
+          "nombre": "2041 TEORIA DE LOS CIRCUITOS II CL 2017 UNM-DCAyT 08_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2041%20TEORIA%20DE%20LOS%20CIRCUITOS%20II%20CL%202017%20UNM-DCAyT%2008_17.pdf",
+          "codigo": "2041",
+          "materia": "TEORIA DE LOS CIRCUITOS II",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 08_17"
+        },
+        {
+          "nombre": "2042 ELECTRONICA APLICADA II CL 2014 DCAyT 02_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2042%20ELECTRONICA%20APLICADA%20II%20CL%202014%20DCAyT%2002_14.pdf",
+          "codigo": "2042",
+          "materia": "ELECTRONICA APLICADA II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 02_14"
+        },
+        {
+          "nombre": "2043A TECNOLOGIAS INALAMBRICAS CL 2017 UNM-DCAyT 20_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2043A%20TECNOLOGIAS%20INALAMBRICAS%20CL%202017%20UNM-DCAyT%2020_17.pdf",
+          "codigo": "2043A",
+          "materia": "TECNOLOGIAS INALAMBRICAS",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 20_17"
+        },
+        {
+          "nombre": "2043M AUDIO DIGITAL CL 2014 DCAyT 04_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2043M%20AUDIO%20DIGITAL%20CL%202014%20DCAyT%2004_14.pdf",
+          "codigo": "2043M",
+          "materia": "AUDIO DIGITAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 04_14"
+        },
+        {
+          "nombre": "2043R ENTORNOS C Y JAVA CL 2014 DCAyT 03_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2043R%20ENTORNOS%20C%20Y%20JAVA%20CL%202014%20DCAyT%2003_14.pdf",
+          "codigo": "2043R",
+          "materia": "ENTORNOS C Y JAVA",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 03_14"
+        },
+        {
+          "nombre": "2044 MEDIOS DE ENLACE CL 2017 UNM-DCAyT 24_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2044%20MEDIOS%20DE%20ENLACE%20CL%202017%20UNM-DCAyT%2024_17.pdf",
+          "codigo": "2044",
+          "materia": "MEDIOS DE ENLACE",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 24_17"
+        },
+        {
+          "nombre": "2045A ELECTRONICA APLICADA AL AGRO CL 2017 UNM-DCAyT 19_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2045A%20ELECTRONICA%20APLICADA%20AL%20AGRO%20CL%202017%20UNM-DCAyT%2019_17.pdf",
+          "codigo": "2045A",
+          "materia": "ELECTRONICA APLICADA AL AGRO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 19_17"
+        },
+        {
+          "nombre": "2045M SISTEMA DE VIDEO I CL 2014 DCAyT 06_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2045M%20SISTEMA%20DE%20VIDEO%20I%20CL%202014%20DCAyT%2006_14.pdf",
+          "codigo": "2045M",
+          "materia": "SISTEMA DE VIDEO I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 06_14"
+        },
+        {
+          "nombre": "2045R SISTEMAS DE COMUNICACION I CL 2017 UNM-DCAyT 07_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2045R%20SISTEMAS%20DE%20COMUNICACION%20I%20CL%202017%20UNM-DCAyT%2007_17.pdf",
+          "codigo": "2045R",
+          "materia": "SISTEMAS DE COMUNICACION I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 07_17"
+        },
+        {
+          "nombre": "2046 INGENIERIA Y SOCIEDAD CL 2019 UNM-DCAyT 15_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2046%20INGENIERIA%20Y%20SOCIEDAD%20CL%202019%20UNM-DCAyT%2015_19.pdf",
+          "codigo": "2046",
+          "materia": "INGENIERIA Y SOCIEDAD",
+          "ciclo_lectivo": "2019",
+          "resolucion": "UNM-DCAyT 15_19"
+        },
+        {
+          "nombre": "2051 SISTEMAS DE CONTROL CL 2015 DCAyT 04_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2051%20SISTEMAS%20DE%20CONTROL%20CL%202015%20DCAyT%2004_15.pdf",
+          "codigo": "2051",
+          "materia": "SISTEMAS DE CONTROL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 04_15"
+        },
+        {
+          "nombre": "2052 TALLER DE PROYECTOS CL 2016 DCAyT 16_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2052%20TALLER%20DE%20PROYECTOS%20CL%202016%20DCAyT%2016_16.pdf",
+          "codigo": "2052",
+          "materia": "TALLER DE PROYECTOS",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 16_16"
+        },
+        {
+          "nombre": "2053A SISTEMAS DE POSICIONAMIENTO SATELITAL CL 2017 DCAyT 45_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2053A%20SISTEMAS%20DE%20POSICIONAMIENTO%20SATELITAL%20CL%202017%20DCAyT%2045_17.pdf",
+          "codigo": "2053A",
+          "materia": "SISTEMAS DE POSICIONAMIENTO SATELITAL",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 45_17"
+        },
+        {
+          "nombre": "2053M SISTEMA DE VIDEO II CL 2016 DCAyT 03_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2053M%20SISTEMA%20DE%20VIDEO%20II%20CL%202016%20DCAyT%2003_16.pdf",
+          "codigo": "2053M",
+          "materia": "SISTEMA DE VIDEO II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 03_16"
+        },
+        {
+          "nombre": "2053R REDES IIB CL 2015 DCAyT 10_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2053R%20REDES%20IIB%20CL%202015%20DCAyT%2010_15.pdf",
+          "codigo": "2053R",
+          "materia": "REDES IIB",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 10_15"
+        },
+        {
+          "nombre": "2054 SEGURIDAD, HIGIENE Y AMBIENTE CL 2015 DCAyT 14_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2054%20SEGURIDAD,%20HIGIENE%20Y%20AMBIENTE%20CL%202015%20DCAyT%2014_15.pdf",
+          "codigo": "2054",
+          "materia": "SEGURIDAD, HIGIENE Y AMBIENTE",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 14_15"
+        },
+        {
+          "nombre": "2061 ECONOMIA, PLANIFICACION Y GESTION  CL 2016 DCAyT 04_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2061%20ECONOMIA,%20PLANIFICACION%20Y%20GESTION%20%20CL%202016%20DCAyT%2004_16.pdf",
+          "codigo": "2061",
+          "materia": "ECONOMIA, PLANIFICACION Y GESTION",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 04_16"
+        },
+        {
+          "nombre": "2062A SENSORES Y BUSES DE COMUNICACIÓN CL 2017 DCAyT 52_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2062A%20SENSORES%20Y%20BUSES%20DE%20COMUNICACI%c3%93N%20CL%202017%20DCAyT%2052_17.pdf",
+          "codigo": "2062A",
+          "materia": "SENSORES Y BUSES DE COMUNICACIÓN",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 52_17"
+        },
+        {
+          "nombre": "2062M TELEVISION DIGITAL CL 2016 DCAyT 06_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2062M%20TELEVISION%20DIGITAL%20CL%202016%20DCAyT%2006_16.pdf",
+          "codigo": "2062M",
+          "materia": "TELEVISION DIGITAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 06_16"
+        },
+        {
+          "nombre": "2062R SISTEMAS DISTRIBUIDOS CL 2016 DCAyT 05_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2062R%20SISTEMAS%20DISTRIBUIDOS%20CL%202016%20DCAyT%2005_16.pdf",
+          "codigo": "2062R",
+          "materia": "SISTEMAS DISTRIBUIDOS",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 05_16"
+        },
+        {
+          "nombre": "2063 LEGISLACION Y EJERCICIO PROFESIONAL CL 2016 DCAyT 17_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2063%20LEGISLACION%20Y%20EJERCICIO%20PROFESIONAL%20CL%202016%20DCAyT%2017_16.pdf",
+          "codigo": "2063",
+          "materia": "LEGISLACION Y EJERCICIO PROFESIONAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 17_16"
+        },
+        {
+          "nombre": "2064A DISEÑO DE DISPOSITIVOS PARA USO AGROPECUARIO CL 2017 DCAyT 47_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2064A%20DISE%c3%91O%20DE%20DISPOSITIVOS%20PARA%20USO%20AGROPECUARIO%20CL%202017%20DCAyT%2047_17.pdf",
+          "codigo": "2064A",
+          "materia": "DISEÑO DE DISPOSITIVOS PARA USO AGROPECUARIO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 47_17"
+        },
+        {
+          "nombre": "2064M RUIDO ACUSTICO CL 2016 DCAyT 15_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2064M%20RUIDO%20ACUSTICO%20CL%202016%20DCAyT%2015_16.pdf",
+          "codigo": "2064M",
+          "materia": "RUIDO ACUSTICO",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 15_16"
+        },
+        {
+          "nombre": "2064R REDES III CL 2016 DCAyT 07_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2064R%20REDES%20III%20CL%202016%20DCAyT%2007_16.pdf",
+          "codigo": "2064R",
+          "materia": "REDES III",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 07_16"
+        },
+        {
+          "nombre": "2071A SISTEMAS PARA AGRO METEOROLOGIA CL 2017 DCAyT 46_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2071A%20SISTEMAS%20PARA%20AGRO%20METEOROLOGIA%20CL%202017%20DCAyT%2046_17.pdf",
+          "codigo": "2071A",
+          "materia": "SISTEMAS PARA AGRO METEOROLOGIA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 46_17"
+        },
+        {
+          "nombre": "2071M TRATAMIENTO DIGITAL DE SEÑALES CL 2015 DCAyT 03_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2071M%20TRATAMIENTO%20DIGITAL%20DE%20SE%c3%91ALES%20CL%202015%20DCAyT%2003_15.pdf",
+          "codigo": "2071M",
+          "materia": "TRATAMIENTO DIGITAL DE SEÑALES",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 03_15"
+        },
+        {
+          "nombre": "2071R TRATAMIENTO DIGITAL DE SEÑALES CL 2015 DCAyT 03_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2071R%20TRATAMIENTO%20DIGITAL%20DE%20SE%c3%91ALES%20CL%202015%20DCAyT%2003_15.pdf",
+          "codigo": "2071R",
+          "materia": "TRATAMIENTO DIGITAL DE SEÑALES",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 03_15"
+        },
+        {
+          "nombre": "2072A ELECTRONICA APLICADA A LA GANADERIA DE PRECISION CL 2017 DCAyT 51_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2072A%20ELECTRONICA%20APLICADA%20A%20LA%20GANADERIA%20DE%20PRECISION%20CL%202017%20DCAyT%2051_17.pdf",
+          "codigo": "2072A",
+          "materia": "ELECTRONICA APLICADA A LA GANADERIA DE PRECISION",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 51_17"
+        },
+        {
+          "nombre": "2072M MASTERING Y POST PRODUCCION DE SONIDO CL 2015 DCAyT 09_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2072M%20MASTERING%20Y%20POST%20PRODUCCION%20DE%20SONIDO%20CL%202015%20DCAyT%2009_15.pdf",
+          "codigo": "2072M",
+          "materia": "MASTERING Y POST PRODUCCION DE SONIDO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 09_15"
+        },
+        {
+          "nombre": "2072R ANTENAS Y PROPAGACION CL 2017 DCAyT 44_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2072R%20ANTENAS%20Y%20PROPAGACION%20CL%202017%20DCAyT%2044_17.pdf",
+          "codigo": "2072R",
+          "materia": "ANTENAS Y PROPAGACION",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 44_17"
+        },
+        {
+          "nombre": "2073A SISTEMAS DE TELEDETECCION CL 2017 DCAyT 50_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2073A%20SISTEMAS%20DE%20TELEDETECCION%20CL%202017%20DCAyT%2050_17.pdf",
+          "codigo": "2073A",
+          "materia": "SISTEMAS DE TELEDETECCION",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 50_17"
+        },
+        {
+          "nombre": "2073M ELECTROCUSTICA CL 2017 DCAyT 49_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2073M%20ELECTROCUSTICA%20CL%202017%20DCAyT%2049_17.pdf",
+          "codigo": "2073M",
+          "materia": "ELECTROCUSTICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 49_17"
+        },
+        {
+          "nombre": "2073R SISTEMAS DE COMUNICACION II CL 2017 DCAyT 43_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2073R%20SISTEMAS%20DE%20COMUNICACION%20II%20CL%202017%20DCAyT%2043_17.pdf",
+          "codigo": "2073R",
+          "materia": "SISTEMAS DE COMUNICACION II",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 43_17"
+        },
+        {
+          "nombre": "2074A TELEMETRIA Y TRAZABILIDAD ELECTRONICA CL 2017 DCAyT 53_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2074A%20TELEMETRIA%20Y%20TRAZABILIDAD%20ELECTRONICA%20CL%202017%20DCAyT%2053_17.pdf",
+          "codigo": "2074A",
+          "materia": "TELEMETRIA Y TRAZABILIDAD ELECTRONICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 53_17"
+        },
+        {
+          "nombre": "2074M SONIDO EN VIVO CL 2017 DCAyT 48_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2074M%20SONIDO%20EN%20VIVO%20CL%202017%20DCAyT%2048_17.pdf",
+          "codigo": "2074M",
+          "materia": "SONIDO EN VIVO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 48_17"
+        },
+        {
+          "nombre": "2074R SISTEMAS DE COMUNICACION III CL 2017 DCAyT 28_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2074R%20SISTEMAS%20DE%20COMUNICACION%20III%20CL%202017%20DCAyT%2028_17.pdf",
+          "codigo": "2074R",
+          "materia": "SISTEMAS DE COMUNICACION III",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 28_17"
+        },
+        {
+          "nombre": "2075A SISTEMAS ELECTRONICOS PARA PRODUCCIONES REGIONALES CL 2017 DCAyT 54_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2075A%20SISTEMAS%20ELECTRONICOS%20PARA%20PRODUCCIONES%20REGIONALES%20CL%202017%20DCAyT%2054_17.pdf",
+          "codigo": "2075A",
+          "materia": "SISTEMAS ELECTRONICOS PARA PRODUCCIONES REGIONALES",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 54_17"
+        },
+        {
+          "nombre": "2075M BIOELECTRONICA CL 2017 DCAyT 42_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2075M%20BIOELECTRONICA%20CL%202017%20DCAyT%2042_17.pdf",
+          "codigo": "2075M",
+          "materia": "BIOELECTRONICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 42_17"
+        },
+        {
+          "nombre": "2075R BIOELECTRONICA CL 2017 DCAyT 42_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2075R%20BIOELECTRONICA%20CL%202017%20DCAyT%2042_17.pdf",
+          "codigo": "2075R",
+          "materia": "BIOELECTRONICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 42_17"
+        },
+        {
+          "nombre": "2076M LABORATORIO DE ACUSTICA CL 2017 DCAyT 55_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2076M%20LABORATORIO%20DE%20ACUSTICA%20CL%202017%20DCAyT%2055_17.pdf",
+          "codigo": "2076M",
+          "materia": "LABORATORIO DE ACUSTICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 55_17"
+        },
+        {
+          "nombre": "2080 PRACTICA PRE PROFESIONAL SUPERVISADA CL 2016 DCAyT 09_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20IEL/2080%20PRACTICA%20PRE%20PROFESIONAL%20SUPERVISADA%20CL%202016%20DCAyT%2009_16.pdf",
+          "codigo": "2080",
+          "materia": "PRACTICA PRE PROFESIONAL SUPERVISADA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 09_16"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "departamento": "DCAYT",
+      "carrera": "LBIO",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/",
+      "contenido": [
+        {
+          "nombre": "2211 INTRODUCCIÓN A LA QUÍMICA  CL 2018 DCAyT 15_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2211%20INTRODUCCI%c3%93N%20A%20LA%20QU%c3%8dMICA%20%20CL%202018%20DCAyT%2015_18.pdf",
+          "codigo": "2211",
+          "materia": "INTRODUCCIÓN A LA QUÍMICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 15_18"
+        },
+        {
+          "nombre": "2212 INTRODUCCIÓN AL CÁLCULO  CL 2018 DCAyT 25_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2212%20INTRODUCCI%c3%93N%20AL%20C%c3%81LCULO%20%20CL%202018%20DCAyT%2025_18.pdf",
+          "codigo": "2212",
+          "materia": "INTRODUCCIÓN AL CÁLCULO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 25_18"
+        },
+        {
+          "nombre": "2213 INTRODUCCIÓN A LA BIOTECNOLOGÍA CL 2018  DCAyT 30_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2213%20INTRODUCCI%c3%93N%20A%20LA%20BIOTECNOLOG%c3%8dA%20CL%202018%20%20DCAyT%2030_18.pdf",
+          "codigo": "2213",
+          "materia": "INTRODUCCIÓN A LA BIOTECNOLOGÍA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 30_18"
+        },
+        {
+          "nombre": "2214 ANÁLISIS MATEMÁTICO CL 2018 DCAyT 24_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2214%20AN%c3%81LISIS%20MATEM%c3%81TICO%20CL%202018%20DCAyT%2024_18.pdf",
+          "codigo": "2214",
+          "materia": "ANÁLISIS MATEMÁTICO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 24_18"
+        },
+        {
+          "nombre": "2215 QUÍMICA GENERAL E INORGÁNICA CL 2018 DCAyT 10_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2215%20QU%c3%8dMICA%20GENERAL%20E%20INORG%c3%81NICA%20CL%202018%20DCAyT%2010_18.pdf",
+          "codigo": "2215",
+          "materia": "QUÍMICA GENERAL E INORGÁNICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 10_18"
+        },
+        {
+          "nombre": "2216 BIOLOGÍA  CL 2018 DCAyT 21_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2216%20BIOLOG%c3%8dA%20%20CL%202018%20DCAyT%2021_18.pdf",
+          "codigo": "2216",
+          "materia": "BIOLOGÍA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 21_18"
+        },
+        {
+          "nombre": "2221 DISEÑO DE ALGORITMOS Y ESTRUC. DE DATOS CL 2018 DCyT 27_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2221%20DISE%c3%91O%20DE%20ALGORITMOS%20Y%20ESTRUC.%20DE%20DATOS%20CL%202018%20DCyT%2027_18.pdf",
+          "codigo": "2221",
+          "materia": "DISEÑO DE ALGORITMOS Y ESTRUC. DE DATOS",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCyT 27_18"
+        },
+        {
+          "nombre": "2222 QUÍMICA ORGÁNICA CL 2018 DCAyT 26_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2222%20QU%c3%8dMICA%20ORG%c3%81NICA%20CL%202018%20DCAyT%2026_18.pdf",
+          "codigo": "2222",
+          "materia": "QUÍMICA ORGÁNICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 26_18"
+        },
+        {
+          "nombre": "2223 FÍSICA I CL 2018 DCAyT 11_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2223%20F%c3%8dSICA%20I%20CL%202018%20DCAyT%2011_18.pdf",
+          "codigo": "2223",
+          "materia": "FÍSICA I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 11_18"
+        },
+        {
+          "nombre": "2224 FÍSICA II CL 2018 DCAyT 12_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2224%20F%c3%8dSICA%20II%20CL%202018%20DCAyT%2012_18.pdf",
+          "codigo": "2224",
+          "materia": "FÍSICA II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 12_18"
+        },
+        {
+          "nombre": "2225  QUÍMICA ANALÍTICA E INSTRUMENTAL CL2018 DCAyT 23_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2225%20%20QU%c3%8dMICA%20ANAL%c3%8dTICA%20E%20INSTRUMENTAL%20CL2018%20DCAyT%2023_18.pdf",
+          "codigo": "2225",
+          "materia": "QUÍMICA ANALÍTICA E INSTRUMENTAL CL2018 DCAyT 23_18",
+          "ciclo_lectivo": "",
+          "resolucion": ""
+        },
+        {
+          "nombre": "2226 BIOESTADÍSTICA CL 2018 DCAyT 34_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2226%20BIOESTAD%c3%8dSTICA%20CL%202018%20DCAyT%2034_18.pdf",
+          "codigo": "2226",
+          "materia": "BIOESTADÍSTICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 34_18"
+        },
+        {
+          "nombre": "2227 ELEMENTOS DE ECONOMÍA Y ADMINISTRACIÓN CL 2018 DCAyT 28_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2227%20ELEMENTOS%20DE%20ECONOM%c3%8dA%20Y%20ADMINISTRACI%c3%93N%20CL%202018%20DCAyT%2028_18.pdf",
+          "codigo": "2227",
+          "materia": "ELEMENTOS DE ECONOMÍA Y ADMINISTRACIÓN",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 28_18"
+        },
+        {
+          "nombre": "2228 TALLER DE MANEJO DE SOFT. Y DE BASES DE DATOS CL 2028 DCAyT 22_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2228%20TALLER%20DE%20MANEJO%20DE%20SOFT.%20Y%20DE%20BASES%20DE%20DATOS%20CL%202028%20DCAyT%2022_18.pdf",
+          "codigo": "2228",
+          "materia": "TALLER DE MANEJO DE SOFT. Y DE BASES DE DATOS",
+          "ciclo_lectivo": "2028",
+          "resolucion": "DCAyT 22_18"
+        },
+        {
+          "nombre": "2231 PRÁCTICA PRE-PROFESIONAL I  CL 2018 DCAyT 29_18 11_06_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2231%20PR%c3%81CTICA%20PRE-PROFESIONAL%20I%20%20CL%202018%20DCAyT%2029_18%2011_06_18.pdf",
+          "codigo": "2231",
+          "materia": "PRÁCTICA PRE-PROFESIONAL I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 29_18 11_06_18"
+        },
+        {
+          "nombre": "2232 QUÍMICA BIOLÓGICA I  CL 2018 DCAyT 13_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2232%20QU%c3%8dMICA%20BIOL%c3%93GICA%20I%20%20CL%202018%20DCAyT%2013_18.pdf",
+          "codigo": "2232",
+          "materia": "QUÍMICA BIOLÓGICA I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 13_18"
+        },
+        {
+          "nombre": "2233 BIOÉTICA Y FILOSOFÍA DE LA CIENCIA CL 2018 DCAyT 14_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2233%20BIO%c3%89TICA%20Y%20FILOSOF%c3%8dA%20DE%20LA%20CIENCIA%20CL%202018%20DCAyT%2014_18.pdf",
+          "codigo": "2233",
+          "materia": "BIOÉTICA Y FILOSOFÍA DE LA CIENCIA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 14_18"
+        },
+        {
+          "nombre": "2234 BIOLOGÍA MOLECULAR Y CELULAR CL 2020 19_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2234%20BIOLOG%c3%8dA%20MOLECULAR%20Y%20CELULAR%20CL%202020%2019_18.pdf",
+          "codigo": "2234",
+          "materia": "BIOLOGÍA MOLECULAR Y CELULAR",
+          "ciclo_lectivo": "2020",
+          "resolucion": "19_18"
+        },
+        {
+          "nombre": "2235 MICROBIOLOGÍA I  CL 2018 DCAyT 20_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2235%20MICROBIOLOG%c3%8dA%20I%20%20CL%202018%20DCAyT%2020_18.pdf",
+          "codigo": "2235",
+          "materia": "MICROBIOLOGÍA I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 20_18"
+        },
+        {
+          "nombre": "2236 BIOPROCESOS I  CL 2018 DCAyT 17_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2236%20BIOPROCESOS%20I%20%20CL%202018%20DCAyT%2017_18.pdf",
+          "codigo": "2236",
+          "materia": "BIOPROCESOS I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 17_18"
+        },
+        {
+          "nombre": "2237 BIOTECNOLOGÍA I CL 2018 DCAyT 18_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2237%20BIOTECNOLOG%c3%8dA%20I%20CL%202018%20DCAyT%2018_18.pdf",
+          "codigo": "2237",
+          "materia": "BIOTECNOLOGÍA I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 18_18"
+        },
+        {
+          "nombre": "2241 INMUNOLOGÍA CL 2018 DCAyT 31_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2241%20INMUNOLOG%c3%8dA%20CL%202018%20DCAyT%2031_18.pdf",
+          "codigo": "2241",
+          "materia": "INMUNOLOGÍA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 31_18"
+        },
+        {
+          "nombre": "2242 GENÉTICA CL 2018 DCAyT 32_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2242%20GEN%c3%89TICA%20CL%202018%20DCAyT%2032_18.pdf",
+          "codigo": "2242",
+          "materia": "GENÉTICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 32_18"
+        },
+        {
+          "nombre": "2243 MICROBIOLOGÍA II CL 2018 DCAyT 33_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2243%20MICROBIOLOG%c3%8dA%20II%20CL%202018%20DCAyT%2033_18.pdf",
+          "codigo": "2243",
+          "materia": "MICROBIOLOGÍA II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 33_18"
+        },
+        {
+          "nombre": "2244 CURSO UNIV. VIROLOGÍA Y BIOTECN. VIRAL I  CL 2018 DCAyT 47_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2244%20CURSO%20UNIV.%20VIROLOG%c3%8dA%20Y%20BIOTECN.%20VIRAL%20I%20%20CL%202018%20DCAyT%2047_18.pdf",
+          "codigo": "2244",
+          "materia": "CURSO UNIV. VIROLOGÍA Y BIOTECN. VIRAL I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 47_18"
+        },
+        {
+          "nombre": "2245 QUÍMICA BIOLÓGICA II CL 2018 DCAyT 48_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2245%20QU%c3%8dMICA%20BIOL%c3%93GICA%20II%20CL%202018%20DCAyT%2048_18.pdf",
+          "codigo": "2245",
+          "materia": "QUÍMICA BIOLÓGICA II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 48_18"
+        },
+        {
+          "nombre": "2246 INGENIERÍA GENÉTICA CL 2018 DCAyT 46_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2246%20INGENIER%c3%8dA%20GEN%c3%89TICA%20CL%202018%20DCAyT%2046_18.pdf",
+          "codigo": "2246",
+          "materia": "INGENIERÍA GENÉTICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 46_18"
+        },
+        {
+          "nombre": "2251 BIOTECNOLOGÍA II CL 2018 DCAyT 49_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2251%20BIOTECNOLOG%c3%8dA%20II%20CL%202018%20DCAyT%2049_18.pdf",
+          "codigo": "2251",
+          "materia": "BIOTECNOLOGÍA II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 49_18"
+        },
+        {
+          "nombre": "2252 BIOPROCESOS II CL 2018 DCAyT 39_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2252%20BIOPROCESOS%20II%20CL%202018%20DCAyT%2039_18.pdf",
+          "codigo": "2252",
+          "materia": "BIOPROCESOS II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 39_18"
+        },
+        {
+          "nombre": "2253 CURJSOI UNIV, VIROLOGÍA Y BIOTECN. VIRAL II CL 2018 DCAyT 35_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2253%20CURJSOI%20UNIV,%20VIROLOG%c3%8dA%20Y%20BIOTECN.%20VIRAL%20II%20CL%202018%20DCAyT%2035_18.pdf",
+          "codigo": "2253",
+          "materia": "CURJSOI UNIV, VIROLOGÍA Y BIOTECN. VIRAL II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 35_18"
+        },
+        {
+          "nombre": "2254 BIOINFORMÁTICA CL 2018 DCAyT 44_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2254%20BIOINFORM%c3%81TICA%20CL%202018%20DCAyT%2044_18.pdf",
+          "codigo": "2254",
+          "materia": "BIOINFORMÁTICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 44_18"
+        },
+        {
+          "nombre": "2255 GESTIÓN DE PROYECTOS CL 2018 DCAyT 43_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2255%20GESTI%c3%93N%20DE%20PROYECTOS%20CL%202018%20DCAyT%2043_18.pdf",
+          "codigo": "2255",
+          "materia": "GESTIÓN DE PROYECTOS",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 43_18"
+        },
+        {
+          "nombre": "2256A SISTEMAS DE EXPRESIÓN DE PROTEÍNAS  RECOMBINANTES  CL 2018 DCAyT 41_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2256A%20SISTEMAS%20DE%20EXPRESI%c3%93N%20DE%20PROTE%c3%8dNAS%20%20RECOMBINANTES%20%20CL%202018%20DCAyT%2041_18.pdf",
+          "codigo": "2256A",
+          "materia": "SISTEMAS DE EXPRESIÓN DE PROTEÍNAS  RECOMBINANTES",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 41_18"
+        },
+        {
+          "nombre": "2256B INTROD. A LA GENÓMICA Y OTRAS TECNOLOGÍAS OMICAS CL 2018 DCAyT 42_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2256B%20INTROD.%20A%20LA%20GEN%c3%93MICA%20Y%20OTRAS%20TECNOLOG%c3%8dAS%20OMICAS%20CL%202018%20DCAyT%2042_18.pdf",
+          "codigo": "2256B",
+          "materia": "INTROD. A LA GENÓMICA Y OTRAS TECNOLOGÍAS OMICAS",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 42_18"
+        },
+        {
+          "nombre": "2257 SEMINARIO GESTIÓN DE CALIDAD Y ASPECTOS REGULATORIOS CL 2028 DCAyT 50_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2257%20SEMINARIO%20GESTI%c3%93N%20DE%20CALIDAD%20Y%20ASPECTOS%20REGULATORIOS%20CL%202028%20DCAyT%2050_18.pdf",
+          "codigo": "2257",
+          "materia": "SEMINARIO GESTIÓN DE CALIDAD Y ASPECTOS REGULATORIOS",
+          "ciclo_lectivo": "2028",
+          "resolucion": "DCAyT 50_18"
+        },
+        {
+          "nombre": "2261 INGLÉS NIVEL I  CL 2018 DCAyT 40_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2261%20INGL%c3%89S%20NIVEL%20I%20%20CL%202018%20DCAyT%2040_18.pdf",
+          "codigo": "2261",
+          "materia": "INGLÉS NIVEL I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 40_18"
+        },
+        {
+          "nombre": "2262 INGLÉS NIEL II  CL 2018 DCAyT 37_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2262%20INGL%c3%89S%20NIEL%20II%20%20CL%202018%20DCAyT%2037_18.pdf",
+          "codigo": "2262",
+          "materia": "INGLÉS NIEL II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 37_18"
+        },
+        {
+          "nombre": "2263 INGLÉS NIVEL III  CL 2018 DCAyT 45_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2263%20INGL%c3%89S%20NIVEL%20III%20%20CL%202018%20DCAyT%2045_18.pdf",
+          "codigo": "2263",
+          "materia": "INGLÉS NIVEL III",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 45_18"
+        },
+        {
+          "nombre": "2264 TRABAJO FINAL INTEGRADOR  CL 2018 DCAyT 36_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LBIO/2264%20TRABAJO%20FINAL%20INTEGRADOR%20%20CL%202018%20DCAyT%2036_18.pdf",
+          "codigo": "2264",
+          "materia": "TRABAJO FINAL INTEGRADOR",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DCAyT 36_18"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "departamento": "DCAYT",
+      "carrera": "LGA",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/",
+      "contenido": [
+        {
+          "nombre": "2111 MATEMATICA I  CL 2013 DCAyT 06_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2111%20MATEMATICA%20I%20%20CL%202013%20DCAyT%2006_13.pdf",
+          "codigo": "2111",
+          "materia": "MATEMATICA I",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DCAyT 06_13"
+        },
+        {
+          "nombre": "2112 FISICA CL 2013 DCAyT 09_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2112%20FISICA%20CL%202013%20DCAyT%2009_13.pdf",
+          "codigo": "2112",
+          "materia": "FISICA",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DCAyT 09_13"
+        },
+        {
+          "nombre": "2113 DESARROLLO SUSTENTABLE Y DERECHOS HUMANOS CL 2013 DCAyT 07_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2113%20DESARROLLO%20SUSTENTABLE%20Y%20DERECHOS%20HUMANOS%20CL%202013%20DCAyT%2007_13.pdf",
+          "codigo": "2113",
+          "materia": "DESARROLLO SUSTENTABLE Y DERECHOS HUMANOS",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DCAyT 07_13"
+        },
+        {
+          "nombre": "2114 INGLES I CL 2014 DCAyT 44_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2114%20INGLES%20I%20CL%202014%20DCAyT%2044_14.pdf",
+          "codigo": "2114",
+          "materia": "INGLES I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 44_14"
+        },
+        {
+          "nombre": "2115 ECOLOGIA Y RECURSOS NATURALES CL 2014 DCAyT 36_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2115%20ECOLOGIA%20Y%20RECURSOS%20NATURALES%20CL%202014%20DCAyT%2036_14.pdf",
+          "codigo": "2115",
+          "materia": "ECOLOGIA Y RECURSOS NATURALES",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 36_14"
+        },
+        {
+          "nombre": "2116 QUIMICA AMBIENTAL I CL 2014 DCAyT 34_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2116%20QUIMICA%20AMBIENTAL%20I%20CL%202014%20DCAyT%2034_14.pdf",
+          "codigo": "2116",
+          "materia": "QUIMICA AMBIENTAL I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 34_14"
+        },
+        {
+          "nombre": "2117 SOCIOLOGIA Y AMBIENTE CL 2014 DCAyT 41_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2117%20SOCIOLOGIA%20Y%20AMBIENTE%20CL%202014%20DCAyT%2041_14.pdf",
+          "codigo": "2117",
+          "materia": "SOCIOLOGIA Y AMBIENTE",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 41_14"
+        },
+        {
+          "nombre": "2118 INGLES II CL 2014 DCAyT 39_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2118%20INGLES%20II%20CL%202014%20DCAyT%2039_14.pdf",
+          "codigo": "2118",
+          "materia": "INGLES II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 39_14"
+        },
+        {
+          "nombre": "2121 GEOLOGIA AMBIENTAL CL 2014 DCAyT 08_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2121%20GEOLOGIA%20AMBIENTAL%20CL%202014%20DCAyT%2008_14.pdf",
+          "codigo": "2121",
+          "materia": "GEOLOGIA AMBIENTAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 08_14"
+        },
+        {
+          "nombre": "2122 MATEMATICA II CL 2014 DCAyT 09_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2122%20MATEMATICA%20II%20CL%202014%20DCAyT%2009_14.pdf",
+          "codigo": "2122",
+          "materia": "MATEMATICA II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 09_14"
+        },
+        {
+          "nombre": "2123 DERECHO AMBIENTAL CL 2014 DCAyT 10_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2123%20DERECHO%20AMBIENTAL%20CL%202014%20DCAyT%2010_14.pdf",
+          "codigo": "2123",
+          "materia": "DERECHO AMBIENTAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 10_14"
+        },
+        {
+          "nombre": "2124 ECONOMIA I CL 2014 DCAyT 11_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2124%20ECONOMIA%20I%20CL%202014%20DCAyT%2011_14.pdf",
+          "codigo": "2124",
+          "materia": "ECONOMIA I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 11_14"
+        },
+        {
+          "nombre": "2125 INGLES III CL 2014 DCAyT 42_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2125%20INGLES%20III%20CL%202014%20DCAyT%2042_14.pdf",
+          "codigo": "2125",
+          "materia": "INGLES III",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 42_14"
+        },
+        {
+          "nombre": "2126 QUIMICA AMBIENTAL II CL 2014 DCAyT 35_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2126%20QUIMICA%20AMBIENTAL%20II%20CL%202014%20DCAyT%2035_14.pdf",
+          "codigo": "2126",
+          "materia": "QUIMICA AMBIENTAL II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 35_14"
+        },
+        {
+          "nombre": "2127 INDICADORES E INDICES AMBIENTALES CL 2014 DCAyT 37_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2127%20INDICADORES%20E%20INDICES%20AMBIENTALES%20CL%202014%20DCAyT%2037_14.pdf",
+          "codigo": "2127",
+          "materia": "INDICADORES E INDICES AMBIENTALES",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 37_14"
+        },
+        {
+          "nombre": "2128 POBLACION Y MOVIMIENTOS MIGRATORIOS CL 2014 DCAyT 40_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2128%20POBLACION%20Y%20MOVIMIENTOS%20MIGRATORIOS%20CL%202014%20DCAyT%2040_14.pdf",
+          "codigo": "2128",
+          "materia": "POBLACION Y MOVIMIENTOS MIGRATORIOS",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 40_14"
+        },
+        {
+          "nombre": "2129 MODELOS DE DESARROLLO Y AMBIENTE CL 2014 DCAyT 38_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2129%20MODELOS%20DE%20DESARROLLO%20Y%20AMBIENTE%20CL%202014%20DCAyT%2038_14.pdf",
+          "codigo": "2129",
+          "materia": "MODELOS DE DESARROLLO Y AMBIENTE",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DCAyT 38_14"
+        },
+        {
+          "nombre": "2131 SISTEMAS URBANOS CL 2015 DCAyT 02_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2131%20SISTEMAS%20URBANOS%20CL%202015%20DCAyT%2002_15.pdf",
+          "codigo": "2131",
+          "materia": "SISTEMAS URBANOS",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 02_15"
+        },
+        {
+          "nombre": "2132 ECONOMIA II CL 2015 DCAyT 07_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2132%20ECONOMIA%20II%20CL%202015%20DCAyT%2007_15.pdf",
+          "codigo": "2132",
+          "materia": "ECONOMIA II",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 07_15"
+        },
+        {
+          "nombre": "2133 CARTOGRAFIA Y CATASTRO CL 2017 UNM-DCAyT 23_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2133%20CARTOGRAFIA%20Y%20CATASTRO%20CL%202017%20UNM-DCAyT%2023_17.pdf",
+          "codigo": "2133",
+          "materia": "CARTOGRAFIA Y CATASTRO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 23_17"
+        },
+        {
+          "nombre": "2134 EVALUACION DE IMPACTO AMBIENTAL I CL 2015 DCAyT 08_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2134%20EVALUACION%20DE%20IMPACTO%20AMBIENTAL%20I%20CL%202015%20DCAyT%2008_15.pdf",
+          "codigo": "2134",
+          "materia": "EVALUACION DE IMPACTO AMBIENTAL I",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 08_15"
+        },
+        {
+          "nombre": "2135 SISTEMAS  DE INFORMACION GEOGRAFICA CL 2017 UNM-DCAyT 29_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2135%20SISTEMAS%20%20DE%20INFORMACION%20GEOGRAFICA%20CL%202017%20UNM-DCAyT%2029_17.pdf",
+          "codigo": "2135",
+          "materia": "SISTEMAS  DE INFORMACION GEOGRAFICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 29_17"
+        },
+        {
+          "nombre": "2136 GESTION DE RECURSOS NATURALES CL 2015 DCAyT 16_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2136%20GESTION%20DE%20RECURSOS%20NATURALES%20CL%202015%20DCAyT%2016_15.pdf",
+          "codigo": "2136",
+          "materia": "GESTION DE RECURSOS NATURALES",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 16_15"
+        },
+        {
+          "nombre": "2137 EVALUACION DE IMPACTO AMBIENTAL II CL 2015 DCAyT 13_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2137%20EVALUACION%20DE%20IMPACTO%20AMBIENTAL%20II%20CL%202015%20DCAyT%2013_15.pdf",
+          "codigo": "2137",
+          "materia": "EVALUACION DE IMPACTO AMBIENTAL II",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DCAyT 13_15"
+        },
+        {
+          "nombre": "2138 USO DEL SUELO Y PLANIFICACION TERRITORIAL CL 2017 UNM-DCAyT 22_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2138%20USO%20DEL%20SUELO%20Y%20PLANIFICACION%20TERRITORIAL%20CL%202017%20UNM-DCAyT%2022_17.pdf",
+          "codigo": "2138",
+          "materia": "USO DEL SUELO Y PLANIFICACION TERRITORIAL",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 22_17"
+        },
+        {
+          "nombre": "2141 GESTION AMBIENTAL EN LA INDUSTRIA CL 2016 DCAyT 12_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2141%20GESTION%20AMBIENTAL%20EN%20LA%20INDUSTRIA%20CL%202016%20DCAyT%2012_16.pdf",
+          "codigo": "2141",
+          "materia": "GESTION AMBIENTAL EN LA INDUSTRIA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 12_16"
+        },
+        {
+          "nombre": "2142 IMPACTO SOCIOECONOMICO DEL CAMBIO CLIMATICO CL 2016 DCAyT 13_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2142%20IMPACTO%20SOCIOECONOMICO%20DEL%20CAMBIO%20CLIMATICO%20CL%202016%20DCAyT%2013_16.pdf",
+          "codigo": "2142",
+          "materia": "IMPACTO SOCIOECONOMICO DEL CAMBIO CLIMATICO",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 13_16"
+        },
+        {
+          "nombre": "2143 GESTION AMBIENTAL DE LA PRODUCCION PRIMARIA CL 2016 DCAyT 01_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2143%20GESTION%20AMBIENTAL%20DE%20LA%20PRODUCCION%20PRIMARIA%20CL%202016%20DCAyT%2001_16.pdf",
+          "codigo": "2143",
+          "materia": "GESTION AMBIENTAL DE LA PRODUCCION PRIMARIA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 01_16"
+        },
+        {
+          "nombre": "2144 POLITICA AMBIENTAL PUBLICA CL 2016 DCAyT 14_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2144%20POLITICA%20AMBIENTAL%20PUBLICA%20CL%202016%20DCAyT%2014_16.pdf",
+          "codigo": "2144",
+          "materia": "POLITICA AMBIENTAL PUBLICA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 14_16"
+        },
+        {
+          "nombre": "2145 SEMIRARIO INTEGRADOR CL 2017 UM-DCAyT 06_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2145%20SEMIRARIO%20INTEGRADOR%20CL%202017%20UM-DCAyT%2006_17.pdf",
+          "codigo": "2145",
+          "materia": "SEMIRARIO INTEGRADOR",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UM-DCAyT 06_17"
+        },
+        {
+          "nombre": "2146 SALUD Y EPIDEMIOLOGÍA CL 2016 DCAyT 18_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2146%20SALUD%20Y%20EPIDEMIOLOG%c3%8dA%20CL%202016%20DCAyT%2018_16.pdf",
+          "codigo": "2146",
+          "materia": "SALUD Y EPIDEMIOLOGÍA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 18_16"
+        },
+        {
+          "nombre": "2147 GESTIÓN DE RESIDUOS SÓLIDOS URBANOS CL 2020 DCAyT 24_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2147%20GESTI%c3%93N%20DE%20RESIDUOS%20S%c3%93LIDOS%20URBANOS%20CL%202020%20DCAyT%2024_19.pdf",
+          "codigo": "2147",
+          "materia": "GESTIÓN DE RESIDUOS SÓLIDOS URBANOS",
+          "ciclo_lectivo": "2020",
+          "resolucion": "DCAyT 24_19"
+        },
+        {
+          "nombre": "2148 COMUNICACIÓN SOCIAL Y AMBIENTE CL 2016 DCAyT 20_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2148%20COMUNICACI%c3%93N%20SOCIAL%20Y%20AMBIENTE%20CL%202016%20DCAyT%2020_16.pdf",
+          "codigo": "2148",
+          "materia": "COMUNICACIÓN SOCIAL Y AMBIENTE",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 20_16"
+        },
+        {
+          "nombre": "2149 AMBIENTE LABORAL CL 2016 DCAyT 21_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2149%20AMBIENTE%20LABORAL%20CL%202016%20DCAyT%2021_16.pdf",
+          "codigo": "2149",
+          "materia": "AMBIENTE LABORAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DCAyT 21_16"
+        },
+        {
+          "nombre": "2151 GESTION AMBIENTAL DE LA ENERGIA CL 2017 DCAyT 02_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2151%20GESTION%20AMBIENTAL%20DE%20LA%20ENERGIA%20CL%202017%20DCAyT%2002_17.pdf",
+          "codigo": "2151",
+          "materia": "GESTION AMBIENTAL DE LA ENERGIA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 02_17"
+        },
+        {
+          "nombre": "2152 GESTION AMBIENTAL DE LOS RECUSROS HIDRICOS Y SANEAMIENTO CL 2017  UNM-DCAyT 03_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2152%20GESTION%20AMBIENTAL%20DE%20LOS%20RECUSROS%20HIDRICOS%20Y%20SANEAMIENTO%20CL%202017%20%20UNM-DCAyT%2003_17.pdf",
+          "codigo": "2152",
+          "materia": "GESTION AMBIENTAL DE LOS RECUSROS HIDRICOS Y SANEAMIENTO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 03_17"
+        },
+        {
+          "nombre": "2153 GESTION AMBIENTAL URBANA CL 2017 DCAyT 01_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2153%20GESTION%20AMBIENTAL%20URBANA%20CL%202017%20DCAyT%2001_17.pdf",
+          "codigo": "2153",
+          "materia": "GESTION AMBIENTAL URBANA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 01_17"
+        },
+        {
+          "nombre": "2154 TALLER DE PRACTICA PREPROFESIONAL CL 2017 UNM-DCAyT 05_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2154%20TALLER%20DE%20PRACTICA%20PREPROFESIONAL%20CL%202017%20UNM-DCAyT%2005_17.pdf",
+          "codigo": "2154",
+          "materia": "TALLER DE PRACTICA PREPROFESIONAL",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 05_17"
+        },
+        {
+          "nombre": "2155 GESTION DE EMERGENCIAS CL 2017 DCAyT 37_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2155%20GESTION%20DE%20EMERGENCIAS%20CL%202017%20DCAyT%2037_17.pdf",
+          "codigo": "2155",
+          "materia": "GESTION DE EMERGENCIAS",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 37_17"
+        },
+        {
+          "nombre": "2156 GESTIÓN DE RESIDUOS PELIGROSOS Y PATOGÉNICOS  CL 2019 DCAyT  26_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2156%20GESTI%c3%93N%20DE%20RESIDUOS%20PELIGROSOS%20Y%20PATOG%c3%89NICOS%20%20CL%202019%20DCAyT%20%2026_19.pdf",
+          "codigo": "2156",
+          "materia": "GESTIÓN DE RESIDUOS PELIGROSOS Y PATOGÉNICOS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DCAyT  26_19"
+        },
+        {
+          "nombre": "2157 FROMULACION DE PROYUECTOS Y FINANCIAMIENTO CL 2017 UNM-DCAyT 30_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2157%20FROMULACION%20DE%20PROYUECTOS%20Y%20FINANCIAMIENTO%20CL%202017%20UNM-DCAyT%2030_17.pdf",
+          "codigo": "2157",
+          "materia": "FROMULACION DE PROYUECTOS Y FINANCIAMIENTO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "UNM-DCAyT 30_17"
+        },
+        {
+          "nombre": "2158 SISTEMAS DE REMEDIACIÓN CL 2017 DCAyT 38_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DCAYT%20LGA/2158%20SISTEMAS%20DE%20REMEDIACI%c3%93N%20CL%202017%20DCAyT%2038_17.pdf",
+          "codigo": "2158",
+          "materia": "SISTEMAS DE REMEDIACIÓN",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DCAyT 38_17"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "departamento": "DEYA",
+      "carrera": "ACT COMPLEMENTARIAS",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/",
+      "contenido": [
+        {
+          "nombre": "1161F 1261F 1361F 1461F FRANCES I CL 2019 DEyA 08_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1161F%201261F%201361F%201461F%20FRANCES%20I%20CL%202019%20DEyA%2008_19.pdf",
+          "codigo": "1161F",
+          "materia": "FRANCES I",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 08_19"
+        },
+        {
+          "nombre": "1161I 1261I 1361I 1461I INGLES I CL 2019 DEyA 09_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1161I%201261I%201361I%201461I%20INGLES%20I%20CL%202019%20DEyA%2009_19.pdf",
+          "codigo": "1161I",
+          "materia": "INGLES I",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 09_19"
+        },
+        {
+          "nombre": "1161P 1261P 1361P 1461P PORTUGUES CL 2019 DEyA 10_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1161P%201261P%201361P%201461P%20PORTUGUES%20CL%202019%20DEyA%2010_19.pdf",
+          "codigo": "1161P",
+          "materia": "PORTUGUES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 10_19"
+        },
+        {
+          "nombre": "1162F 1262F 1362F 1462F FRANCES II CL 2019 DEyA 13_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1162F%201262F%201362F%201462F%20FRANCES%20II%20CL%202019%20DEyA%2013_19.pdf",
+          "codigo": "1162F",
+          "materia": "FRANCES II",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 13_19"
+        },
+        {
+          "nombre": "1162I 1262I 1362I 1462 I INGLES II CL 2019 DEyA 11_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1162I%201262I%201362I%201462%20I%20INGLES%20II%20CL%202019%20DEyA%2011_19.pdf",
+          "codigo": "1162I",
+          "materia": "I INGLES II",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 11_19"
+        },
+        {
+          "nombre": "1162P 1262P 1362P 1462P PORTUGUES II CL 2019 DEyA 12_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1162P%201262P%201362P%201462P%20PORTUGUES%20II%20CL%202019%20DEyA%2012_19.pdf",
+          "codigo": "1162P",
+          "materia": "PORTUGUES II",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 12_19"
+        },
+        {
+          "nombre": "1163A 1263A 1363A 1463A SEMINARIO TALLER OPTATIVO DIAGNOSTICO, EVALUACION Y CAMBIO ORGANIZACIONAL CL 2015 DEYA 20_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163A%201263A%201363A%201463A%20SEMINARIO%20TALLER%20OPTATIVO%20DIAGNOSTICO,%20EVALUACION%20Y%20CAMBIO%20ORGANIZACIONAL%20CL%202015%20DEYA%2020_15.pdf",
+          "codigo": "1163A",
+          "materia": "SEMINARIO TALLER OPTATIVO DIAGNOSTICO, EVALUACION Y CAMBIO ORGANIZACIONAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 20_15"
+        },
+        {
+          "nombre": "1163B 1263B 1363B SEMINARIO TALLER ANALISIS Y USOS DE LAS ESTADISTICAS OFICIALES ARGENTINAS EN INVESTIGACION APLICADA CL 2015 DEYA 19_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163B%201263B%201363B%20SEMINARIO%20TALLER%20ANALISIS%20Y%20USOS%20DE%20LAS%20ESTADISTICAS%20OFICIALES%20ARGENTINAS%20EN%20INVESTIGACION%20APLICADA%20CL%202015%20DEYA%2019_15.pdf",
+          "codigo": "1163B",
+          "materia": "SEMINARIO TALLER ANALISIS Y USOS DE LAS ESTADISTICAS OFICIALES ARGENTINAS EN INVESTIGACION APLICADA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 19_15"
+        },
+        {
+          "nombre": "1163C 1263C 1363C 1463C SEMINARIO TALLER OPTATIVO LOS RECURSOS DE LA SGURIDAD SOCIAL CL 2015 DEyA 28_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163C%201263C%201363C%201463C%20SEMINARIO%20TALLER%20OPTATIVO%20LOS%20RECURSOS%20DE%20LA%20SGURIDAD%20SOCIAL%20CL%202015%20DEyA%2028_15.pdf",
+          "codigo": "1163C",
+          "materia": "SEMINARIO TALLER OPTATIVO LOS RECURSOS DE LA SGURIDAD SOCIAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 28_15"
+        },
+        {
+          "nombre": "1163D 1263D 1363D 1463D SEMINARIO TALLER ECONOMIA INDUSTRIAL, INNOVACION Y EMPLEO CL 2015 DEyA 35_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163D%201263D%201363D%201463D%20SEMINARIO%20TALLER%20ECONOMIA%20INDUSTRIAL,%20INNOVACION%20Y%20EMPLEO%20CL%202015%20DEyA%2035_15.pdf",
+          "codigo": "1163D",
+          "materia": "SEMINARIO TALLER ECONOMIA INDUSTRIAL, INNOVACION Y EMPLEO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 35_15"
+        },
+        {
+          "nombre": "1163F 1263F 1363F 1463F SEMINARIO OPTATIVO GESRION DE QUIPOS DE TRABAJO EN LAS ORGANIZACIONES CL 2016 DEyA 11_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163F%201263F%201363F%201463F%20SEMINARIO%20OPTATIVO%20GESRION%20DE%20QUIPOS%20DE%20TRABAJO%20EN%20LAS%20ORGANIZACIONES%20CL%202016%20DEyA%2011_16.pdf",
+          "codigo": "1163F",
+          "materia": "SEMINARIO OPTATIVO GESRION DE QUIPOS DE TRABAJO EN LAS ORGANIZACIONES",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 11_16"
+        },
+        {
+          "nombre": "1163G 1263G 1363G 1463G SEMINARIO IOPTATIVO POLITICAS SOCIALES Y ECONOMICAS COMPARADAS EN AMERICA LATINA CL 2016 DEyA 09_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163G%201263G%201363G%201463G%20SEMINARIO%20IOPTATIVO%20POLITICAS%20SOCIALES%20Y%20ECONOMICAS%20COMPARADAS%20EN%20AMERICA%20LATINA%20CL%202016%20DEyA%2009_16.pdf",
+          "codigo": "1163G",
+          "materia": "SEMINARIO IOPTATIVO POLITICAS SOCIALES Y ECONOMICAS COMPARADAS EN AMERICA LATINA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 09_16"
+        },
+        {
+          "nombre": "1163H 1263H 1363H 1463H TALLER DE INVESTIGACION SOCIAL CL 2016 DEyA 12_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163H%201263H%201363H%201463H%20TALLER%20DE%20INVESTIGACION%20SOCIAL%20CL%202016%20DEyA%2012_16.pdf",
+          "codigo": "1163H",
+          "materia": "TALLER DE INVESTIGACION SOCIAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 12_16"
+        },
+        {
+          "nombre": "1163I 1263I 1363I 1463I SEMINARIO OPTATIVO CONSULTORIA ORGANIZACIONAL CL 2016 DEyA 19_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163I%201263I%201363I%201463I%20SEMINARIO%20OPTATIVO%20CONSULTORIA%20ORGANIZACIONAL%20CL%202016%20DEyA%2019_16.pdf",
+          "codigo": "1163I",
+          "materia": "SEMINARIO OPTATIVO CONSULTORIA ORGANIZACIONAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 19_16"
+        },
+        {
+          "nombre": "1163K 1263K 1363K 1463K DIFERENCIA ENTRE LA TEORIA CLASICO KEYNESIANA Y LA MARGINALISTA CL 2017 DEyA 04_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163K%201263K%201363K%201463K%20DIFERENCIA%20ENTRE%20LA%20TEORIA%20CLASICO%20KEYNESIANA%20Y%20LA%20MARGINALISTA%20CL%202017%20DEyA%2004_17.pdf",
+          "codigo": "1163K",
+          "materia": "DIFERENCIA ENTRE LA TEORIA CLASICO KEYNESIANA Y LA MARGINALISTA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DEyA 04_17"
+        },
+        {
+          "nombre": "1163L 1263L 1363L 1463L TOPICOS DE ECONOMIA POLITICA INTERNACIONAL CL 2017 DEyA 06_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163L%201263L%201363L%201463L%20TOPICOS%20DE%20ECONOMIA%20POLITICA%20INTERNACIONAL%20CL%202017%20DEyA%2006_17.pdf",
+          "codigo": "1163L",
+          "materia": "TOPICOS DE ECONOMIA POLITICA INTERNACIONAL",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DEyA 06_17"
+        },
+        {
+          "nombre": "1163M 1263M 1363M 1463M INTRODUCCION A LAS FINANZAS CL 2019 DEyA 16_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163M%201263M%201363M%201463M%20INTRODUCCION%20A%20LAS%20FINANZAS%20CL%202019%20DEyA%2016_19.pdf",
+          "codigo": "1163M",
+          "materia": "INTRODUCCION A LAS FINANZAS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 16_19"
+        },
+        {
+          "nombre": "1163N 1263N 1363N 1463N FINANZAS CORPORATIVAS CL 2019 DEyA 17_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163N%201263N%201363N%201463N%20FINANZAS%20CORPORATIVAS%20CL%202019%20DEyA%2017_19.pdf",
+          "codigo": "1163N",
+          "materia": "FINANZAS CORPORATIVAS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 17_19"
+        },
+        {
+          "nombre": "1163O 12630 13630 14630 MÉTODOS Y TÉCNICAS DE INVESTIGACIÓN PARA GESTIÓN Y ORGANIZACIONES CL 2020 DEyA 09_20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163O%2012630%2013630%2014630%20M%c3%89TODOS%20Y%20T%c3%89CNICAS%20DE%20INVESTIGACI%c3%93N%20PARA%20GESTI%c3%93N%20Y%20ORGANIZACIONES%20CL%202020%20DEyA%2009_20.pdf",
+          "codigo": "1163O",
+          "materia": "0 13630 14630 MÉTODOS Y TÉCNICAS DE INVESTIGACIÓN PARA GESTIÓN Y ORGANIZACIONES",
+          "ciclo_lectivo": "2020",
+          "resolucion": "DEyA 09_20"
+        },
+        {
+          "nombre": "1163P 1263P 1363P 1463P TERORIA DE LA INNOVACION CL 2018 DEyA 11_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163P%201263P%201363P%201463P%20TERORIA%20DE%20LA%20INNOVACION%20CL%202018%20DEyA%2011_18.pdf",
+          "codigo": "1163P",
+          "materia": "TERORIA DE LA INNOVACION",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 11_18"
+        },
+        {
+          "nombre": "1163Q 1263Q 1363Q TALLER DE LIQUIDACION DE SUELDOS Y JORNALES CL 2019 DEyA 21_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1163Q%201263Q%201363Q%20TALLER%20DE%20LIQUIDACION%20DE%20SUELDOS%20Y%20JORNALES%20CL%202019%20DEyA%2021_19.pdf",
+          "codigo": "1163Q",
+          "materia": "TALLER DE LIQUIDACION DE SUELDOS Y JORNALES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 21_19"
+        },
+        {
+          "nombre": "1164 1264 1364 TALLER DE PASANTIA Y PRACTICA PRE PROFESIONAL CL 2015 DEYA 21_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1164%201264%201364%20TALLER%20DE%20PASANTIA%20Y%20PRACTICA%20PRE%20PROFESIONAL%20CL%202015%20DEYA%2021_15.pdf",
+          "codigo": "1164",
+          "materia": "TALLER DE PASANTIA Y PRACTICA PRE PROFESIONAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 21_15"
+        },
+        {
+          "nombre": "1463E TOPICOS DE TRIBUTACION CL2019 DEyA 15_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1463E%20TOPICOS%20DE%20TRIBUTACION%20CL2019%20DEyA%2015_19.pdf",
+          "codigo": "1463E",
+          "materia": "TOPICOS DE TRIBUTACION CL2019 DEyA 15_19",
+          "ciclo_lectivo": "",
+          "resolucion": ""
+        },
+        {
+          "nombre": "1464 TALLER DE PASANTÍA Y PRÁCTICA PRE-PROFESIONAL  CL 2018 DEyA 37_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20ACT%20COMPLEMENTARIAS/1464%20TALLER%20DE%20PASANT%c3%8dA%20Y%20PR%c3%81CTICA%20PRE-PROFESIONAL%20%20CL%202018%20DEyA%2037_18.pdf",
+          "codigo": "1464",
+          "materia": "TALLER DE PASANTÍA Y PRÁCTICA PRE-PROFESIONAL",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 37_18"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "departamento": "DEYA",
+      "carrera": "CICLO COMUN",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/",
+      "contenido": [
+        {
+          "nombre": "1011 INSTITUCIONES, ORGANIZACIONES  Y PRINCIPIOS DE ADMINISTRACION CL 2018 DEyA 18_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1011%20INSTITUCIONES,%20ORGANIZACIONES%20%20Y%20PRINCIPIOS%20DE%20ADMINISTRACION%20CL%202018%20DEyA%2018_18.pdf",
+          "codigo": "1011",
+          "materia": "INSTITUCIONES, ORGANIZACIONES  Y PRINCIPIOS DE ADMINISTRACION",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 18_18"
+        },
+        {
+          "nombre": "1012 PROBLEMAS SOCIOECONOMICOS ARGENTINOS CL 2018 DEyA 19_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1012%20PROBLEMAS%20SOCIOECONOMICOS%20ARGENTINOS%20CL%202018%20DEyA%2019_18.pdf",
+          "codigo": "1012",
+          "materia": "PROBLEMAS SOCIOECONOMICOS ARGENTINOS",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 19_18"
+        },
+        {
+          "nombre": "1013 MATEMATICA I CL 2018 DEyA 20_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1013%20MATEMATICA%20I%20CL%202018%20DEyA%2020_18.pdf",
+          "codigo": "1013",
+          "materia": "MATEMATICA I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 20_18"
+        },
+        {
+          "nombre": "1014 ECONOMÍA I CL 2020 DEyA  07_20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1014%20ECONOM%c3%8dA%20I%20CL%202020%20DEyA%20%2007_20.pdf",
+          "codigo": "1014",
+          "materia": "ECONOMÍA I",
+          "ciclo_lectivo": "2020",
+          "resolucion": "DEyA  07_20"
+        },
+        {
+          "nombre": "1015 HISTORIA DEL PENSAMIENTO SOCIAL Y POLITICO CL 2018 DEyA 21_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1015%20HISTORIA%20DEL%20PENSAMIENTO%20SOCIAL%20Y%20POLITICO%20CL%202018%20DEyA%2021_18.pdf",
+          "codigo": "1015",
+          "materia": "HISTORIA DEL PENSAMIENTO SOCIAL Y POLITICO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 21_18"
+        },
+        {
+          "nombre": "1016 CONTABILIDA I CL 2020 DEyA 03_20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1016%20CONTABILIDA%20I%20CL%202020%20DEyA%2003_20.pdf",
+          "codigo": "1016",
+          "materia": "CONTABILIDA I",
+          "ciclo_lectivo": "2020",
+          "resolucion": "DEyA 03_20"
+        },
+        {
+          "nombre": "1021 ECONOMIA II CL 2019 DEyA 07_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1021%20ECONOMIA%20II%20CL%202019%20DEyA%2007_19.pdf",
+          "codigo": "1021",
+          "materia": "ECONOMIA II",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DEyA 07_19"
+        },
+        {
+          "nombre": "1022 DERECHO CONSTITUCIONAL Y ADMINISTRATIVO CL 2018 DEyA 38_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1022%20DERECHO%20CONSTITUCIONAL%20Y%20ADMINISTRATIVO%20CL%202018%20DEyA%2038_18.pdf",
+          "codigo": "1022",
+          "materia": "DERECHO CONSTITUCIONAL Y ADMINISTRATIVO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 38_18"
+        },
+        {
+          "nombre": "1023 DERECHO CIVIL Y COMERCIAL CL 2018 DEyA 39_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1023%20DERECHO%20CIVIL%20Y%20COMERCIAL%20CL%202018%20DEyA%2039_18.pdf",
+          "codigo": "1023",
+          "materia": "DERECHO CIVIL Y COMERCIAL",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 39_18"
+        },
+        {
+          "nombre": "1024 ESTADISTICA I CL 2018 DEyA 23_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1024%20ESTADISTICA%20I%20CL%202018%20DEyA%2023_18.pdf",
+          "codigo": "1024",
+          "materia": "ESTADISTICA I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 23_18"
+        },
+        {
+          "nombre": "1025 ESTRUCUTRA ECONOMICA ARGENTINA Y MUNDIAL CL 2018 DEyA 24_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1025%20ESTRUCUTRA%20ECONOMICA%20ARGENTINA%20Y%20MUNDIAL%20CL%202018%20DEyA%2024_18.pdf",
+          "codigo": "1025",
+          "materia": "ESTRUCUTRA ECONOMICA ARGENTINA Y MUNDIAL",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 24_18"
+        },
+        {
+          "nombre": "1026 DERECHO LABORARL I CL 2018 DEyA 25_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1026%20DERECHO%20LABORARL%20I%20CL%202018%20DEyA%2025_18.pdf",
+          "codigo": "1026",
+          "materia": "DERECHO LABORARL I",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 25_18"
+        },
+        {
+          "nombre": "1027 MATEMATICA FINANCIERA CL 2018 DEyA 40_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CICLO%20COMUN/1027%20MATEMATICA%20FINANCIERA%20CL%202018%20DEyA%2040_18.pdf",
+          "codigo": "1027",
+          "materia": "MATEMATICA FINANCIERA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 40_18"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "departamento": "DEYA",
+      "carrera": "CPN",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/",
+      "contenido": [
+        {
+          "nombre": "1431 FINANZAS PUBLICAS Y DERECHO TRIBUTARIO CL 2018 DEyA 41_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1431%20FINANZAS%20PUBLICAS%20Y%20DERECHO%20TRIBUTARIO%20CL%202018%20DEyA%2041_18.pdf",
+          "codigo": "1431",
+          "materia": "FINANZAS PUBLICAS Y DERECHO TRIBUTARIO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 41_18"
+        },
+        {
+          "nombre": "1432 CONTABILIDAD II CL 2018 DEyA 26_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1432%20CONTABILIDAD%20II%20CL%202018%20DEyA%2026_18.pdf",
+          "codigo": "1432",
+          "materia": "CONTABILIDAD II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 26_18"
+        },
+        {
+          "nombre": "1433 DERECHO ECONOMICO CL 2018 DEyA 42_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1433%20DERECHO%20ECONOMICO%20CL%202018%20DEyA%2042_18.pdf",
+          "codigo": "1433",
+          "materia": "DERECHO ECONOMICO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 42_18"
+        },
+        {
+          "nombre": "1434 ESTADS CONTABLES CL 2018 DEyA 27_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1434%20ESTADS%20CONTABLES%20CL%202018%20DEyA%2027_18.pdf",
+          "codigo": "1434",
+          "materia": "ESTADS CONTABLES",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 27_18"
+        },
+        {
+          "nombre": "1435 IMPOSICION A LA RENTA Y EL PATRIMONIO CL 2018 DEyA 28_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1435%20IMPOSICION%20A%20LA%20RENTA%20Y%20EL%20PATRIMONIO%20CL%202018%20DEyA%2028_18.pdf",
+          "codigo": "1435",
+          "materia": "IMPOSICION A LA RENTA Y EL PATRIMONIO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 28_18"
+        },
+        {
+          "nombre": "1436 IMPOSICION A LOS CONSUMOS Y SOBRE LAS TRANSACCIONES CL 2018 DEyA 43_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1436%20IMPOSICION%20A%20LOS%20CONSUMOS%20Y%20SOBRE%20LAS%20TRANSACCIONES%20CL%202018%20DEyA%2043_18.pdf",
+          "codigo": "1436",
+          "materia": "IMPOSICION A LOS CONSUMOS Y SOBRE LAS TRANSACCIONES",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 43_18"
+        },
+        {
+          "nombre": "1437 TALLER DE LIQUIDACION DE SUELDOS Y JORNALES CL 2018 DEyA 29_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1437%20TALLER%20DE%20LIQUIDACION%20DE%20SUELDOS%20Y%20JORNALES%20CL%202018%20DEyA%2029_18.pdf",
+          "codigo": "1437",
+          "materia": "TALLER DE LIQUIDACION DE SUELDOS Y JORNALES",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 29_18"
+        },
+        {
+          "nombre": "1441 DERECHO SOCIETARIO CL 2018 DEyA 44_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1441%20DERECHO%20SOCIETARIO%20CL%202018%20DEyA%2044_18.pdf",
+          "codigo": "1441",
+          "materia": "DERECHO SOCIETARIO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 44_18"
+        },
+        {
+          "nombre": "1442 SISTEMAS ADMINISTRATIVOS CL 2018 DEyA 30_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1442%20SISTEMAS%20ADMINISTRATIVOS%20CL%202018%20DEyA%2030_18.pdf",
+          "codigo": "1442",
+          "materia": "SISTEMAS ADMINISTRATIVOS",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 30_18"
+        },
+        {
+          "nombre": "1443 PROCEDIMIENTO ADMINISTRATIVO TRIBUTARIO Y PROCESO PENAL TRIBUTARIO CL 2018 DEyA 45_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1443%20PROCEDIMIENTO%20ADMINISTRATIVO%20TRIBUTARIO%20Y%20PROCESO%20PENAL%20TRIBUTARIO%20CL%202018%20DEyA%2045_18.pdf",
+          "codigo": "1443",
+          "materia": "PROCEDIMIENTO ADMINISTRATIVO TRIBUTARIO Y PROCESO PENAL TRIBUTARIO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 45_18"
+        },
+        {
+          "nombre": "1444 ADMINISTRACION DE PERSONAL CL 2018 DEyA 31_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1444%20ADMINISTRACION%20DE%20PERSONAL%20CL%202018%20DEyA%2031_18.pdf",
+          "codigo": "1444",
+          "materia": "ADMINISTRACION DE PERSONAL",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 31_18"
+        },
+        {
+          "nombre": "1445 COSTOS CL 2018 DEyA 32_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1445%20COSTOS%20CL%202018%20DEyA%2032_18.pdf",
+          "codigo": "1445",
+          "materia": "COSTOS",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 32_18"
+        },
+        {
+          "nombre": "1446 CONT, ADM, Y TRIB DE LA ORG. ECONOMIA SOCIAL Y ENTIDADES SIN FINES DE LUCRO CL 2018 DEyA 46_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1446%20CONT,%20ADM,%20Y%20TRIB%20DE%20LA%20ORG.%20ECONOMIA%20SOCIAL%20Y%20ENTIDADES%20SIN%20FINES%20DE%20LUCRO%20CL%202018%20DEyA%2046_18.pdf",
+          "codigo": "1446",
+          "materia": "CONT, ADM, Y TRIB DE LA ORG. ECONOMIA SOCIAL Y ENTIDADES SIN FINES DE LUCRO",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 46_18"
+        },
+        {
+          "nombre": "1451 SISTEMA PUBLICO DE ADMINISTRACION FINANCIERA Y CONTROL CL 2018 DEyA 33_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1451%20SISTEMA%20PUBLICO%20DE%20ADMINISTRACION%20FINANCIERA%20Y%20CONTROL%20CL%202018%20DEyA%2033_18.pdf",
+          "codigo": "1451",
+          "materia": "SISTEMA PUBLICO DE ADMINISTRACION FINANCIERA Y CONTROL",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 33_18"
+        },
+        {
+          "nombre": "1452 ADMINISTRACION FINANCIERA CL 2018 DEyA 47_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1452%20ADMINISTRACION%20FINANCIERA%20CL%202018%20DEyA%2047_18.pdf",
+          "codigo": "1452",
+          "materia": "ADMINISTRACION FINANCIERA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 47_18"
+        },
+        {
+          "nombre": "1453 CONCURSOS Y QUIEBRAS CL 2018 DEyA 34_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1453%20CONCURSOS%20Y%20QUIEBRAS%20CL%202018%20DEyA%2034_18.pdf",
+          "codigo": "1453",
+          "materia": "CONCURSOS Y QUIEBRAS",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 34_18"
+        },
+        {
+          "nombre": "1454 AUDITORIA CL 2018 DEyA 35_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1454%20AUDITORIA%20CL%202018%20DEyA%2035_18.pdf",
+          "codigo": "1454",
+          "materia": "AUDITORIA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 35_18"
+        },
+        {
+          "nombre": "1455 ACTUACION PROFESIONAL JUDICIAL CL 2018 DEyA 36_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1455%20ACTUACION%20PROFESIONAL%20JUDICIAL%20CL%202018%20DEyA%2036_18.pdf",
+          "codigo": "1455",
+          "materia": "ACTUACION PROFESIONAL JUDICIAL",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 36_18"
+        },
+        {
+          "nombre": "1464 TALLER DE PASANTÍA Y PRÁCTICA PRE-PROFESIONAL  CL 2018 DEyA 37_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20CPN/1464%20TALLER%20DE%20PASANT%c3%8dA%20Y%20PR%c3%81CTICA%20PRE-PROFESIONAL%20%20CL%202018%20DEyA%2037_18.pdf",
+          "codigo": "1464",
+          "materia": "TALLER DE PASANTÍA Y PRÁCTICA PRE-PROFESIONAL",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 37_18"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "departamento": "DEYA",
+      "carrera": "LADM",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/",
+      "contenido": [
+        {
+          "nombre": "1131 TEORÍA DE LA ADMINISTRACIÓN CL 2020 DEyA 05_20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1131%20TEOR%c3%8dA%20DE%20LA%20ADMINISTRACI%c3%93N%20CL%202020%20DEyA%2005_20.pdf",
+          "codigo": "1131",
+          "materia": "TEORÍA DE LA ADMINISTRACIÓN",
+          "ciclo_lectivo": "2020",
+          "resolucion": "DEyA 05_20"
+        },
+        {
+          "nombre": "1132 TEORIA DE LAS INSTITUCIONES Y ORGANIZACIONES CL 2016 DEyA 07_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1132%20TEORIA%20DE%20LAS%20INSTITUCIONES%20Y%20ORGANIZACIONES%20CL%202016%20DEyA%2007_16.pdf",
+          "codigo": "1132",
+          "materia": "TEORIA DE LAS INSTITUCIONES Y ORGANIZACIONES",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 07_16"
+        },
+        {
+          "nombre": "1133 PSICOSOCIOLOGIA DE LAS ORGANIZACIONES CL 2014 DEYA 20_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1133%20PSICOSOCIOLOGIA%20DE%20LAS%20ORGANIZACIONES%20CL%202014%20DEYA%2020_14.pdf",
+          "codigo": "1133",
+          "materia": "PSICOSOCIOLOGIA DE LAS ORGANIZACIONES",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 20_14"
+        },
+        {
+          "nombre": "1134 SISTEMAS ADMINISTRATIVOS CL 2013 DEYA 10_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1134%20SISTEMAS%20ADMINISTRATIVOS%20CL%202013%20DEYA%2010_13.pdf",
+          "codigo": "1134",
+          "materia": "SISTEMAS ADMINISTRATIVOS",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DEYA 10_13"
+        },
+        {
+          "nombre": "1135 ORGANIZACION ESTATAL Y POLITICAS PUBLICAS CL 2014 DEYA 38_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1135%20ORGANIZACION%20ESTATAL%20Y%20POLITICAS%20PUBLICAS%20CL%202014%20DEYA%2038_14.pdf",
+          "codigo": "1135",
+          "materia": "ORGANIZACION ESTATAL Y POLITICAS PUBLICAS",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 38_14"
+        },
+        {
+          "nombre": "1136 ESTADISTICA PARA ADMINISTRADORES CL 2014 DEYA 39_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1136%20ESTADISTICA%20PARA%20ADMINISTRADORES%20CL%202014%20DEYA%2039_14.pdf",
+          "codigo": "1136",
+          "materia": "ESTADISTICA PARA ADMINISTRADORES",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 39_14"
+        },
+        {
+          "nombre": "1141 ADMINISTRACIÓN ESTRATÉGICA CL 2020 DEyA 11-20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1141%20ADMINISTRACI%c3%93N%20ESTRAT%c3%89GICA%20CL%202020%20DEyA%2011-20.pdf",
+          "codigo": "1141",
+          "materia": "ADMINISTRACIÓN ESTRATÉGICA",
+          "ciclo_lectivo": "2020",
+          "resolucion": "DEyA 11-20"
+        },
+        {
+          "nombre": "1142 ADMINISTRACION FINANCIERA CL 2014 DEYA 31_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1142%20ADMINISTRACION%20FINANCIERA%20CL%202014%20DEYA%2031_14.pdf",
+          "codigo": "1142",
+          "materia": "ADMINISTRACION FINANCIERA",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 31_14"
+        },
+        {
+          "nombre": "1143 Administración del personal CL 2020 DEyA 06_20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1143%20Administraci%c3%b3n%20del%20personal%20CL%202020%20DEyA%2006_20.pdf",
+          "codigo": "1143",
+          "materia": "Administración del personal",
+          "ciclo_lectivo": "2020",
+          "resolucion": "DEyA 06_20"
+        },
+        {
+          "nombre": "1144 TECNOLOGIA DE LA INFORMACION CL 2016 DEyA 18_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1144%20TECNOLOGIA%20DE%20LA%20INFORMACION%20CL%202016%20DEyA%2018_16.pdf",
+          "codigo": "1144",
+          "materia": "TECNOLOGIA DE LA INFORMACION",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 18_16"
+        },
+        {
+          "nombre": "1145 SISTEMA PUBLICO DE ADMINISTRACION FINANCIERA Y CONTROL CL 2014 DEYA 41_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1145%20SISTEMA%20PUBLICO%20DE%20ADMINISTRACION%20FINANCIERA%20Y%20CONTROL%20CL%202014%20DEYA%2041_14.pdf",
+          "codigo": "1145",
+          "materia": "SISTEMA PUBLICO DE ADMINISTRACION FINANCIERA Y CONTROL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 41_14"
+        },
+        {
+          "nombre": "1146 GESTION DE RECURSOS HUMANOS EN EL SECTOR PUBLICO CL 2016 DEyA 17_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1146%20GESTION%20DE%20RECURSOS%20HUMANOS%20EN%20EL%20SECTOR%20PUBLICO%20CL%202016%20DEyA%2017_16.pdf",
+          "codigo": "1146",
+          "materia": "GESTION DE RECURSOS HUMANOS EN EL SECTOR PUBLICO",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 17_16"
+        },
+        {
+          "nombre": "1151 COSTO PARA LA TOMA DE DECISIONES CL 2015 DEYA 08_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1151%20COSTO%20PARA%20LA%20TOMA%20DE%20DECISIONES%20CL%202015%20DEYA%2008_15.pdf",
+          "codigo": "1151",
+          "materia": "COSTO PARA LA TOMA DE DECISIONES",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 08_15"
+        },
+        {
+          "nombre": "1152 ADMINISTRACION DE LA PRODUCCION CL 2015 DEYA 09_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1152%20ADMINISTRACION%20DE%20LA%20PRODUCCION%20CL%202015%20DEYA%2009_15.pdf",
+          "codigo": "1152",
+          "materia": "ADMINISTRACION DE LA PRODUCCION",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 09_15"
+        },
+        {
+          "nombre": "1153 1351 FORMULACION Y EVALUACION ECONOMICA Y SOCIAL DE PROYECTOS CL 2015 DEYA 10_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1153%201351%20FORMULACION%20Y%20EVALUACION%20ECONOMICA%20Y%20SOCIAL%20DE%20PROYECTOS%20CL%202015%20DEYA%2010_15.pdf",
+          "codigo": "1153",
+          "materia": "FORMULACION Y EVALUACION ECONOMICA Y SOCIAL DE PROYECTOS",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 10_15"
+        },
+        {
+          "nombre": "1154 COMERCIALIZACION CL 2015 DEyA 26_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1154%20COMERCIALIZACION%20CL%202015%20DEyA%2026_15.pdf",
+          "codigo": "1154",
+          "materia": "COMERCIALIZACION",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 26_15"
+        },
+        {
+          "nombre": "1155 DIRECCION Y GESTION DE ORGANIZACIONES DE LA ECONOMIA SOCIAL CL 2015 DEyA 25_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1155%20DIRECCION%20Y%20GESTION%20DE%20ORGANIZACIONES%20DE%20LA%20ECONOMIA%20SOCIAL%20CL%202015%20DEyA%2025_15.pdf",
+          "codigo": "1155",
+          "materia": "DIRECCION Y GESTION DE ORGANIZACIONES DE LA ECONOMIA SOCIAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 25_15"
+        },
+        {
+          "nombre": "1156 ADMINISTRACION DE EMPRESAS PUBLICAS CL 2015 DEyA 29_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1156%20ADMINISTRACION%20DE%20EMPRESAS%20PUBLICAS%20CL%202015%20DEyA%2029_15.pdf",
+          "codigo": "1156",
+          "materia": "ADMINISTRACION DE EMPRESAS PUBLICAS",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 29_15"
+        },
+        {
+          "nombre": "1157 TALLER DE ANALISIS DE CASOS CL 2015 DEyA 30_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LADM/1157%20TALLER%20DE%20ANALISIS%20DE%20CASOS%20CL%202015%20DEyA%2030_15.pdf",
+          "codigo": "1157",
+          "materia": "TALLER DE ANALISIS DE CASOS",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 30_15"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "departamento": "DEYA",
+      "carrera": "LECO",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/",
+      "contenido": [
+        {
+          "nombre": "1331 INDICADORES ECONOMICOS Y CUENTAS NACIONALES CL 2014 DEYA 14_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1331%20INDICADORES%20ECONOMICOS%20Y%20CUENTAS%20NACIONALES%20CL%202014%20DEYA%2014_14.pdf",
+          "codigo": "1331",
+          "materia": "INDICADORES ECONOMICOS Y CUENTAS NACIONALES",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 14_14"
+        },
+        {
+          "nombre": "1332 HISTORIA Y EPISTOMOLOGIA DEL PENSAMIENTO ECONOMICO CL 2014 DEYA 15_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1332%20HISTORIA%20Y%20EPISTOMOLOGIA%20DEL%20PENSAMIENTO%20ECONOMICO%20CL%202014%20DEYA%2015_14.pdf",
+          "codigo": "1332",
+          "materia": "HISTORIA Y EPISTOMOLOGIA DEL PENSAMIENTO ECONOMICO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 15_14"
+        },
+        {
+          "nombre": "1333 MATEMATICA PARA ECONOMISTAS CL 2014 DEYA 33_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1333%20MATEMATICA%20PARA%20ECONOMISTAS%20CL%202014%20DEYA%2033_14.pdf",
+          "codigo": "1333",
+          "materia": "MATEMATICA PARA ECONOMISTAS",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 33_14"
+        },
+        {
+          "nombre": "1334 MACROECONOMIA SUPERIOR CL 2015 DEyA 34_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1334%20MACROECONOMIA%20SUPERIOR%20CL%202015%20DEyA%2034_15.pdf",
+          "codigo": "1334",
+          "materia": "MACROECONOMIA SUPERIOR",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 34_15"
+        },
+        {
+          "nombre": "1335 ECONOMIA SECTORIAL Y REGIONAL ARGENTINA CL 2015 DEyA 45_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1335%20ECONOMIA%20SECTORIAL%20Y%20REGIONAL%20ARGENTINA%20CL%202015%20DEyA%2045_15.pdf",
+          "codigo": "1335",
+          "materia": "ECONOMIA SECTORIAL Y REGIONAL ARGENTINA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 45_15"
+        },
+        {
+          "nombre": "1336 ANTROPOLOGIA ECONOMICA CL 2013 DEYA 14_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1336%20ANTROPOLOGIA%20ECONOMICA%20CL%202013%20DEYA%2014_13.pdf",
+          "codigo": "1336",
+          "materia": "ANTROPOLOGIA ECONOMICA",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DEYA 14_13"
+        },
+        {
+          "nombre": "1341 ECONOMIA INTERNACIONAL CL 2014 DEYA 04_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1341%20ECONOMIA%20INTERNACIONAL%20CL%202014%20DEYA%2004_14.pdf",
+          "codigo": "1341",
+          "materia": "ECONOMIA INTERNACIONAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 04_14"
+        },
+        {
+          "nombre": "1342 ECONOMETRIA CL 2014 DEYA 06_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1342%20ECONOMETRIA%20CL%202014%20DEYA%2006_14.pdf",
+          "codigo": "1342",
+          "materia": "ECONOMETRIA",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 06_14"
+        },
+        {
+          "nombre": "1343 MICROECONOMIA SUPERIOR CL 2014 DEYA 03_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1343%20MICROECONOMIA%20SUPERIOR%20CL%202014%20DEYA%2003_14.pdf",
+          "codigo": "1343",
+          "materia": "MICROECONOMIA SUPERIOR",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 03_14"
+        },
+        {
+          "nombre": "1344 CRECIMIENTO, DESARROLLO Y PLANIFICACION CL 2018 DEyA 17_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1344%20CRECIMIENTO,%20DESARROLLO%20Y%20PLANIFICACION%20CL%202018%20DEyA%2017_18.pdf",
+          "codigo": "1344",
+          "materia": "CRECIMIENTO, DESARROLLO Y PLANIFICACION",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DEyA 17_18"
+        },
+        {
+          "nombre": "1345 ECONOMIA DEL TRABAJO Y DISTRIBUCION DEL INGRESO CL 2014 DEYA 51_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1345%20ECONOMIA%20DEL%20TRABAJO%20Y%20DISTRIBUCION%20DEL%20INGRESO%20CL%202014%20DEYA%2051_14.pdf",
+          "codigo": "1345",
+          "materia": "ECONOMIA DEL TRABAJO Y DISTRIBUCION DEL INGRESO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 51_14"
+        },
+        {
+          "nombre": "1351 FORMULACION Y EVALUACION ECONOMICA Y SOCIAL DE PROYECTOS CL 2015 DEYA 10_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1351%20FORMULACION%20Y%20EVALUACION%20ECONOMICA%20Y%20SOCIAL%20DE%20PROYECTOS%20CL%202015%20DEYA%2010_15.pdf",
+          "codigo": "1351",
+          "materia": "FORMULACION Y EVALUACION ECONOMICA Y SOCIAL DE PROYECTOS",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 10_15"
+        },
+        {
+          "nombre": "1352 TERRITORIO, AMBIENTE Y DESARROLLO LOCAL CL 2015 DEYA 05_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1352%20TERRITORIO,%20AMBIENTE%20Y%20DESARROLLO%20LOCACL%20CL%202015%20DEYA%2005_15.pdf",
+          "codigo": "1352",
+          "materia": "TERRITORIO, AMBIENTE Y DESARROLLO LOCAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 05_15"
+        },
+        {
+          "nombre": "1353 DINERO, CREDITO Y BANCOS CL 2015 DEYA 13_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1353%20DINERO,%20CREDITO%20Y%20BANCOS%20CL%202015%20DEYA%2013_15.pdf",
+          "codigo": "1353",
+          "materia": "DINERO, CREDITO Y BANCOS",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 13_15"
+        },
+        {
+          "nombre": "1354 SISTEMAS ECONOMICOS COMPARADOS DEyA 37_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1354%20SISTEMAS%20ECONOMICOS%20COMPARADOS%20DEyA%2037_15.pdf",
+          "codigo": "1354",
+          "materia": "SISTEMAS ECONOMICOS COMPARADOS",
+          "ciclo_lectivo": "",
+          "resolucion": "DEyA 37_15"
+        },
+        {
+          "nombre": "1355 ECONOMIA SOCIAL CL 2015 DEyA 38_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1355%20ECONOMIA%20SOCIAL%20CL%202015%20DEyA%2038_15.pdf",
+          "codigo": "1355",
+          "materia": "ECONOMIA SOCIAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 38_15"
+        },
+        {
+          "nombre": "1356 POLITICA ECONOMICA ARGENTINA DEyA 39_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LECO/1356%20POLITICA%20ECONOMICA%20ARGENTINA%20DEyA%2039_15.pdf",
+          "codigo": "1356",
+          "materia": "POLITICA ECONOMICA ARGENTINA",
+          "ciclo_lectivo": "",
+          "resolucion": "DEyA 39_15"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "departamento": "DEYA",
+      "carrera": "LRT",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/",
+      "contenido": [
+        {
+          "nombre": "1231 SOCIOLOGIA, PROCESOS Y ORGANIZACION DEL TRABAJO CL 2014 DEYA 17_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1231%20SOCIOLOGIA,%20PROCESOS%20Y%20ORGANIZACION%20DEL%20TRABAJO%20CL%202014%20DEYA%2017_14.pdf",
+          "codigo": "1231",
+          "materia": "SOCIOLOGIA, PROCESOS Y ORGANIZACION DEL TRABAJO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 17_14"
+        },
+        {
+          "nombre": "1232 ECONOMIA DEL TRABAJO Y DISTRIBUCION DEL INGRESO CL 2016 DEYA 04_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1232%20ECONOMIA%20DEL%20TRABAJO%20Y%20DISTRIBUCION%20DEL%20INGRESO%20CL%202016%20DEYA%2004_16.pdf",
+          "codigo": "1232",
+          "materia": "ECONOMIA DEL TRABAJO Y DISTRIBUCION DEL INGRESO",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEYA 04_16"
+        },
+        {
+          "nombre": "1233 PSICOLOGIA DEL TRABAJO CL 2014 DEYA 16_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1233%20PSICOLOGIA%20DEL%20TRABAJO%20CL%202014%20DEYA%2016_14.pdf",
+          "codigo": "1233",
+          "materia": "PSICOLOGIA DEL TRABAJO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 16_14"
+        },
+        {
+          "nombre": "1234 SOCIOLOGIA DE LA EMPRESA, LOS SINDICATOS Y LOS MOVIMIENTOS SOCIALES CL 2014 DEYA 43_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1234%20SOCIOLOGIA%20DE%20LA%20EMPRESA,%20LOS%20SINDICATOS%20Y%20LOS%20MOVIMIENTOS%20SOCIALES%20CL%202014%20DEYA%2043_14.pdf",
+          "codigo": "1234",
+          "materia": "SOCIOLOGIA DE LA EMPRESA, LOS SINDICATOS Y LOS MOVIMIENTOS SOCIALES",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 43_14"
+        },
+        {
+          "nombre": "1235 ESTADISTICA LABORAL Y DISTRIBUTIVA APLICADA CL 2014 DEYA 44_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1235%20ESTADISTICA%20LABORAL%20Y%20DISTRIBUTIVA%20APLICADA%20CL%202014%20DEYA%2044_14.pdf",
+          "codigo": "1235",
+          "materia": "ESTADISTICA LABORAL Y DISTRIBUTIVA APLICADA",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 44_14"
+        },
+        {
+          "nombre": "1236 DERECHO LABORAL II CL 2014 DEYA 45_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1236%20DERECHO%20LABORAL%20II%20CL%202014%20DEYA%2045_14.pdf",
+          "codigo": "1236",
+          "materia": "DERECHO LABORAL II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 45_14"
+        },
+        {
+          "nombre": "1241 HISTORIA DEL MOVIMIENTO OBRERO Y DE LAS ORGANIZACIONES EMPRESARIALES CL 2015 DEYA 01_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1241%20HISTORIA%20DEL%20MOVIMIENTO%20OBRERO%20Y%20DE%20LAS%20ORGANIZACIONES%20EMPRESARIALES%20CL%202015%20DEYA%2001_15.pdf",
+          "codigo": "1241",
+          "materia": "HISTORIA DEL MOVIMIENTO OBRERO Y DE LAS ORGANIZACIONES EMPRESARIALES",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 01_15"
+        },
+        {
+          "nombre": "1242 ADMINISTRACION DE PERSONAL, CALIFICACIONES Y FORMACION PROFESIONAL CL 2014 DEYA 10_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1242%20ADMINISTRACION%20DE%20PERSONAL,%20CALIFICACIONES%20Y%20FORMACION%20PROFESIONAL%20CL%202014%20DEYA%2010_14.pdf",
+          "codigo": "1242",
+          "materia": "ADMINISTRACION DE PERSONAL, CALIFICACIONES Y FORMACION PROFESIONAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 10_14"
+        },
+        {
+          "nombre": "1243 DERECHO DE LA SEGURIDAD SOCIAL CL 2015 DEYA 02_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1243%20DERECHO%20DE%20LA%20SEGURIDAD%20SOCIAL%20CL%202015%20DEYA%2002_15.pdf",
+          "codigo": "1243",
+          "materia": "DERECHO DE LA SEGURIDAD SOCIAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 02_15"
+        },
+        {
+          "nombre": "1244 ESTRUCTURA DE LAS ORGANIZACIONES SINDICALES Y OBRAS SOCIALES CL 2014 DEYA 46_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1244%20ESTRUCTURA%20DE%20LAS%20ORGANIZACIONES%20SINDICALES%20Y%20OBRAS%20SOCIALES%20CL%202014%20DEYA%2046_14.pdf",
+          "codigo": "1244",
+          "materia": "ESTRUCTURA DE LAS ORGANIZACIONES SINDICALES Y OBRAS SOCIALES",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 46_14"
+        },
+        {
+          "nombre": "1245 REMUNIERACIONES Y BENEFICIOS CL 2014 DEYA 47_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1245%20REMUNIERACIONES%20Y%20BENEFICIOS%20CL%202014%20DEYA%2047_14.pdf",
+          "codigo": "1245",
+          "materia": "REMUNIERACIONES Y BENEFICIOS",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 47_14"
+        },
+        {
+          "nombre": "1246 DERECHO PROCESAL, MEDIACION Y RESOLUCION DE CONFLICTOS CL 2014 DEYA 48_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1246%20DERECHO%20PROCESAL,%20MEDIACION%20Y%20RESOLUCION%20DE%20CONFLICTOS%20CL%202014%20DEYA%2048_14.pdf",
+          "codigo": "1246",
+          "materia": "DERECHO PROCESAL, MEDIACION Y RESOLUCION DE CONFLICTOS",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 48_14"
+        },
+        {
+          "nombre": "1251 RELACIONES DEL TRABAJO EN LA ECONOMIA URBANA CL 2015 DEYA 03_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1251%20RELACIONES%20DEL%20TRABAJO%20EN%20LA%20ECONOMIA%20URBANA%20CL%202015%20DEYA%2003_15.pdf",
+          "codigo": "1251",
+          "materia": "RELACIONES DEL TRABAJO EN LA ECONOMIA URBANA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 03_15"
+        },
+        {
+          "nombre": "1252 RELACIONES DEL TRABAJO EN LA ECONOMIA RURAL CL 2016 DEyA 10_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1252%20RELACIONES%20DEL%20TRABAJO%20EN%20LA%20ECONOMIA%20RURAL%20CL%202016%20DEyA%2010_16.pdf",
+          "codigo": "1252",
+          "materia": "RELACIONES DEL TRABAJO EN LA ECONOMIA RURAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEyA 10_16"
+        },
+        {
+          "nombre": "1253 CONDICIONES Y MEDIO AMBIENTE DEL TRABAJO CL 2015 DEYA 12_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1253%20CONDICIONES%20Y%20MEDIO%20AMBIENTE%20DEL%20TRABAJO%20CL%202015%20DEYA%2012_15.pdf",
+          "codigo": "1253",
+          "materia": "CONDICIONES Y MEDIO AMBIENTE DEL TRABAJO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEYA 12_15"
+        },
+        {
+          "nombre": "1254 RELACIONES DEL TRABAJO EN EL SECTOR PUBLICO CL 2015 DEyA 31_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1254%20RELACIONES%20DEL%20TRABAJO%20EN%20EL%20SECTOR%20PUBLICO%20CL%202015%20DEyA%2031_15.pdf",
+          "codigo": "1254",
+          "materia": "RELACIONES DEL TRABAJO EN EL SECTOR PUBLICO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 31_15"
+        },
+        {
+          "nombre": "1255 RELACIONES DEL TRABAJO EN LA ECONOMIA SOCIAL Y PYMES CL 2015 DEyA 32_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1255%20RELACIONES%20DEL%20TRABAJO%20EN%20LA%20ECONOMIA%20SOCIAL%20Y%20PYMES%20CL%202015%20DEyA%2032_15.pdf",
+          "codigo": "1255",
+          "materia": "RELACIONES DEL TRABAJO EN LA ECONOMIA SOCIAL Y PYMES",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 32_15"
+        },
+        {
+          "nombre": "1256 GESTION DE RECURSOS HUMANOS CL 2015 DEyA 33_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DEYA%20LRT/1256%20GESTION%20DE%20RECURSOS%20HUMANOS%20CL%202015%20DEyA%2033_15.pdf",
+          "codigo": "1256",
+          "materia": "GESTION DE RECURSOS HUMANOS",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 33_15"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "departamento": "DHYCS",
+      "carrera": "LCS",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/",
+      "contenido": [
+        {
+          "nombre": "3211 INTRODUCCION AL CONOCIMIENTO CIENTIFICO CL 2017 DHyCS 02_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3211%20INTRODUCCION%20AL%20CONOCIMIENTO%20CIENTIFICO%20CL%202017%20DHyCS%2002_17.pdf",
+          "codigo": "3211",
+          "materia": "INTRODUCCION AL CONOCIMIENTO CIENTIFICO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 02_17"
+        },
+        {
+          "nombre": "3212 HISTORIA SOCIAL GENERAL CL 2014 DHyCS 19_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3212%20HISTORIA%20SOCIAL%20GENERAL%20CL%202014%20DHyCS%2019_14.pdf",
+          "codigo": "3212",
+          "materia": "HISTORIA SOCIAL GENERAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 19_14"
+        },
+        {
+          "nombre": "3213 INTRODUCCION A LA COMUNICACION CL 2014 DHyCS 20_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3213%20INTRODUCCION%20A%20LA%20COMUNICACION%20CL%202014%20DHyCS%2020_14.pdf",
+          "codigo": "3213",
+          "materia": "INTRODUCCION A LA COMUNICACION",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 20_14"
+        },
+        {
+          "nombre": "3214 TALLER DE EXPRESION ORAL Y ESCRITA I CL 2017 DHyCS 03_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3214%20TALLER%20DE%20EXPRESION%20ORAL%20Y%20ESCRITA%20I%20CL%202017%20DHyCS%2003_17.pdf",
+          "codigo": "3214",
+          "materia": "TALLER DE EXPRESION ORAL Y ESCRITA I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 03_17"
+        },
+        {
+          "nombre": "3215 HISTORIA DEL PENSAMIENTO SOCIAL Y POLITICO CL 2014 DEYA 35_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3215%20HISTORIA%20DEL%20PENSAMIENTO%20SOCIAL%20Y%20POLITICO%20CL%202014%20DEYA%2035_14.pdf",
+          "codigo": "3215",
+          "materia": "HISTORIA DEL PENSAMIENTO SOCIAL Y POLITICO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 35_14"
+        },
+        {
+          "nombre": "3216 LINGUISTICA CL 2019 DHyCS 10_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3216%20LINGUISTICA%20CL%202019%20DHyCS%2010_19.pdf",
+          "codigo": "3216",
+          "materia": "LINGUISTICA",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DHyCS 10_19"
+        },
+        {
+          "nombre": "3221 HISTORIA SOCIAL DE LOS MEDIOS DE COMUNICACION I CL 2015 DHyCS 13_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3221%20HISTORIA%20SOCIAL%20DE%20LOS%20MEDIOS%20DE%20COMUNICACION%20I%20CL%202015%20DHyCS%2013_15.pdf",
+          "codigo": "3221",
+          "materia": "HISTORIA SOCIAL DE LOS MEDIOS DE COMUNICACION I",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 13_15"
+        },
+        {
+          "nombre": "3222 TEORIAS DE LA COMUNICACION I CL 2017 DHyCS 12_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3222%20TEORIAS%20DE%20LA%20COMUNICACION%20I%20CL%202017%20DHyCS%2012_17.pdf",
+          "codigo": "3222",
+          "materia": "TEORIAS DE LA COMUNICACION I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 12_17"
+        },
+        {
+          "nombre": "3223 METODOLOGIA DE LA INVESTIGACION SOCIAL CL 2016 DHyCS 18_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3223%20METODOLOGIA%20DE%20LA%20INVESTIGACION%20SOCIAL%20CL%202016%20DHyCS%2018_16.pdf",
+          "codigo": "3223",
+          "materia": "METODOLOGIA DE LA INVESTIGACION SOCIAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 18_16"
+        },
+        {
+          "nombre": "3224 TALLER DE EXPRESION ORAL Y ESCRITA CL 2016 DHyCS 08_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3224%20TALLER%20DE%20EXPRESION%20ORAL%20Y%20ESCRITA%20CL%202016%20DHyCS%2008_16.pdf",
+          "codigo": "3224",
+          "materia": "TALLER DE EXPRESION ORAL Y ESCRITA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 08_16"
+        },
+        {
+          "nombre": "3225 1012 PROBLEMAS SOCIOECONOMICOS ARGENTINOS CL 2014 DEYA 24_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3225%201012%20PROBLEMAS%20SOCIOECONOMICOS%20ARGENTINOS%20CL%202014%20DEYA%2024_14.pdf",
+          "codigo": "3225",
+          "materia": "PROBLEMAS SOCIOECONOMICOS ARGENTINOS",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DEYA 24_14"
+        },
+        {
+          "nombre": "3226 HISTORIA DEL ARTE MODERMO Y CONTEMPORANEO CL 2014 DHyCS 34_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3226%20HISTORIA%20DEL%20ARTE%20MODERMO%20Y%20CONTEMPORANEO%20CL%202014%20DHyCS%2034_14.pdf",
+          "codigo": "3226",
+          "materia": "HISTORIA DEL ARTE MODERMO Y CONTEMPORANEO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 34_14"
+        },
+        {
+          "nombre": "3231 TEORIA DE LA COMUNICACION II CL 2016 DHyCS 09_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3231%20TEORIA%20DE%20LA%20COMUNICACION%20II%20CL%202016%20DHyCS%2009_16.pdf",
+          "codigo": "3231",
+          "materia": "TEORIA DE LA COMUNICACION II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 09_16"
+        },
+        {
+          "nombre": "3232 SEMIOTICA CL 2017 DHyCS 05_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3232%20SEMIOTICA%20CL%202017%20DHyCS%2005_17.pdf",
+          "codigo": "3232",
+          "materia": "SEMIOTICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 05_17"
+        },
+        {
+          "nombre": "3233 TALLER DE COMUNICACION GRAFICA CL 2019 DHyCS 02_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3233%20TALLER%20DE%20COMUNICACION%20GRAFICA%20CL%202019%20DHyCS%2002_19.pdf",
+          "codigo": "3233",
+          "materia": "TALLER DE COMUNICACION GRAFICA",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DHyCS 02_19"
+        },
+        {
+          "nombre": "3234 ESTRUCTURAS NARRATIVAS AUDIOVISUALES CL 2013 DHyCS 33_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3234%20ESTRUCTURAS%20NARRATIVAS%20AUDIOVISUALES%20CL%202013%20DHyCS%2033_13.pdf",
+          "codigo": "3234",
+          "materia": "ESTRUCTURAS NARRATIVAS AUDIOVISUALES",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 33_13"
+        },
+        {
+          "nombre": "3235 TALLER DE COMUNICACION AUDIOVISUAL CL 2013 DHyCS 30_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3235%20TALLER%20DE%20COMUNICACION%20AUDIOVISUAL%20CL%202013%20DHyCS%2030_13.pdf",
+          "codigo": "3235",
+          "materia": "TALLER DE COMUNICACION AUDIOVISUAL",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 30_13"
+        },
+        {
+          "nombre": "3236 HISTORIA DE LOS MEDIOS DE COMUNICACION - NACIONAL Y LATINOAMERICANA CL 2017  DHyCS 04_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3236%20HISTORIA%20DE%20LOS%20MEDIOS%20DE%20COMUNICACION%20-%20NACIONAL%20Y%20LATINOAMERICANA%20CL%202017%20%20DHyCS%2004_17.pdf",
+          "codigo": "3236",
+          "materia": "HISTORIA DE LOS MEDIOS DE COMUNICACION - NACIONAL Y LATINOAMERICANA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 04_17"
+        },
+        {
+          "nombre": "3241 DERECHO DE LAS COMUNICACIONES Y LA INFORMACION CL 2017 DHyCS 11_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3241%20DERECHO%20DE%20LAS%20COMUNICACIONES%20Y%20LA%20INFORMACION%20CL%202017%20DHyCS%2011_17.pdf",
+          "codigo": "3241",
+          "materia": "DERECHO DE LAS COMUNICACIONES Y LA INFORMACION",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 11_17"
+        },
+        {
+          "nombre": "3242 1025 ESTRUCTURA ECONOMICA ARGENTINA Y MUNDIAL CL 2015 DEyA 23_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3242%201025%20ESTRUCTURA%20ECONOMICA%20ARGENTINA%20Y%20MUNDIAL%20CL%202015%20DEyA%2023_15.pdf",
+          "codigo": "3242",
+          "materia": "ESTRUCTURA ECONOMICA ARGENTINA Y MUNDIAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DEyA 23_15"
+        },
+        {
+          "nombre": "3243 ESTADISTICA I CL 2014 DHyCS 36_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3243%20ESTADISTICA%20I%20CL%202014%20DHyCS%2036_14.pdf",
+          "codigo": "3243",
+          "materia": "ESTADISTICA I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 36_14"
+        },
+        {
+          "nombre": "3244 TEORIAS DE LA ARGUMENTACION CL 2014 DHyCS 41_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3244%20TEORIAS%20DE%20LA%20ARGUMENTACION%20CL%202014%20DHyCS%2041_14.pdf",
+          "codigo": "3244",
+          "materia": "TEORIAS DE LA ARGUMENTACION",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 41_14"
+        },
+        {
+          "nombre": "3245 TALLER DE PRODUCCCION CL 2018 DHyCS 02_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3245%20TALLER%20DE%20PRODUCCCION%20CL%202018%20DHyCS%2002_18.pdf",
+          "codigo": "3245",
+          "materia": "TALLER DE PRODUCCCION",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DHyCS 02_18"
+        },
+        {
+          "nombre": "3246 COMUNICACION RADIOFONICA CL 2017 DHyCS 09_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3246%20COMUNICACION%20RADIOFONICA%20CL%202017%20DHyCS%2009_17.pdf",
+          "codigo": "3246",
+          "materia": "COMUNICACION RADIOFONICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 09_17"
+        },
+        {
+          "nombre": "3251C COMUNICACION Y EDUCACION CL 2015 DHyCS 02_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3251C%20COMUNICACION%20Y%20EDUCACION%20CL%202015%20DHyCS%2002_15.pdf",
+          "codigo": "3251C",
+          "materia": "COMUNICACION Y EDUCACION",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 02_15"
+        },
+        {
+          "nombre": "3251M SEMINARIO DE PRACTICAS DISCURSIVAS MULTIMEDIALES CL2015 DHyCS 03_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3251M%20SEMINARIO%20DE%20PRACTICAS%20DISCURSIVAS%20MULTIMEDIALES%20CL2015%20DHyCS%2003_15.pdf",
+          "codigo": "3251M",
+          "materia": "SEMINARIO DE PRACTICAS DISCURSIVAS MULTIMEDIALES CL2015 DHyCS 03_15",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 03_15"
+        },
+        {
+          "nombre": "3252C TALLER DE PRODUCCION DE DISCURSO CIENTIFICO CL 2015 DHyCS 04_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3252C%20TALLER%20DE%20PRODUCCION%20DE%20DISCURSO%20CIENTIFICO%20CL%202015%20DHyCS%2004_15.pdf",
+          "codigo": "3252C",
+          "materia": "TALLER DE PRODUCCION DE DISCURSO CIENTIFICO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 04_15"
+        },
+        {
+          "nombre": "3252M TALLER DE PRODUCCION MULTIMEDIAL II CL 2015  DHyCS 05_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3252M%20TALLER%20DE%20PRODUCCION%20MULTIMEDIAL%20II%20CL%202015%20%20DHyCS%2005_15.pdf",
+          "codigo": "3252M",
+          "materia": "TALLER DE PRODUCCION MULTIMEDIAL II",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 05_15"
+        },
+        {
+          "nombre": "3253C EPISTEMOLOGIA CL 2015 DHyCS 06_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3253C%20EPISTEMOLOGIA%20CL%202015%20DHyCS%2006_15.pdf",
+          "codigo": "3253C",
+          "materia": "EPISTEMOLOGIA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 06_15"
+        },
+        {
+          "nombre": "3253M SEMINARIO SOBRE DERECHO A LA INFORMACION EN INTERNET CL 2015 DHyCS 07_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3253M%20SEMINARIO%20SOBRE%20DERECHO%20A%20LA%20INFORMACION%20EN%20INTERNET%20CL%202015%20DHyCS%2007_15.pdf",
+          "codigo": "3253M",
+          "materia": "SEMINARIO SOBRE DERECHO A LA INFORMACION EN INTERNET",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 07_15"
+        },
+        {
+          "nombre": "3254C OPINION PUBLICA CL 2015 DHyCS 15_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3254C%20OPINION%20PUBLICA%20CL%202015%20DHyCS%2015_15.pdf",
+          "codigo": "3254C",
+          "materia": "OPINION PUBLICA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 15_15"
+        },
+        {
+          "nombre": "3254M OPINION PUBLICA CL 2015 DHyCS 15_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3254M%20OPINION%20PUBLICA%20CL%202015%20DHyCS%2015_15.pdf",
+          "codigo": "3254M",
+          "materia": "OPINION PUBLICA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 15_15"
+        },
+        {
+          "nombre": "3255C SEMINARIO SOBRE DISCURSO CIENTIFICO CL 2015 DHyCS 16_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3255C%20SEMINARIO%20SOBRE%20DISCURSO%20CIENTIFICO%20CL%202015%20DHyCS%2016_15.pdf",
+          "codigo": "3255C",
+          "materia": "SEMINARIO SOBRE DISCURSO CIENTIFICO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 16_15"
+        },
+        {
+          "nombre": "3255M SEMINARIO SOBRE PRACTICAS Y USOS DE LA TECNOLOGIA DIGITAL CL 2015 DHyCS 17_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3255M%20SEMINARIO%20SOBRE%20PRACTICAS%20Y%20USOS%20DE%20LA%20TECNOLOGIA%20DIGITAL%20CL%202015%20DHyCS%2017_15.pdf",
+          "codigo": "3255M",
+          "materia": "SEMINARIO SOBRE PRACTICAS Y USOS DE LA TECNOLOGIA DIGITAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 17_15"
+        },
+        {
+          "nombre": "3256C TALLER DE PRODUCCION DIGITAL DE DISCURSO CIENTIFICO CL 2015 DHyCS 18_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3256C%20TALLER%20DE%20PRODUCCION%20DIGITAL%20DE%20DISCURSO%20CIENTIFICO%20CL%202015%20DHyCS%2018_15.pdf",
+          "codigo": "3256C",
+          "materia": "TALLER DE PRODUCCION DIGITAL DE DISCURSO CIENTIFICO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 18_15"
+        },
+        {
+          "nombre": "3256M TALLER DE PRODUCCION DE INTERNET CL 2015 DHyCS 19_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3256M%20TALLER%20DE%20PRODUCCION%20DE%20INTERNET%20CL%202015%20DHyCS%2019_15.pdf",
+          "codigo": "3256M",
+          "materia": "TALLER DE PRODUCCION DE INTERNET",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 19_15"
+        },
+        {
+          "nombre": "3261F 3161F IDIOMA OPTATIVO FRANCÉS NIVEL I  CL 2016  DHyCS 22_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3261F%203161F%20IDIOMA%20OPTATIVO%20FRANC%c3%89S%20NIVEL%20I%20%20CL%202016%20%20DHyCS%2022_16.pdf",
+          "codigo": "3261F",
+          "materia": "IDIOMA OPTATIVO FRANCÉS NIVEL I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 22_16"
+        },
+        {
+          "nombre": "3261I 3161I  IDIOMA OPTATIVO INGLES NIVEL I CL 2016 DEYA 22_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3261I%203161I%20%20IDIOMA%20OPTATIVO%20INGLES%20NIVEL%20I%20CL%202016%20DEYA%2022_16.pdf",
+          "codigo": "3261I",
+          "materia": "IDIOMA OPTATIVO INGLES NIVEL I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEYA 22_16"
+        },
+        {
+          "nombre": "3261P 3161P IDIOMA OPTATIVO PORTUGUES I CL 2016 DHyCS 21_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3261P%203161P%20IDIOMA%20OPTATIVO%20PORTUGUES%20I%20CL%202016%20DHyCS%2021_16.pdf",
+          "codigo": "3261P",
+          "materia": "IDIOMA OPTATIVO PORTUGUES I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 21_16"
+        },
+        {
+          "nombre": "3262F 3162F IDIOMA OPTATIVO FRANCES NIVEL II  CL 2016  DHyCS 25_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3262F%203162F%20IDIOMA%20OPTATIVO%20FRANCES%20NIVEL%20II%20%20CL%202016%20%20DHyCS%2025_16.pdf",
+          "codigo": "3262F",
+          "materia": "IDIOMA OPTATIVO FRANCES NIVEL II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 25_16"
+        },
+        {
+          "nombre": "3262I 3162I  IDIOMA OPTATIVO INGLES NIVEL II CL 2016  DHyCS 26_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3262I%203162I%20%20IDIOMA%20OPTATIVO%20INGLES%20NIVEL%20II%20CL%202016%20%20DHyCS%2026_16.pdf",
+          "codigo": "3262I",
+          "materia": "IDIOMA OPTATIVO INGLES NIVEL II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 26_16"
+        },
+        {
+          "nombre": "3262P 3162P IDIOMA OPTATIVO PORTUGUÉS NIVEL II CL 2016  DHyCS 27_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3262P%203162P%20IDIOMA%20OPTATIVO%20PORTUGU%c3%89S%20NIVEL%20II%20CL%202016%20%20DHyCS%2027_16.pdf",
+          "codigo": "3262P",
+          "materia": "IDIOMA OPTATIVO PORTUGUÉS NIVEL II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 27_16"
+        },
+        {
+          "nombre": "3263A TALLER DE TRANSMEDIA Y DOCUMENTAL INTERACTIVO CL 2015 DHyCS 20_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3263A%20TALLER%20DE%20TRANSMEDIA%20Y%20DOCUMENTAL%20INTERACTIVO%20CL%202015%20DHyCS%2020_15.pdf",
+          "codigo": "3263A",
+          "materia": "TALLER DE TRANSMEDIA Y DOCUMENTAL INTERACTIVO",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 20_15"
+        },
+        {
+          "nombre": "3264 TALLER DE PRACTICA PREPROFESIONAL CL 2015 DHyCS 21_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LCS/3264%20TALLER%20DE%20PRACTICA%20PREPROFESIONAL%20CL%202015%20DHyCS%2021_15.pdf",
+          "codigo": "3264",
+          "materia": "TALLER DE PRACTICA PREPROFESIONAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 21_15"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "departamento": "DHYCS",
+      "carrera": "LEI",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/",
+      "contenido": [
+        {
+          "nombre": "3411 ANTROPOLOGIA SOCIAL CL 2016 DHyCS 19_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3411%20ANTROPOLOGIA%20SOCIAL%20CL%202016%20DHyCS%2019_16.pdf",
+          "codigo": "3411",
+          "materia": "ANTROPOLOGIA SOCIAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 19_16"
+        },
+        {
+          "nombre": "3412 INFANCIA Y EDUCACION CL 2013 DHyCS 15_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3412%20INFANCIA%20Y%20EDUCACION%20CL%202013%20DHyCS%2015_13.pdf",
+          "codigo": "3412",
+          "materia": "INFANCIA Y EDUCACION",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 15_13"
+        },
+        {
+          "nombre": "3413 METODOLOGIA DE LA INVESTIGACION EDUCATIVA CL 2016  DHyCS 14_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3413%20METODOLOGIA%20DE%20LA%20INVESTIGACION%20EDUCATIVA%20CL%202016%20%20DHyCS%2014_16.pdf",
+          "codigo": "3413",
+          "materia": "METODOLOGIA DE LA INVESTIGACION EDUCATIVA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 14_16"
+        },
+        {
+          "nombre": "3414 TEORIA PEDAGOGICA CL 2019  DHyCS 12_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3414%20TEORIA%20PEDAGOGICA%20CL%202019%20%20DHyCS%2012_19.pdf",
+          "codigo": "3414",
+          "materia": "TEORIA PEDAGOGICA",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DHyCS 12_19"
+        },
+        {
+          "nombre": "3415 TALLER DE INTEGRACION CONCEPTUAL I CL 2013 DHyCS 16_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3415%20TALLER%20DE%20INTEGRACION%20CONCEPTUAL%20I%20CL%202013%20DHyCS%2016_13.pdf",
+          "codigo": "3415",
+          "materia": "TALLER DE INTEGRACION CONCEPTUAL I",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 16_13"
+        },
+        {
+          "nombre": "3416 HISTORIA SOCIAL DE LA EDUCACION EN AMERICA LATINA CL 2017 DHyCS 15_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3416%20HISTORIA%20SOCIAL%20DE%20LA%20EDUCACION%20EN%20AMERICA%20LATINA%20CL%202017%20DHyCS%2015_17.pdf",
+          "codigo": "3416",
+          "materia": "HISTORIA SOCIAL DE LA EDUCACION EN AMERICA LATINA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 15_17"
+        },
+        {
+          "nombre": "3417 INVESTIGACION E INNOVACION DIDACTICA CL 2016 DHyCS 12_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3417%20INVESTIGACION%20E%20INNOVACION%20DIDACTICA%20CL%202016%20DHyCS%2012_16.pdf",
+          "codigo": "3417",
+          "materia": "INVESTIGACION E INNOVACION DIDACTICA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 12_16"
+        },
+        {
+          "nombre": "3418 NEUROPSICOLOGIA DEL APRENDIZAJE CL 2012 DHyCS 30_12.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3418%20NEUROPSICOLOGIA%20DEL%20APRENDIZAJE%20CL%202012%20DHyCS%2030_12.pdf",
+          "codigo": "3418",
+          "materia": "NEUROPSICOLOGIA DEL APRENDIZAJE",
+          "ciclo_lectivo": "2012",
+          "resolucion": "DHyCS 30_12"
+        },
+        {
+          "nombre": "3419 TALLER DE INTEGRACION CONCEPTUAL II CL 2017 DHyCS 18_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3419%20TALLER%20DE%20INTEGRACION%20CONCEPTUAL%20II%20CL%202017%20DHyCS%2018_17.pdf",
+          "codigo": "3419",
+          "materia": "TALLER DE INTEGRACION CONCEPTUAL II",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 18_17"
+        },
+        {
+          "nombre": "3421 CONSTRUCCION CURRICULAR EN EL NIVEL SECUNDARIO CL 2017 DHyCS 10_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3421%20CONSTRUCCION%20CURRICULAR%20EN%20EL%20NIVEL%20SECUNDARIO%20CL%202017%20DHyCS%2010_17.pdf",
+          "codigo": "3421",
+          "materia": "CONSTRUCCION CURRICULAR EN EL NIVEL SECUNDARIO",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 10_17"
+        },
+        {
+          "nombre": "3422 INTEGRACION E INCLUSION CL 2013 DHyCS 17_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3422%20INTEGRACION%20E%20INCLUSION%20CL%202013%20DHyCS%2017_13.pdf",
+          "codigo": "3422",
+          "materia": "INTEGRACION E INCLUSION",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 17_13"
+        },
+        {
+          "nombre": "3423 POLITICA EDUCATIVA CL 2017 DHyCS 06_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3423%20POLITICA%20EDUCATIVA%20CL%202017%20DHyCS%2006_17.pdf",
+          "codigo": "3423",
+          "materia": "POLITICA EDUCATIVA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 06_17"
+        },
+        {
+          "nombre": "3424 HISTORIA SOCIAL II CL 2013 DHyCS 10_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3424%20HISTORIA%20SOCIAL%20II%20CL%202013%20DHyCS%2010_13.pdf",
+          "codigo": "3424",
+          "materia": "HISTORIA SOCIAL II",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 10_13"
+        },
+        {
+          "nombre": "3425 DERECHOS HUMANOS CL 2013 DHyCS 28_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3425%20DERECHOS%20HUMANOS%20CL%202013%20DHyCS%2028_13.pdf",
+          "codigo": "3425",
+          "materia": "DERECHOS HUMANOS",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 28_13"
+        },
+        {
+          "nombre": "3426 PLANEAMIENTO PARTICIPATIVO DE LA EDUACION CL 2013 DHyCS 32_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3426%20PLANEAMIENTO%20PARTICIPATIVO%20DE%20LA%20EDUACION%20CL%202013%20DHyCS%2032_13.pdf",
+          "codigo": "3426",
+          "materia": "PLANEAMIENTO PARTICIPATIVO DE LA EDUACION",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 32_13"
+        },
+        {
+          "nombre": "3427 TALLER DE PROYECTO CL 2013 DHyCS 36_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3427%20TALLER%20DE%20PROYECTO%20CL%202013%20DHyCS%2036_13.pdf",
+          "codigo": "3427",
+          "materia": "TALLER DE PROYECTO",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 36_13"
+        },
+        {
+          "nombre": "3428 TICs ORIENTADAS A LA EDUCACION CL 2014 DHyCS 29_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3428%20TICs%20ORIENTADAS%20A%20LA%20EDUCACION%20CL%202014%20DHyCS%2029_13.pdf",
+          "codigo": "3428",
+          "materia": "TICs ORIENTADAS A LA EDUCACION",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 29_13"
+        },
+        {
+          "nombre": "3429 PROYECTO FINAL DE INTERVENCION CL 2013 DHyCS 37_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LEI/3429%20PROYECTO%20FINAL%20DE%20INTERVENCION%20CL%202013%20DHyCS%2037_13.pdf",
+          "codigo": "3429",
+          "materia": "PROYECTO FINAL DE INTERVENCION",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 37_13"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "departamento": "DHYCS",
+      "carrera": "LES",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/",
+      "contenido": [
+        {
+          "nombre": "3311 TEORIA PEDAGOGICA CL 2017 DHyCS 19_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3311%20TEORIA%20PEDAGOGICA%20CL%202017%20DHyCS%2019_17.pdf",
+          "codigo": "3311",
+          "materia": "TEORIA PEDAGOGICA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 19_17"
+        },
+        {
+          "nombre": "3312 ANTROPOLOGIA SOCIAL CL 2014 DHyCS 02_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3312%20ANTROPOLOGIA%20SOCIAL%20CL%202014%20DHyCS%2002_14.pdf",
+          "codigo": "3312",
+          "materia": "ANTROPOLOGIA SOCIAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 02_14"
+        },
+        {
+          "nombre": "3313 SUJETOS DE LA EDUCACION SECUNDARIA CL 2017 DHyCS 23_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3313%20SUJETOS%20DE%20LA%20EDUCACION%20SECUNDARIA%20CL%202017%20DHyCS%2023_17.pdf",
+          "codigo": "3313",
+          "materia": "SUJETOS DE LA EDUCACION SECUNDARIA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 23_17"
+        },
+        {
+          "nombre": "3314 METODOLOGIA DE LA INVESTIGACION EDUCATIVA DHyCS 03_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3314%20METODOLOGIA%20DE%20LA%20INVESTIGACION%20EDUCATIVA%20DHyCS%2003_14.pdf",
+          "codigo": "3314",
+          "materia": "METODOLOGIA DE LA INVESTIGACION EDUCATIVA DHyCS 03_14",
+          "ciclo_lectivo": "",
+          "resolucion": ""
+        },
+        {
+          "nombre": "3315 HISTORIA SOCIAL DE LA EDUCACION EN AMERICA LATINA CL 2017 DHyCS 21_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3315%20HISTORIA%20SOCIAL%20DE%20LA%20EDUCACION%20EN%20AMERICA%20LATINA%20CL%202017%20DHyCS%2021_17.pdf",
+          "codigo": "3315",
+          "materia": "HISTORIA SOCIAL DE LA EDUCACION EN AMERICA LATINA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 21_17"
+        },
+        {
+          "nombre": "3316 INSTITUCIONES EDUCATIVAS DE NIVEL SECUNDARIO CL 2014 DHyCS 05_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3316%20INSTITUCIONES%20EDUCATIVAS%20DE%20NIVEL%20SECUNDARIO%20CL%202014%20DHyCS%2005_14.pdf",
+          "codigo": "3316",
+          "materia": "INSTITUCIONES EDUCATIVAS DE NIVEL SECUNDARIO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 05_14"
+        },
+        {
+          "nombre": "3317 CONSTRUCCION CURRICULAR DEL NIVEL SECUNDARIO CL 2014 DHyCS 06_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3317%20CONSTRUCCION%20CURRICULAR%20DEL%20NIVEL%20SECUNDARIO%20CL%202014%20DHyCS%2006_14.pdf",
+          "codigo": "3317",
+          "materia": "CONSTRUCCION CURRICULAR DEL NIVEL SECUNDARIO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 06_14"
+        },
+        {
+          "nombre": "3321 TALLER DE PROYECTO I CL 2016 DHYCS 01_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3321%20TALLER%20DE%20PROYECTO%20I%20CL%202016%20DHYCS%2001_16.pdf",
+          "codigo": "3321",
+          "materia": "TALLER DE PROYECTO I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHYCS 01_16"
+        },
+        {
+          "nombre": "3322 EPISTOMOLOGIA CL 2017 DHyCS 17_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3322%20EPISTOMOLOGIA%20CL%202017%20DHyCS%2017_17.pdf",
+          "codigo": "3322",
+          "materia": "EPISTOMOLOGIA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 17_17"
+        },
+        {
+          "nombre": "3323 INFORMATICA ORIENTADA AL USO DE INTERNET CL 2016 DHYCS 02_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3323%20INFORMATICA%20ORIENTADA%20AL%20USO%20DE%20INTERNET%20CL%202016%20DHYCS%2002_16.pdf",
+          "codigo": "3323",
+          "materia": "INFORMATICA ORIENTADA AL USO DE INTERNET",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHYCS 02_16"
+        },
+        {
+          "nombre": "3324 DIDACTICA PARA EL NIVEL SECUNDARIO CL 2019 DHyCS 22_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3324%20DIDACTICA%20PARA%20EL%20NIVEL%20SECUNDARIO%20CL%202019%20DHyCS%2022_17.pdf",
+          "codigo": "3324",
+          "materia": "DIDACTICA PARA EL NIVEL SECUNDARIO",
+          "ciclo_lectivo": "2019",
+          "resolucion": "DHyCS 22_17"
+        },
+        {
+          "nombre": "3325 COMUNICACION Y EDUCACION CL 2016 DHyCS 20_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3325%20COMUNICACION%20Y%20EDUCACION%20CL%202016%20DHyCS%2020_16.pdf",
+          "codigo": "3325",
+          "materia": "COMUNICACION Y EDUCACION",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 20_16"
+        },
+        {
+          "nombre": "3326 TICS ORIENTADA A LA EDUCACION CL 2017 DHyCS 07_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3326%20TICS%20ORIENTADA%20A%20LA%20EDUCACION%20CL%202017%20DHyCS%2007_17.pdf",
+          "codigo": "3326",
+          "materia": "TICS ORIENTADA A LA EDUCACION",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 07_17"
+        },
+        {
+          "nombre": "3327 POLITICA EDUCATIVA CL 2017 DHyCS 14_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3327%20POLITICA%20EDUCATIVA%20CL%202017%20DHyCS%2014_17.pdf",
+          "codigo": "3327",
+          "materia": "POLITICA EDUCATIVA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 14_17"
+        },
+        {
+          "nombre": "3328 TALLER DE PROYECTO II CL 2014 DHyCS 31_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3328%20TALLER%20DE%20PROYECTO%20II%20CL%202014%20DHyCS%2031_14.pdf",
+          "codigo": "3328",
+          "materia": "TALLER DE PROYECTO II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 31_14"
+        },
+        {
+          "nombre": "3329 TRABAJO DE SISTEMATIZACION CL 2017 DHyCS 13_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LES/3329%20TRABAJO%20DE%20SISTEMATIZACION%20CL%202017%20DHyCS%2013_17.pdf",
+          "codigo": "3329",
+          "materia": "TRABAJO DE SISTEMATIZACION",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 13_17"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "departamento": "DHYCS",
+      "carrera": "LTS",
+      "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/",
+      "contenido": [
+        {
+          "nombre": "3111 TRABAJO SOCIAL I CL 2017 DHyCS 01_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3111%20TRABAJO%20SOCIAL%20I%20CL%202017%20DHyCS%2001_17.pdf",
+          "codigo": "3111",
+          "materia": "TRABAJO SOCIAL I",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 01_17"
+        },
+        {
+          "nombre": "3112 TALLER I - INTRODUCCION A LA PRACTICA PROFESIONAL CL 2014 DHyCS 17_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3112%20TALLER%20I%20-%20INTRODUCCION%20A%20LA%20PRACTICA%20PROFESIONAL%20CL%202014%20DHyCS%2017_14.pdf",
+          "codigo": "3112",
+          "materia": "TALLER I - INTRODUCCION A LA PRACTICA PROFESIONAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 17_14"
+        },
+        {
+          "nombre": "3113 INTRODUCCION AL DERECHO CL 2014 DHyCS 29_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3113%20INTRODUCCION%20AL%20DERECHO%20CL%202014%20DHyCS%2029_14.pdf",
+          "codigo": "3113",
+          "materia": "INTRODUCCION AL DERECHO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 29_14"
+        },
+        {
+          "nombre": "3114 HISTORIA SOCIAL I CL 2014 DHyCS 26_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3114%20HISTORIA%20SOCIAL%20I%20CL%202014%20DHyCS%2026_14.pdf",
+          "codigo": "3114",
+          "materia": "HISTORIA SOCIAL I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 26_14"
+        },
+        {
+          "nombre": "3115 PSICOLOGIA GENERAL CL 2016 DHyCS 04_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3115%20PSICOLOGIA%20GENERAL%20CL%202016%20DHyCS%2004_16.pdf",
+          "codigo": "3115",
+          "materia": "PSICOLOGIA GENERAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 04_16"
+        },
+        {
+          "nombre": "3116 INTRODUCCION AL PENSAMIENTO FILOSOFICO CL 2014 DHyCS 28_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3116%20INTRODUCCION%20AL%20PENSAMIENTO%20FILOSOFICO%20CL%202014%20DHyCS%2028_14.pdf",
+          "codigo": "3116",
+          "materia": "INTRODUCCION AL PENSAMIENTO FILOSOFICO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 28_14"
+        },
+        {
+          "nombre": "3117 SOCIOLOGIA I CL 2014 DHyCS 27_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3117%20SOCIOLOGIA%20I%20CL%202014%20DHyCS%2027_14.pdf",
+          "codigo": "3117",
+          "materia": "SOCIOLOGIA I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 27_14"
+        },
+        {
+          "nombre": "3121 TRABAJO SOCIAL II CL 2014 DHyCS 11_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3121%20TRABAJO%20SOCIAL%20II%20CL%202014%20DHyCS%2011_14.pdf",
+          "codigo": "3121",
+          "materia": "TRABAJO SOCIAL II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 11_14"
+        },
+        {
+          "nombre": "3122 TALLER II - INTRODUCCION A LA PRACTICA PROFESIONAL CL 2014 DHyCS 16_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3122%20TALLER%20II%20-%20INTRODUCCION%20A%20LA%20PRACTICA%20PROFESIONAL%20CL%202014%20DHyCS%2016_14.pdf",
+          "codigo": "3122",
+          "materia": "TALLER II - INTRODUCCION A LA PRACTICA PROFESIONAL",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 16_14"
+        },
+        {
+          "nombre": "3123 ESTADO Y POLITICAS PUBLICAS CL 2016 DHyCS 11_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3123%20ESTADO%20Y%20POLITICAS%20PUBLICAS%20CL%202016%20DHyCS%2011_16.pdf",
+          "codigo": "3123",
+          "materia": "ESTADO Y POLITICAS PUBLICAS",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 11_16"
+        },
+        {
+          "nombre": "3124 HISTORIA SOCIAL II CL 2016  DHyCS 15_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3124%20HISTORIA%20SOCIAL%20II%20CL%202016%20%20DHyCS%2015_16.pdf",
+          "codigo": "3124",
+          "materia": "HISTORIA SOCIAL II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 15_16"
+        },
+        {
+          "nombre": "3125 SOCIOLOGIA II CL 2014 DHyCS 15_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3125%20SOCIOLOGIA%20II%20CL%202014%20DHyCS%2015_14.pdf",
+          "codigo": "3125",
+          "materia": "SOCIOLOGIA II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 15_14"
+        },
+        {
+          "nombre": "3126 ECONOMIA I CL 2014 DHyCS 08_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3126%20ECONOMIA%20I%20CL%202014%20DHyCS%2008_14.pdf",
+          "codigo": "3126",
+          "materia": "ECONOMIA I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 08_14"
+        },
+        {
+          "nombre": "3127 INVESTIGACION SOCIAL I CL 2014 DHyCS 25_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3127%20INVESTIGACION%20SOCIAL%20I%20CL%202014%20DHyCS%2025_14.pdf",
+          "codigo": "3127",
+          "materia": "INVESTIGACION SOCIAL I",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 25_14"
+        },
+        {
+          "nombre": "3128 DERECHO CL 2013 DHyCS 09_13.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3128%20DERECHO%20CL%202013%20DHyCS%2009_13.pdf",
+          "codigo": "3128",
+          "materia": "DERECHO",
+          "ciclo_lectivo": "2013",
+          "resolucion": "DHyCS 09_13"
+        },
+        {
+          "nombre": "3131 TRABAJO SOCIAL III CL 2014 DHyCS 23_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3131%20TRABAJO%20SOCIAL%20III%20CL%202014%20DHyCS%2023_14.pdf",
+          "codigo": "3131",
+          "materia": "TRABAJO SOCIAL III",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 23_14"
+        },
+        {
+          "nombre": "3132 TALLER III - SUPERVISION TEORICO-PRACTICO CL 2014 DHyCS 22_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3132%20TALLER%20III%20-%20SUPERVISION%20TEORICO-PRACTICO%20CL%202014%20DHyCS%2022_14.pdf",
+          "codigo": "3132",
+          "materia": "TALLER III - SUPERVISION TEORICO-PRACTICO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 22_14"
+        },
+        {
+          "nombre": "3133 INVESTIGACION SOCIAL II CL 2014 DHyCS 24_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3133%20INVESTIGACION%20SOCIAL%20II%20CL%202014%20DHyCS%2024_14.pdf",
+          "codigo": "3133",
+          "materia": "INVESTIGACION SOCIAL II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 24_14"
+        },
+        {
+          "nombre": "3134 FOLOSOFIA I CL 2016 DHyCS 16_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3134%20FOLOSOFIA%20I%20CL%202016%20DHyCS%2016_16.pdf",
+          "codigo": "3134",
+          "materia": "FOLOSOFIA I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 16_16"
+        },
+        {
+          "nombre": "3135 ANTROPOLOGIA SOCIAL Y CULTURAL CL 2016 DHyCS 17_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3135%20ANTROPOLOGIA%20SOCIAL%20Y%20CULTURAL%20CL%202016%20DHyCS%2017_16.pdf",
+          "codigo": "3135",
+          "materia": "ANTROPOLOGIA SOCIAL Y CULTURAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 17_16"
+        },
+        {
+          "nombre": "3136 PSICOLOGIA DE LOS GRUPOS E INSTITUCIONES CL 2017 DHyCS 20_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3136%20PSICOLOGIA%20DE%20LOS%20GRUPOS%20E%20INSTITUCIONES%20CL%202017%20DHyCS%2020_17.pdf",
+          "codigo": "3136",
+          "materia": "PSICOLOGIA DE LOS GRUPOS E INSTITUCIONES",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 20_17"
+        },
+        {
+          "nombre": "3137 PLANIFICACION SOCIAL CL 2016 DHyCS 06_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3137%20PLANIFICACION%20SOCIAL%20CL%202016%20DHyCS%2006_16.pdf",
+          "codigo": "3137",
+          "materia": "PLANIFICACION SOCIAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 06_16"
+        },
+        {
+          "nombre": "3141 TRABAJO SOCIAL IV CL 2014 DHyCS 12_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3141%20TRABAJO%20SOCIAL%20IV%20CL%202014%20DHyCS%2012_14.pdf",
+          "codigo": "3141",
+          "materia": "TRABAJO SOCIAL IV",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 12_14"
+        },
+        {
+          "nombre": "3142 TALLER IV - SUPERVISION TEORICO-PRACTICO CL 2014 DHyCS 18_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3142%20TALLER%20IV%20-%20SUPERVISION%20TEORICO-PRACTICO%20CL%202014%20DHyCS%2018_14.pdf",
+          "codigo": "3142",
+          "materia": "TALLER IV - SUPERVISION TEORICO-PRACTICO",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 18_14"
+        },
+        {
+          "nombre": "3143 ECONOMIA II CL 2014 DHyCS 14_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3143%20ECONOMIA%20II%20CL%202014%20DHyCS%2014_14.pdf",
+          "codigo": "3143",
+          "materia": "ECONOMIA II",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 14_14"
+        },
+        {
+          "nombre": "3144 PSICOLOGIA SOCIAL Y COMUNITARIA CL 2017 DHyCS 08_17.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3144%20PSICOLOGIA%20SOCIAL%20Y%20COMUNITARIA%20CL%202017%20DHyCS%2008_17.pdf",
+          "codigo": "3144",
+          "materia": "PSICOLOGIA SOCIAL Y COMUNITARIA",
+          "ciclo_lectivo": "2017",
+          "resolucion": "DHyCS 08_17"
+        },
+        {
+          "nombre": "3145 SEMINARIO (ELEMENTOS SOBRE DEMOGRAFIA SOCIAL Y ESTRUCTURA SOCIAL ARGENTINA) CL 2014 DHyCS 37_14.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3145%20SEMINARIO%20(ELEMENTOS%20SOBRE%20DEMOGRAFIA%20SOCIAL%20Y%20ESTRUCTURA%20SOCIAL%20ARGENTINA)%20CL%202014%20DHyCS%2037_14.pdf",
+          "codigo": "3145",
+          "materia": "SEMINARIO (ELEMENTOS SOBRE DEMOGRAFIA SOCIAL Y ESTRUCTURA SOCIAL ARGENTINA)",
+          "ciclo_lectivo": "2014",
+          "resolucion": "DHyCS 37_14"
+        },
+        {
+          "nombre": "3146 PLANIFICACION SOCIAL II CL 2018 DHyCS 06_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3146%20PLANIFICACION%20SOCIAL%20II%20CL%202018%20DHyCS%2006_18.pdf",
+          "codigo": "3146",
+          "materia": "PLANIFICACION SOCIAL II",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DHyCS 06_18"
+        },
+        {
+          "nombre": "3151 TRABAJO SOCIAL V CL 2015 DHyCS 09_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3151%20TRABAJO%20SOCIAL%20V%20CL%202015%20DHyCS%2009_15.pdf",
+          "codigo": "3151",
+          "materia": "TRABAJO SOCIAL V",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 09_15"
+        },
+        {
+          "nombre": "3152 TALLER V - ACTUALIZACION TEORICO PRACTICA CL 2015 DHyCS 10_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3152%20TALLER%20V%20-%20ACTUALIZACION%20TEORICO%20PRACTICA%20CL%202015%20DHyCS%2010_15.pdf",
+          "codigo": "3152",
+          "materia": "TALLER V - ACTUALIZACION TEORICO PRACTICA",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 10_15"
+        },
+        {
+          "nombre": "3153 INVESTIGACION SOCIAL III CL 2015 DHyCS 11_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3153%20INVESTIGACION%20SOCIAL%20III%20CL%202015%20DHyCS%2011_15.pdf",
+          "codigo": "3153",
+          "materia": "INVESTIGACION SOCIAL III",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 11_15"
+        },
+        {
+          "nombre": "3154 FILOSOFIA II CL 2015 DHyCS 12_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3154%20FILOSOFIA%20II%20CL%202015%20DHyCS%2012_15.pdf",
+          "codigo": "3154",
+          "materia": "FILOSOFIA II",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 12_15"
+        },
+        {
+          "nombre": "3155A DISPOSITIVOS Y PRACTICAS INTEGRALES EN SALUD MENTAL CL 2015  DHyCS 22_15.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3155A%20DISPOSITIVOS%20Y%20PRACTICAS%20INTEGRALES%20EN%20SALUD%20MENTAL%20CL%202015%20%20DHyCS%2022_15.pdf",
+          "codigo": "3155A",
+          "materia": "DISPOSITIVOS Y PRACTICAS INTEGRALES EN SALUD MENTAL",
+          "ciclo_lectivo": "2015",
+          "resolucion": "DHyCS 22_15"
+        },
+        {
+          "nombre": "3155B SALUD PUBLICA CL 2018 DHyCS 05_18.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3155B%20SALUD%20PUBLICA%20CL%202018%20DHyCS%2005_18.pdf",
+          "codigo": "3155B",
+          "materia": "SALUD PUBLICA",
+          "ciclo_lectivo": "2018",
+          "resolucion": "DHyCS 05_18"
+        },
+        {
+          "nombre": "3156 COMUNICACIÓN SOCIAL  CL 2016  DHyCS 28_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3156%20COMUNICACI%c3%93N%20SOCIAL%20%20CL%202016%20%20DHyCS%2028_16.pdf",
+          "codigo": "3156",
+          "materia": "COMUNICACIÓN SOCIAL",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 28_16"
+        },
+        {
+          "nombre": "3161F 3261F IDIOMA OPTATIVO FRANCÉS NIVEL I  CL 2016  DHyCS 22_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3161F%203261F%20IDIOMA%20OPTATIVO%20FRANC%c3%89S%20NIVEL%20I%20%20CL%202016%20%20DHyCS%2022_16.pdf",
+          "codigo": "3161F",
+          "materia": "IDIOMA OPTATIVO FRANCÉS NIVEL I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 22_16"
+        },
+        {
+          "nombre": "3161I 3261I  IDIOMA OPTATIVO INGLES NIVEL I CL 2016 DEYA 22_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3161I%203261I%20%20IDIOMA%20OPTATIVO%20INGLES%20NIVEL%20I%20CL%202016%20DEYA%2022_16.pdf",
+          "codigo": "3161I",
+          "materia": "IDIOMA OPTATIVO INGLES NIVEL I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DEYA 22_16"
+        },
+        {
+          "nombre": "3161P 3261P IDIOMA OPTATIVO PORTUGUES I CL 2016 DHyCS 21_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3161P%203261P%20IDIOMA%20OPTATIVO%20PORTUGUES%20I%20CL%202016%20DHyCS%2021_16.pdf",
+          "codigo": "3161P",
+          "materia": "IDIOMA OPTATIVO PORTUGUES I",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 21_16"
+        },
+        {
+          "nombre": "3162F 3262F IDIOMA OPTATIVO FRANCES NIVEL II  CL 2016  DHyCS 25_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3162F%203262F%20IDIOMA%20OPTATIVO%20FRANCES%20NIVEL%20II%20%20CL%202016%20%20DHyCS%2025_16.pdf",
+          "codigo": "3162F",
+          "materia": "IDIOMA OPTATIVO FRANCES NIVEL II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 25_16"
+        },
+        {
+          "nombre": "3162I 3262I  IDIOMA OPTATIVO INGLES NIVEL II CL 2016  DHyCS 26_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3162I%203262I%20%20IDIOMA%20OPTATIVO%20INGLES%20NIVEL%20II%20CL%202016%20%20DHyCS%2026_16.pdf",
+          "codigo": "3162I",
+          "materia": "IDIOMA OPTATIVO INGLES NIVEL II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 26_16"
+        },
+        {
+          "nombre": "3162P 3262P IDIOMA OPTATIVO PORTUGUÉS NIVEL II CL 2016  DHyCS 27_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3162P%203262P%20IDIOMA%20OPTATIVO%20PORTUGU%c3%89S%20NIVEL%20II%20CL%202016%20%20DHyCS%2027_16.pdf",
+          "codigo": "3162P",
+          "materia": "IDIOMA OPTATIVO PORTUGUÉS NIVEL II",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 27_16"
+        },
+        {
+          "nombre": "3163 TALLER DE INFORMÁTICA CL 2016  DHyCS 29_16.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/DHYCS%20LTS/3163%20TALLER%20DE%20INFORM%c3%81TICA%20CL%202016%20%20DHyCS%2029_16.pdf",
+          "codigo": "3163",
+          "materia": "TALLER DE INFORMÁTICA",
+          "ciclo_lectivo": "2016",
+          "resolucion": "DHyCS 29_16"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "departamento": "POS",
+      "carrera": "Diplo Econ social y solidaria",
+      "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Econ%20social%20y%20solidaria/",
+      "contenido": [
+        {
+          "nombre": "6210 Seminario-Taller Introducción de la Plataforma y Comunidades de Aprendizaje CL 2020 R 59_20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Econ%20social%20y%20solidaria/6210%20Seminario-Taller%20Introducci%c3%b3n%20de%20la%20Plataforma%20y%20Comunidades%20de%20Aprendizaje%20CL%202020%20R%2059_20.pdf",
+          "codigo": "6210",
+          "materia": "Seminario-Taller Introducción de la Plataforma y Comunidades de Aprendizaje",
+          "ciclo_lectivo": "2020",
+          "resolucion": "R 59_20"
+        },
+        {
+          "nombre": "6211 Seminario Taller Fundamentos de la Economía Social y Colaborativa CL 2020 R 60_20.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Econ%20social%20y%20solidaria/6211%20Seminario%20Taller%20Fundamentos%20de%20la%20Econom%c3%ada%20Social%20y%20Colaborativa%20CL%202020%20R%2060_20.pdf",
+          "codigo": "6211",
+          "materia": "Seminario Taller Fundamentos de la Economía Social y Colaborativa",
+          "ciclo_lectivo": "2020",
+          "resolucion": "R 60_20"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "departamento": "POS",
+      "carrera": "Diplo Habitat",
+      "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/",
+      "contenido": [
+        {
+          "nombre": "6111 DEFINICIONES CONCEPTUALES, TÉRMINOS Y LENGUAJE CL 2019 SIVTRI 02_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/6111%20DEFINICIONES%20CONCEPTUALES,%20T%c3%89RMINOS%20Y%20LENGUAJE%20CL%202019%20SIVTRI%2002_19.pdf",
+          "codigo": "6111",
+          "materia": "DEFINICIONES CONCEPTUALES, TÉRMINOS Y LENGUAJE",
+          "ciclo_lectivo": "2019",
+          "resolucion": "SIVTRI 02_19"
+        },
+        {
+          "nombre": "6112 ASENTAMIENTOS HUMANOS SOSTENIBLES CL 2019 SIVTRI 03_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/6112%20ASENTAMIENTOS%20HUMANOS%20SOSTENIBLES%20CL%202019%20SIVTRI%2003_19.pdf",
+          "codigo": "6112",
+          "materia": "ASENTAMIENTOS HUMANOS SOSTENIBLES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "SIVTRI 03_19"
+        },
+        {
+          "nombre": "6113 ACTORES SOCIALES Y POLÍTICAS PÚBLICAS CL 2019 SIVTRI 04_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/6113%20ACTORES%20SOCIALES%20Y%20POL%c3%8dTICAS%20P%c3%9aBLICAS%20CL%202019%20SIVTRI%2004_19.pdf",
+          "codigo": "6113",
+          "materia": "ACTORES SOCIALES Y POLÍTICAS PÚBLICAS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "SIVTRI 04_19"
+        },
+        {
+          "nombre": "6114 MARCO LEGAL E INSTITUCIONAL CL 2019  SIVTRI 05_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/6114%20MARCO%20LEGAL%20E%20INSTITUCIONAL%20CL%202019%20%20SIVTRI%2005_19.pdf",
+          "codigo": "6114",
+          "materia": "MARCO LEGAL E INSTITUCIONAL",
+          "ciclo_lectivo": "2019",
+          "resolucion": "SIVTRI 05_19"
+        },
+        {
+          "nombre": "6115 SISTEMAS DE PRODUCCIÓN DEL HÁBITAT CL 2019 SIVTRI 06_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/6115%20SISTEMAS%20DE%20PRODUCCI%c3%93N%20DEL%20H%c3%81BITAT%20CL%202019%20SIVTRI%2006_19.pdf",
+          "codigo": "6115",
+          "materia": "SISTEMAS DE PRODUCCIÓN DEL HÁBITAT",
+          "ciclo_lectivo": "2019",
+          "resolucion": "SIVTRI 06_19"
+        },
+        {
+          "nombre": "6116 SISTEMAS DE GESTIÓN DEL HÁBITAT CL 2019 SIVTRI 07_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/6116%20SISTEMAS%20DE%20GESTI%c3%93N%20DEL%20H%c3%81BITAT%20CL%202019%20SIVTRI%2007_19.pdf",
+          "codigo": "6116",
+          "materia": "SISTEMAS DE GESTIÓN DEL HÁBITAT",
+          "ciclo_lectivo": "2019",
+          "resolucion": "SIVTRI 07_19"
+        },
+        {
+          "nombre": "6117 SEMINARIO TRANSVERSAL INTEGRADOR DE FORMULACION DE PROYECTO APLICADO AL HÁBITAT  CL 2019 SIVTRI 08_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Diplo%20Habitat/6117%20SEMINARIO%20TRANSVERSAL%20INTEGRADOR%20DE%20FORMULACION%20DE%20PROYECTO%20APLICADO%20AL%20H%c3%81BITAT%20%20CL%202019%20SIVTRI%2008_19.pdf",
+          "codigo": "6117",
+          "materia": "SEMINARIO TRANSVERSAL INTEGRADOR DE FORMULACION DE PROYECTO APLICADO AL HÁBITAT",
+          "ciclo_lectivo": "2019",
+          "resolucion": "SIVTRI 08_19"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "departamento": "POS",
+      "carrera": "Esp Lectura y escritura",
+      "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/",
+      "contenido": [
+        {
+          "nombre": "5110 INTRODUCCION A LAS CIENCIAS DEL LENGUAJE CL 2019 R 175_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5110%20INTRODUCCION%20A%20LAS%20CIENCIAS%20DEL%20LENGUAJE%20CL%202019%20R%20175_19.pdf",
+          "codigo": "5110",
+          "materia": "INTRODUCCION A LAS CIENCIAS DEL LENGUAJE",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 175_19"
+        },
+        {
+          "nombre": "5111 MODELOS COGNITIVOS DE LA COMPRENSION DE TEXTOS CL 2019 R 176_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5111%20MODELOS%20COGNITIVOS%20DE%20LA%20COMPRENSION%20DE%20TEXTOS%20CL%202019%20R%20176_19.pdf",
+          "codigo": "5111",
+          "materia": "MODELOS COGNITIVOS DE LA COMPRENSION DE TEXTOS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 176_19"
+        },
+        {
+          "nombre": "5112 LINGUISTICA DEL DISCURSO CL 2019 R 160_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5112%20LINGUISTICA%20DEL%20DISCURSO%20CL%202019%20R%20160_19.pdf",
+          "codigo": "5112",
+          "materia": "LINGUISTICA DEL DISCURSO",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 160_19"
+        },
+        {
+          "nombre": "5113 LECTURA Y ESCRITURA EN CONTEXTOS DE HETEROGENEIDAD LINGUISTICA Y CULTURAL CL 2019 R 177_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5113%20LECTURA%20Y%20ESCRITURA%20EN%20CONTEXTOS%20DE%20HETEROGENEIDAD%20LINGUISTICA%20Y%20CULTURAL%20CL%202019%20R%20177_19.pdf",
+          "codigo": "5113",
+          "materia": "LECTURA Y ESCRITURA EN CONTEXTOS DE HETEROGENEIDAD LINGUISTICA Y CULTURAL",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 177_19"
+        },
+        {
+          "nombre": "5114 DESARROLLOS CONTEMPORANEOS DE LA TEORIA DE LA ARGUMENTACION CL 2019 R 178_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5114%20DESARROLLOS%20CONTEMPORANEOS%20DE%20LA%20TEORIA%20DE%20LA%20ARGUMENTACION%20CL%202019%20R%20178_19.pdf",
+          "codigo": "5114",
+          "materia": "DESARROLLOS CONTEMPORANEOS DE LA TEORIA DE LA ARGUMENTACION",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 178_19"
+        },
+        {
+          "nombre": "5115 ANALISIS DE LA INTERACCION VERBAL CL 2019 R 179_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5115%20ANALISIS%20DE%20LA%20INTERACCION%20VERBAL%20CL%202019%20R%20179_19.pdf",
+          "codigo": "5115",
+          "materia": "ANALISIS DE LA INTERACCION VERBAL",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 179_19"
+        },
+        {
+          "nombre": "5116 HISTORIA DE LA CULTURA ESCRITA CL 2019 R 180_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5116%20HISTORIA%20DE%20LA%20CULTURA%20ESCRITA%20CL%202019%20R%20180_19.pdf",
+          "codigo": "5116",
+          "materia": "HISTORIA DE LA CULTURA ESCRITA",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 180_19"
+        },
+        {
+          "nombre": "5121 TEORIAS DEL TEXTO LITERARIO CL 2019 R 181_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5121%20TEORIAS%20DEL%20TEXTO%20LITERARIO%20CL%202019%20R%20181_19.pdf",
+          "codigo": "5121",
+          "materia": "TEORIAS DEL TEXTO LITERARIO",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 181_19"
+        },
+        {
+          "nombre": "5130 A PRODUCCION DE TEXTOS ACADEMICOS CL 2019 R 183_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5130%20A%20PRODUCCION%20DE%20TEXTOS%20ACADEMICOS%20CL%202019%20R%20183_19.pdf",
+          "codigo": "5130",
+          "materia": "A PRODUCCION DE TEXTOS ACADEMICOS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 183_19"
+        },
+        {
+          "nombre": "5130 B PRODUCCION DE TEXTOS PROFESIONALES CL 2019 R 184_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5130%20B%20PRODUCCION%20DE%20TEXTOS%20PROFESIONALES%20CL%202019%20R%20184_19.pdf",
+          "codigo": "5130",
+          "materia": "B PRODUCCION DE TEXTOS PROFESIONALES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 184_19"
+        },
+        {
+          "nombre": "5130 C LECTURA Y ESCRITURA DIGITALES CL 2019 R 185_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5130%20C%20LECTURA%20Y%20ESCRITURA%20DIGITALES%20CL%202019%20R%20185_19.pdf",
+          "codigo": "5130",
+          "materia": "C LECTURA Y ESCRITURA DIGITALES",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 185_19"
+        },
+        {
+          "nombre": "5130 D LECTURA Y ESCRITURA DE ADOLESCENTES Y ADULTOS CL 2019 R 186_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5130%20D%20LECTURA%20Y%20ESCRITURA%20DE%20ADOLESCENTES%20Y%20ADULTOS%20CL%202019%20R%20186_19.pdf",
+          "codigo": "5130",
+          "materia": "D LECTURA Y ESCRITURA DE ADOLESCENTES Y ADULTOS",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 186_19"
+        },
+        {
+          "nombre": "5130 E LECTURA Y ESCRITURA INFANTIL Y JUVENIL CL 2019 R 187_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5130%20E%20LECTURA%20Y%20ESCRITURA%20INFANTIL%20Y%20JUVENIL%20CL%202019%20R%20187_19.pdf",
+          "codigo": "5130",
+          "materia": "E LECTURA Y ESCRITURA INFANTIL Y JUVENIL",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 187_19"
+        },
+        {
+          "nombre": "5140 A LAS DETERMINACIONES POL EN EL USO DE LENGURAJECL2019 R 182_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5140%20A%20LAS%20DETERMINACIONES%20POL%20EN%20EL%20USO%20DE%20LENGURAJECL2019%20R%20182_19.pdf",
+          "codigo": "5140",
+          "materia": "A LAS DETERMINACIONES POL EN EL USO DE LENGURAJECL2019 R 182_19",
+          "ciclo_lectivo": "",
+          "resolucion": ""
+        },
+        {
+          "nombre": "5150 TALLER PARA LA ELABORACION DEL TRABAJO FINAL CL 2019 R 188_19.pdf",
+          "url": "https://www.unm.edu.ar/files/Programas_web/POS%20Esp%20Lectura%20y%20escritura/5150%20TALLER%20PARA%20LA%20ELABORACION%20DEL%20TRABAJO%20FINAL%20CL%202019%20R%20188_19.pdf",
+          "codigo": "5150",
+          "materia": "TALLER PARA LA ELABORACION DEL TRABAJO FINAL",
+          "ciclo_lectivo": "2019",
+          "resolucion": "R 188_19"
+        }
+      ]
+    }
+  ]
+}

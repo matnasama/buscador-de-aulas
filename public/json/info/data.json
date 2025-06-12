@@ -1,0 +1,189 @@
+{
+	"tramites": [
+	  {
+		"id": 1,
+		"nombre": "Cambio o Simultaneidad de Carreras",
+		"descripcion": "Para solicitar un cambio o simultaneidad* de carrera, deberá completar los siguientes formularios:\n\n- SOLICITUD DE CAMBIO/SIMULTANEIDAD DE CARRERA\n- FORMULARIO PRE-INSCRIPCIÓN\n\nJunto con los formularios completos, deberá presentar DNI y Analítico del Secundario (ORIGINALES y FOTOCOPIAS).\nPosteriormente, deberá realizar la presentación de los documentos de manera personal.\n* Para solicitar simultaneidad de carreras, es necesario contar con un 25% de las asignaturas aprobadas de la carrera en la que se encuentra previamente inscrito.",
+		"url": "https://drive.google.com/file/d/1nveDUYL9hmx1YboUzXu_NB-FsDNoLQam/view?usp=drive_link",
+		"type": "descargar"
+	  },
+	  {
+		"id": 2,
+		"nombre": "Cambio de Institución",
+		"descripcion": "Si desea solicitar equivalencias en otra institución deberá consultar allí cuales son los requisitos para dicho trámite. \nPara solicitar la documentación mencionada deberá completar el siguiente formulario online. \n\nCompletando el formulario mencionado se le otorgará la siguiente documentación: \nCERTIFICADO DE ASIGNATURAS RENDIDAS;\nCERTIFICADO DE NO SANCIONES DISCIPLINARIAS; \nPLAN DE ESTUDIOS DE LA CARRERA; \nPROGRAMAS DE LAS ASIGNATURAS APROBADAS",
+		"url": "https://forms.gle/qAAcUEeS9MiY5LXH9",
+		"type": "ir al formulario"
+	  },
+	  {
+		"id": 3,
+		"nombre": "Certificado de Examen",
+		"descripcion": "Los Certificados de Examen podrá retirarlos en el Departamento de Alumnos o bien podrá imprimir este modelo.\nLos Certificados de Examen deben ser presentados en el Departamento de Alumnos dentro de nuestro horario de atención con firma y aclaración del docente con fecha del día del examen. \n\nLas prácticas realizadas fuera de la universidad para las asignaturas específicas se certifican en el departamento de su carrera.",
+		"url": "https://drive.google.com/file/d/1SGe8080Igdsz7QeH_o-Twjtblmdtj-8t/view?usp=sharing",
+		"type": "descargar"
+	  },
+	  {
+		"id": 4,
+		"nombre": "Solicitud de Equivalencias",
+		"descripcion": "\nPara solicitar equivalencias deberá completar la siguiente NOTA DE SOLICITUD.\n\nJunto con la mencionada nota deberá presentar los REQUISITOS DE EQUIVALENCIAS.\n\nLas materias que podrá solicitar por equivalencias deben estar aprobadas en su totalidad.\n\nPuede enviar un correo con su historia académica al departamento de su carrera realizando la consulta para informarse acerca de las asignaturas que puede solicitar y autorizar el formulario de solicitud una vez completado.\n\nDEPARTAMENTO DE CIENCIAS ECONÓMICAS Y JURÍDICAS\ndceyj@unm.edu.ar\nDEPARTAMENTO DE CIENCIAS APLICADAS Y TECNOLOGÍA\ndcayt@unm.edu.ar\nDEPARTAMENTO DE HUMANIDADES Y CIENCIAS SOCIALES\ndhycs@unm.edu.ar",
+		"url": "https://drive.google.com/file/d/1HouwjN1zpjlg1D5TkbrE6-YxZjgFA8Fv/view?usp=sharing",
+		"type": "descargar",
+		"requisitos": "ver requisitos",
+		"urlrequisitos": "https://drive.google.com/file/d/1ARmvpwAma118d4-49X9mH4772hXaPraI/view?usp=sharing"
+	  },
+	  {
+		"id": 5,
+		"nombre": "Constancias o Certificados",
+		"sub": "Alumno Regular\nAsignaturas Rendidas",
+		"descripcion": "En la sección CONSULTAS FRECUENTES podrá encontrar el instructivo para generar cualquiera de las constancias.\n\n Si necesita una constancia de Alumno Regular específica, con días y horarios de cursada, podrá descargar el modelo aquí, completarlo y presentarlo en el Departamento de Alumnos",
+		"url": "https://drive.google.com/file/d/1Cw_rbcdV6SSKdGlH4GLlX1IzNGah1KZv/view?usp=sharing",
+		"type": "descargar"
+	  },
+	  {
+		"id": 6,
+		"nombre": "Solicitud de Títulos",
+		"descripcion": "\nRecuerde verificar en su historial antes de completar el formulario y enviar su solicitud;  el cumplimiento del 100% del requerimiento de materias aprobadas según el plan de la carrera, para el título que solicitará. Ya que se deben encontrar todas las actividades correspondientes aprobadas y en actas cerradas, para que consten en su historial académico.\n\nSi completa el formulario no teniendo aún aprobadas la totalidad de las asignaturas, necesarias para la emisión del título, se desestimará la solicitud.\n\nPara solicitar la documentación que se requiere en la tramitación de su título deberá completar el siguiente formulario online Solicitud de documentación para Títulos.\n\nCompletando la misma se emitirá el Certificado de Cumplimiento de Requisitos de Ingreso y el Certificado de Asignaturas Rendidas, que posteriormente presentará al Departamento de Títulos.\n\nEl tiempo de entrega de la documentación estará sujeta a la verificación de datos realizadas por las áreas intervinientes.\n\nEn caso de corresponder se realizarán las modificaciones de sus datos en sistema antes de remitirle la documentación.",
+		"url": "https://forms.gle/B9nJQqVXGcdMvxea6",
+		"type": "ir al formulario"
+	  }
+	],
+
+	"consultas":[
+		{
+			"id": 1,
+			"nombre": "¿querés inscribirte por primera vez a una carrera de grado de la unm?",
+			"descripcion": "Si estás interesado en ser estudiante de alguna carrera de grado de la Universidad Nacional de Moreno y todavía no te inscribiste en ninguna carrera, podrás encontrar la información acerca de cómo  hacer tu inscripción  en el siguiente enlace que te lleva a nuestro sitio web.\nAllí podrás encontrar las respuestas acerca de como inscribirse en la UNM.\n\nCarreras\nPreguntas Frecuentes\nCurso de Orientación y Preparación Universitaria (COPRUN)\nMayores de 25 años\nProceso de Inscripción y validación de documentación\nDocumentación Requerida\nRequisitos para los Ciclos de Licenciaturas",
+			"requisitos": "leer más",
+			"urlrequisitos": "http://www.unm.edu.ar/index.php/ingresantes"
+		  },
+		{
+			"id": 2,
+			"nombre": "estudiantes en carreras de grado de la unm – inscripción a asignaturas",
+			"descripcion": "En el Calendario Académico podrás encontrar las fechas de inscripciones a asignaturas antes de comenzar cada cuatrimestre. Para saber en qué fechas te corresponde inscribirte debes tener en cuenta la siguiente información:\nLa inscripción en calidad de INGRESANTES es para aquellos que recién han finalizado el COPRUN y en la primera instancia inmediata de inscripciones a asignaturas de la carrera, gestiona la inscripción.\nSi hubieras realizado un cambio o simultaneidad de carreras y es tu primer cuatrimestre en la carrera también realizarás tu inscripción en calidad de INGRESANTE.\nLos estudiantes que deberán inscribirse en  las fechas previstas  para NO INGRESANTES son aquellos que  ya realizaron gestiones de inscripción a asignaturas de la carrera de grado en períodos de anteriores."
+		},
+		{
+			"id": 3,
+			"nombre": "PROCESO DE INSCRIPCIONES A ASIGNATURAS DE CARRERAS DE GRADO",
+			"descripcion": "La grilla de oferta de asignaturas de carreras de grado de cada período de cursada se publica en nuestra página web, con el correspondiente detalle que informa materias, comisiones, días y horarios de cursadas.\n\nEn el Calendario Académico de la UNM, están informadas las fechas de cada llamado de inscripción a asignaturas de las carreras de grado, para cada período del ciclo lectivo.\n\nEn el primer llamado, las pre-inscripciones que realiza el estudiante desde su sesión de GESTIÓN ONLINE a asignaturas le permiten indicar hasta tres opciones de comisiones de la oferta total de comisiones disponibles de una asignatura, que cuente con varias comisiones en distintos días y horarios.\n\nEl estudiante deberá elegir solo las opciones de días y horarios en las que efectivamente pueda cursar, ya que cualquiera de las opciones que elija podrán quedar aceptadas.\n\nLuego, en las fechas previstas por el calendario de 'Publicación Inscripción asignaturas del primer llamado', podrán ver cuáles de sus pre-inscripciones a comisiones quedaron aceptadas, ya que son las que podrá cursar.\n\nEn el caso de que alguna de tus inscripciones gestionadas desde tu sesión de gestión online en ese primer llamado no hubiera quedado aceptada, deberás volver a tramitar la inscripción en el segundo llamado. Ya que el proceso de inscripción finaliza recién al culminar este último. Este segundo llamado de inscripción es de aceptación automática, por lo cual en el mismo momento de la inscripción a las materias y comisiones que cuenten con disponibilidad, quedará esa inscripción aceptada.\n\nSi tuviera algún inconveniente a la hora de inscribirse en el segundo llamado de inscripción a asignaturas, deberás comunicarte con el departamento de tu carrera.\n\nDEPARTAMENTO DE CIENCIAS ECONÓMICAS Y JURÍDICAS\ndceyj@unm.edu.ar\nDEPARTAMENTO DE CIENCIAS APLICADAS Y TECNOLOGÍA\ndcayt@unm.edu.ar\nDEPARTAMENTO DE HUMANIDADES Y CIENCIAS SOCIALES\ndhycs@unm.edu.ar"
+		},
+		{
+			"id": 4,
+			"nombre": "Cambio de Comisión",
+			"descripcion": "En caso de haber obtenido  la inscripción aceptada  en una asignatura/comisión, donde finalmente no puedas o no deseas cursar; deberás darte de baja en la comisión en cuestión, antes de finalizar el segundo llamado de inscripción a asignaturas, e inscribirte en la comisión que sea de tu interés. Si tu consulta o duda surge el último día de inscripción o apenas  finalizado el último  llamado  deberás realizar tu consulta al departamento académico de tu carrera.\n\nDEPARTAMENTO DE CIENCIAS ECONÓMICAS Y JURÍDICAS\ndceyj@unm.edu.ar\nDEPARTAMENTO DE CIENCIAS APLICADAS Y TECNOLOGÍA\ndcayt@unm.edu.ar\nDEPARTAMENTO DE HUMANIDADES Y CIENCIAS SOCIALES\ndhycs@unm.edu.ar"
+		},
+		{
+			"id": 5,
+			"nombre": "Inscripcion a finales regulares y libres",
+			"descripcion":"La inscripción a exámenes finales se realiza en 3(tres) momentos del año.\nTurnos: Febrero-Marzo / Julio / Diciembre\n\nLos finales pueden rendirse de manera REGULAR o LIBRE en las mismas mesas previstas para cada asignatura. \n\nLos períodos de inscripción y desarrollo de los exámenes finales se encuentran informados en el CALENDARIO ACADÉMICO.\n\nREGULARES: Recordá que en cada turno de finales SIEMPRE deberás inscribirte en el llamado que desees a través del SIU-Guaraní de la misma manera en que te inscribís a asignaturas y sólo podés elegir una de las mesas del turno.  \n\nLIBRES: Si cursaste una asignatura y el resultado fue: ABANDONÓ, AUSENTE o LIBRE, o NUNCA la cursaste, el sistema aceptará la inscripción al examen final en calidad de LIBRE, siempre y cuando el Plan de Estudios de tu carrera lo admita (ver en el programa de la asignatura el régimen de aprobación).\n\n Siempre que tengas inconvenientes a la hora de realizar una inscripción podrás comunicarte con el Departamento de Alumnos antes de que finalice el período."
+		},
+		{
+			"id": 6,
+			"nombre": "Inicio del trámite del Título",
+			"descripcion": "Una vez que hayas cumplido con el  100% del requerimiento de asignaturas aprobadas que prevé el plan de estudios de tu carrera,  para dar inicio al trámite de  solicitud del  título de GRADO o PRE-GRADO deberás comunicarte con la oficina  de Títulos a través de su correo titulos@unm.edu.ar. \nEn dicha área te indicarán los requisitos para iniciar dicha tramitación."
+		},
+		{
+			"id": 7,
+			"nombre": "Solicitud de Equivalencias",
+			"descripcion":"En el caso de presentar asignaturas aprobadas en otra universidad reconocida como tal, la equivalencia es EXTERNA.\n Si cursaste o cursás otra carrera dentro de la UNM y deseas solicitar equivalencias entre ambas carreras la equivalencia es INTERNA.\n\nPara solicitar equivalencias deberás completar una NOTA DE SOLICITUD que encontrará en el sector TRÁMITES (en el caso de las INTERNAS, sólo deberá presentar la NOTA DE SOLICITUD).\n\nJunto con la mencionada nota deberá presentar los REQUISITOS DE EQUIVALENCIAS.\n\nLas materias que podrás solicitar por equivalencias deben estar aprobadas en su totalidad.\nSe recuerda que solo podrán presentar dichas solicitudes por materias aprobadas en Universidades, que cuenten con fecha de aprobación no superior a diez años. Además el Reglamento no admite solicitud de equivalencias de materias aprobadas en Instituciones de Nivel Terciario.\n\nPodrás enviar un correo con su historia académica al departamento de su carrera realizando la consulta para informarse acerca de las asignaturas que puede solicitar y autorizar el formulario de solicitud una vez completado.\n\nDEPARTAMENTO DE CIENCIAS ECONÓMICAS Y JURÍDICAS\ndceyj@unm.edu.ar\nDEPARTAMENTO DE CIENCIAS APLICADAS Y TECNOLOGÍA\ndcayt@unm.edu.ar\nDEPARTAMENTO DE HUMANIDADES Y CIENCIAS SOCIALES\ndhycs@unm.edu.ar"
+		},
+		{
+			"id": 8,
+			"nombre": "Consultas a Bienestar Universitario",
+			"descripcion": "Para consultas sobre\n Becas Internas\nBecas Externas\nDeporte Universitario\nBolsa de trabajo y pasantías\nPrograma Comunidad UNM\nConvivencia Universitaria\nBoleto estudiantil\npodés comunicarte con el Departamento de Bienestar Universitario\n a través del correo electrónico: bienestaruniversitario@unm.edu.ar"
+		},		
+		{	"id": 9,
+			"nombre": "Regularidad",
+			"descripcion": "Como estipula el Reglamento de Alumnos: \n\nARTÍCULO 16.- Aquellos alumnos en condición regular en una asignatura deberán rendir su examen final para promoverla, en cualquiera de los Turnos de Exámenes dentro del plazo de 2 (dos) años, a computar desde la fecha del primer llamado posterior a la fecha de regularización de la materia.\n\nARTÍCULO 17.- El alumno que no hubiere aprobado su examen final en el plazo previsto en el artículo 16 y/o hubiera reprobado en 3 (tres) oportunidades su examen final, perderá la regularidad en la asignatura y deberá recursarla, con excepción de las 2 (dos) últimas unidades curriculares que pudiere adeudar de su Plan de Estudios. Esta circunstancia no afectará su inscripción y condición en relación a las obligaciones curriculares correlativas.\n\nARTÍCULO 18.- La SECRETARÍA ACADÉMICA podrá conceder una prórroga o nueva oportunidad de examen final, en acuerdo con el CONSEJO del DEPARTAMENTO ACADÉMICO correspondiente, previa solicitud debidamente justificada del interesado y dictamen del titular de la asignatura.\n\nARTÍCULO 19.- El alumno que optare por recursar una materia en condición regular, a efectos de su promoción mediante el régimen de regularidad, perderá la condición de regular en la materia obtenida con anterioridad. No se admitirá la inscripción para recursar una materia en condición regular, antes del plazo de 1 (un) año a computar desde la fecha de su regularización."
+		},		
+		{
+			"id": 10,
+			"nombre": "Modificación de Datos Personales",
+			"descripcion": "Si deseas solicitar Modificación de Datos en el sistema, deberás presentarte con tu DNI (original y copia) en el Departamento de Alumnos para completar un formulario de solicitud."
+		},
+		{
+			"id": 11,
+			"nombre": "Solicitar constancias o certificados",
+			"descripcion":"Para solicitar Certificado de Alumno Regular o de Asignaturas Rendidas, seguí los pasos que a continuación se detallan:\n\n1. Accede dentro del SIU-GUARANÍ en la pestaña TRÁMITES.\n\n2. Selecciona la opción 'Solicitar Constancias y Certificados'.\n\n3. Haz clic en el botón 'NUEVA SOLICITUD'.\n\n4. Completa el formulario con tu información de la constancia o certificado que necesitas.\n\n5. Verifica que toda la información sea correcta y confirma la solicitud.\n\n6. El sistema generará automáticamente la constancia o certificado solicitado para que la descargues."
+		}
+	],
+
+	"sitios":[
+		{
+			"id": 1,
+			"nombre": "Gestión online",
+			"url": "http://gestiononline.unm.edu.ar/unm3w/",
+			"imagen": "/guarani.webp"
+		},
+		{
+			"id": 2,
+			"nombre": "Biblioteca y Centro de Documentación",
+			"email": "biblioteca@unm.edu.ar",
+			"url": "http://biblioteca.unm.edu.ar/cgi-bin/koha/opac-main.pl",
+			"imagen": "/biblioteca.webp"
+		},
+		{
+			"id": 3,
+			"nombre": "Instituto Tecnológico Universidad Nacional de Moreno",
+			"email": "itunm@unm.edu.ar",
+			"url": "http://itunm.unm.edu.ar/",
+			"imagen": "/itunm.webp"
+		},
+		{
+			"id": 4,
+			"nombre": "Posgrado",
+			"email": "posgrado@unm.edu.ar",
+			"url": "http://www.unm.edu.ar/index.php/carreras/posgrado",
+			"imagen": "/posgrado-unm.webp"
+		},
+		{
+			"id": 5,
+			"nombre": "Campus Virtual",
+			"email": "campusvirtual@unm.edu.ar",
+			"url": "http://campusvirtual.unm.edu.ar/moodle/login/index.php",
+			"imagen": "/campusvirtual.webp",
+			"subcategorias": [
+				{
+					"titulo": "Campus Virtual 2025",
+					"enlace": "http://campusvirtual.unm.edu.ar/moodle/",
+					"nombre": "Campus Virtual 2025"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2020-2021",
+					"enlace": "http://campus2020-2021.unm.edu.ar/",
+					"nombre": "Campus Virtual 2020-2021"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2022",
+					"enlace": "http://campus2022.unm.edu.ar",
+					"nombre": "Campus Virtual 2022"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2023",
+					"enlace": "http://campus2023.unm.edu.ar/moodle",
+					"nombre": "Campus Virtual 2023"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2024",
+					"enlace": "http://campus2024.unm.edu.ar/moodle",
+					"nombre": "Campus Virtual 2024"
+				},
+				{
+					"titulo": "Campus virtual COPRUN",
+					"enlace": "http://cv02.unm.edu.ar/",
+					"nombre": "Campus virtual COPRUN"
+				},
+				{
+					"titulo": "Campus Virtual Posgrado",
+					"enlace": "http://campusposgrado.unm.edu.ar/",
+					"nombre": "Campus Virtual Posgrado"
+				}
+			]
+		},
+		{
+			"id": 6,
+			"nombre": "Banco de Asignaturas",
+			"email": "",
+			"url": "http://asignaturas.unm.edu.ar/",
+			"imagen": "/posgrado-unm.webp"
+		}
+	]
+}

@@ -1,0 +1,54 @@
+{
+    "virtual": [
+    {
+      "titulo": "Gestión On-line",
+      "enlace": "https://gestiononline.unm.edu.ar/unm3w/",
+      "nombre": "Gestión On-line"
+    },
+    {
+      "titulo": "Repositorio Digital",
+      "enlace": "https://repositorio.unm.edu.ar:8080/jspui/",
+      "nombre": "Repositorio Digital"
+    },
+    {
+      "titulo": "Campus Virtual 2025",
+      "enlace": "http://campusvirtual.unm.edu.ar/moodle/",
+      "nombre": "Campus Virtual 2025"
+    },
+    {
+      "titulo": "Ciclo Lectivo 2020-2021",
+      "enlace": "http://campus2020-2021.unm.edu.ar/",
+      "nombre": "Campus Virtual 2020-2021"
+    },
+    {
+      "titulo": "Ciclo Lectivo 2022",
+      "enlace": "http://campus2022.unm.edu.ar",
+      "nombre": "Campus Virtual 2022"
+    },
+    {
+      "titulo": "Ciclo Lectivo 2023",
+      "enlace": "http://campus2023.unm.edu.ar/moodle",
+      "nombre": "Campus Virtual 2023"
+    },
+    {
+      "titulo": "Ciclo Lectivo 2024",
+      "enlace": "http://campus2024.unm.edu.ar/moodle",
+      "nombre": "Campus Virtual 2024"
+    },
+    {
+      "titulo": "Campus virtual COPRUN",
+      "enlace": "http://cv02.unm.edu.ar/",
+      "nombre": "Campus virtual COPRUN"
+    },
+    {
+      "titulo": "Campus Virtual Posgrado",
+      "enlace": "http://campusposgrado.unm.edu.ar/",
+      "nombre": "Campus Virtual Posgrado"
+    }, 
+    {
+      "titulo": "Banco de asignaturas",
+      "enlace": "http://asignaturas.unm.edu.ar/",
+      "nombre": "Banco de asignaturas"
+    }
+]
+}
