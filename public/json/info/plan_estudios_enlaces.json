@@ -1,0 +1,121 @@
+[
+  {
+    "carrera": "Ingeniería en Electrónica",
+    "codigo": "INEL",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "/index.php/carreras/ciencias-aplicadas-y-tecnologia/ingenieria-en-electronica/2-uncategorised/412-organizacion-curricular-ingenieria-en-electronica",
+    "plan_de_estudios": "/files/INGENIERIA_EN_ELECTRONICA_UNM_2017_3_orientaciones_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Gestión Ambiental",
+    "codigo": "LGA",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "/index.php/carreras/ciencias-aplicadas-y-tecnologia/licenciatura-en-gestion-ambiental/2-uncategorised/508-organizacion-curricular-licenciatura-en-gestion-ambiental",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_GESTION_AMBIENTAL_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Arquitectura",
+    "codigo": "ARQ",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "/index.php/carreras/ciencias-aplicadas-y-tecnologia/arquitectura/2-uncategorised/634-organizacion-curricular-arquitectura",
+    "plan_de_estudios": "/files/ARQUITECTURA_UNM_2019_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Biotecnología",
+    "codigo": "BIO",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "http://www.unm.edu.ar/index.php/carreras/ciencias-aplicadas-y-tecnologia/licenciatura-en-biotecnologia/2-uncategorised/635-organizacion-curricular-licenciatura-en-biotecnologia",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_BIOTECNOLOGIA_UNM_2022_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Diseño Industrial",
+    "codigo": "DIN",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "/index.php/carreras/ciencias-aplicadas-y-tecnologia/diseno-industrial/2-uncategorised/2068-organizacion-curricular-diseno-industrial",
+    "plan_de_estudios": "/files/DISEO_INDUSTRIAL_UNM_2023_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Diseño de Indumentaria",
+    "codigo": "DDI",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "/index.php/carreras/ciencias-aplicadas-y-tecnologia/diseno-de-indumentaria/2-uncategorised/2070-organizacion-curricular-diseno-de-indumentaria",
+    "plan_de_estudios": "/files/INDUMENTARIA23.pdf"
+  },
+  {
+    "carrera": "Diseño Multimedial",
+    "codigo": "DMU",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "/index.php/carreras/ciencias-aplicadas-y-tecnologia/diseno-multimedial/2-uncategorised/2072-organizacion-curricular-diseno-multimedial",
+    "plan_de_estudios": "/files/DISEO_MULTIMEDIAL_UNM_2023_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Diseño en Comunicación Visual",
+    "codigo": "DCV",
+    "departamento": "DCAYT",
+    "organizacion_curricular": "/index.php/carreras/ciencias-aplicadas-y-tecnologia/diseno-en-comunicacion-visual/2-uncategorised/2074-organizacion-curricular-diseno-en-comunicacion-visual",
+    "plan_de_estudios": "/files/DISEO_COMUNICACION_VISUAL_UNM_2023_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Relaciones del Trabajo",
+    "codigo": "LRT",
+    "departamento": "DCEYJ",
+    "organizacion_curricular": "/index.php/carreras/economia-y-administracion/licenciatura-en-relaciones-del-trabajo/2-uncategorised/2076-organizacion-curricular-licenciatura-en-relaciones-del-trabajo",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_RELACIONES_DEL_TRABAJO_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Administración",
+    "codigo": "LADM",
+    "departamento": "DCEYJ",
+    "organizacion_curricular": "/index.php/carreras/economia-y-administracion/licenciatura-en-administracion/2-uncategorised/2078-organizacion-curricular-licenciatura-en-administracion",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_ADMINISTRACION_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Economía",
+    "codigo": "LECON",
+    "departamento": "DCEYJ",
+    "organizacion_curricular": "/index.php/carreras/economia-y-administracion/licenciatura-en-economia/2-uncategorised/2080-organizacion-curricular-licenciatura-en-economia",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_ECONOMIA_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Contador Público Nacional",
+    "codigo": "CPN",
+    "departamento": "DCEYJ",
+    "organizacion_curricular": "/index.php/carreras/economia-y-administracion/contador-publico-nacional/2-uncategorised/2082-organizacion-curricular-contador-publico-nacional",
+    "plan_de_estudios": "/files/CONTADOR_PUBLICO_NACIONAL_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Abogacía",
+    "codigo": "ABG",
+    "departamento": "DCEYJ",
+    "organizacion_curricular": "/index.php/carreras/economia-y-administracion/abogacia-proximamente/2-uncategorised/2084-organizacion-curricular-abogacia",
+    "plan_de_estudios": "/files/ABOGACIA_UNM_2023_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Trabajo Social",
+    "codigo": "LTS",
+    "departamento": "DHYCS",
+    "organizacion_curricular": "/index.php/carreras/humanidades-y-ciencias-sociales/licenciatura-en-trabajo-social/2-uncategorised/2086-organizacion-curricular-licenciatura-en-trabajo-social",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_TRABAJO_SOCIAL_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Comunicación Social",
+    "codigo": "LCS",
+    "departamento": "DHYCS",
+    "organizacion_curricular": "/index.php/carreras/humanidades-y-ciencias-sociales/licenciatura-en-comunicacion-social/2-uncategorised/2088-organizacion-curricular-licenciatura-en-comunicacion-social",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_COMUNICACION_SOCIAL_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Educación Secundaria",
+    "codigo": "LES",
+    "departamento": "DHYCS",
+    "organizacion_curricular": "/index.php/carreras/humanidades-y-ciencias-sociales/licenciatura-en-educacion-secundaria/2-uncategorised/2090-organizacion-curricular-licenciatura-en-educacion-secundaria",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_EDUCACION_SECUNDARIA_UNM_2015_versin_difusin_20240404.pdf"
+  },
+  {
+    "carrera": "Licenciatura en Educación Inicial",
+    "codigo": "LEI",
+    "departamento": "DHYCS",
+    "organizacion_curricular": "/index.php/carreras/humanidades-y-ciencias-sociales/licenciatura-en-educacion-inicial/2-uncategorised/2092-organizacion-curricular-licenciatura-en-educacion-inicial",
+    "plan_de_estudios": "/files/LICENCIATURA_EN_EDUCACION_INICIAL_UNM_2015_versin_difusin_20240404.pdf"
+  }
+]
