@@ -49,8 +49,8 @@
 	  {
 		"id": 7,
 		"nombre": "SOLICITAR CONSTANCIAS EN SIU-GUARANÍ",
-		"descripcion": "Podés solicitar certificados de alumno regular o de asignaturas rendidas a través de SIU-GUARANÍ.\nA continuación podrás ver los pasos para generar las constancias:\nIngresá dentro de la pestaña TRÁMITES dentro de tu sesión de SIU-GUARANÍ.\nUna vez que ingresás en Solicitar Constancias y Certificados tenés que ingresar en la opción NUEVA SOLICITUD\nSeleccioná que tipo de constancia  querés solicitar y completá los datos obligatorios marcados con (*)\nEl ícono color rojo que se encuentra en la derecha es un archivo PDF y al seleccionarlo iniciarás la descarga de la constancia generada.\n¿Qué pasa si no se descarga mi constancia?",
-		"error": "\nNormalmente puede producirse un error en la descarga de las constancias, en el cual la descarga nunca finaliza. Este error se produce solo en el navegador Google Chrome. Intentá realizar la descarga de las constancias desde otro navegador (Mozilla Firefox, Safari, Microsoft Edge, etc).",
+		"descripcion": "Podés solicitar certificados de alumno regular o de asignaturas rendidas a través de SIU-GUARANÍ.\nA continuación podrás ver los pasos para generar las constancias:\n\n·Ingresá dentro de la pestaña TRÁMITES dentro de tu sesión de SIU-GUARANÍ.\n·Una vez que ingresás en Solicitar Constancias y Certificados tenés que ingresar en la opción NUEVA SOLICITUD\n·Seleccioná que tipo de constancia  querés solicitar y completá los datos obligatorios marcados con (*)\n·El ícono color rojo que se encuentra en la derecha es un archivo PDF y al seleccionarlo iniciarás la descarga de la constancia generada.",
+		"error": "\n\n¿Qué pasa si no se descarga mi constancia?\nNormalmente puede producirse un error en la descarga de las constancias, en el cual la descarga nunca finaliza. Este error se produce solo en el navegador Google Chrome. Intentá realizar la descarga de las constancias desde otro navegador (Mozilla Firefox, Safari, Microsoft Edge, etc).",
 		"type": ""
 	  },
 	  {
