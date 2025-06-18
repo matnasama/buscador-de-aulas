@@ -131,27 +131,6 @@
 		},
 		{
 			"id": 2,
-			"nombre": "BIBLIOTECA Y CENTRO DE DOCUMENTACIÓN",
-			"email": "biblioteca@unm.edu.ar",
-			"url": "http://biblioteca.unm.edu.ar/cgi-bin/koha/opac-main.pl",
-			"imagen": "/biblioteca.webp"
-		},
-		{
-			"id": 3,
-			"nombre": "INSTITUTO TECNOLÓGICO UNIVERSIDAD NACIONAL DE MORENO",
-			"email": "itunm@unm.edu.ar",
-			"url": "http://itunm.unm.edu.ar/",
-			"imagen": "/itunm.webp"
-		},
-		{
-			"id": 4,
-			"nombre": "POSGRADO",
-			"email": "posgrado@unm.edu.ar",
-			"url": "http://www.unm.edu.ar/index.php/carreras/posgrado",
-			"imagen": "/posgrado-unm.webp"
-		},
-		{
-			"id": 5,
 			"nombre": "CAMPUS VIRTUAL",
 			"email": "campusvirtual@unm.edu.ar",
 			"url": "http://campusvirtual.unm.edu.ar/moodle/login/index.php",
@@ -195,11 +174,32 @@
 			]
 		},
 		{
+			"id": 3,
+			"nombre": "INSTITUTO TECNOLÓGICO UNIVERSIDAD NACIONAL DE MORENO",
+			"email": "itunm@unm.edu.ar",
+			"url": "http://itunm.unm.edu.ar/",
+			"imagen": "/itunm.webp"
+		},
+		{
+			"id": 4,
+			"nombre": "POSGRADO",
+			"email": "posgrado@unm.edu.ar",
+			"url": "http://www.unm.edu.ar/index.php/carreras/posgrado",
+			"imagen": "/posgrado-unm.webp"
+		},
+		{
+			"id": 5,
+			"nombre": "BIBLIOTECA Y CENTRO DE DOCUMENTACIÓN",
+			"email": "biblioteca@unm.edu.ar",
+			"url": "http://biblioteca.unm.edu.ar/cgi-bin/koha/opac-main.pl",
+			"imagen": "/biblioteca.webp"
+		},
+		{
 			"id": 6,
 			"nombre": "BANCO DE ASIGNATURAS",
 			"email": "",
 			"url": "http://asignaturas.unm.edu.ar/",
-			"imagen": "/posgrado-unm.webp"
+			"imagen": "/banco-asignaturas.webp"
 		}
 	],
 	"ingresantes":[
