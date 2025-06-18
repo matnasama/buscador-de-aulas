@@ -5,7 +5,7 @@
 		"nombre": "CAMBIO O SIMULTANEIDAD DE CARRERAS",
 		"descripcion": "Si sos alumno de la UNM y querés cambiarte de carrera o cursar simultáneamente otra- Reglamento de Alumnos art 16 y 17.\nEn el Calendario Académico publicado en nuestra web vas a encontrar las fechas en las cuales podés dar inicio al trámite para el próximo cuatrimestre.\nPara solicitar un cambio o simultaneidad* de carrera tenés que completar el siguiente formulario virtual para dejar registro y subir la documentación( DNI y Certificado Analítico)",
 		"url": "https://drive.google.com/file/d/1RFYYWnqEs6SLv6JOTHKbrLtf9sZzunmp/view?usp=drive_link",
-		"type": "descargar"
+		"type": "ir al formulario"
 	  },
 	  {
 		"id": 2,
@@ -32,49 +32,41 @@
 	  },
 	  {
 		"id": 5,
-		"nombre": "CONSTANCIAS O CERTIFICADOS",
-		"sub": "Alumno Regular\nAsignaturas Rendidas",
-		"descripcion": "En la sección CONSULTAS FRECUENTES podrá encontrar el instructivo para generar cualquiera de las constancias.\n\n Si necesita una constancia de Alumno Regular específica, con días y horarios de cursada, podrá descargar el modelo aquí, completarlo y presentarlo en el Departamento de Alumnos",
-		"url": "https://drive.google.com/file/d/1Cw_rbcdV6SSKdGlH4GLlX1IzNGah1KZv/view?usp=sharing",
-		"type": "descargar"
-	  },
-	  {
-		"id": 6,
 		"nombre": "SOLICITUD DE TÍTULOS",
 		"descripcion": "Antes de completar y enviar tu solicitud recordá verificar en tu historia académica el cumplimiento del 100% del requerimiento de materias aprobadas según el plan de la carrera, para el título que vas a solicitar.\nSe deben encontrar todas las actividades correspondientes aprobadas y en actas cerradas, para que consten en su historial académico.\nSi completás el formulario no teniendo aún aprobadas la totalidad de las asignaturas necesarias para la emisión del título, se desestimará la solicitud.\nEn caso de corresponder, se realizarán las modificaciones de sus datos en el sistema antes de enviarte la documentación.\nCompletando la solicitud te otorgaremos el Certificado de Cumplimiento de Requisitos de Ingreso y el Certificado de Asignaturas Rendidas, que posteriormente vas a presentar al Departamento de Títulos.\nUna vez finalizado el trámite remitiremos la documentación al correo que declaraste en el formulario.",
 		"url": "https://docs.google.com/forms/d/e/1FAIpQLSeFFj0knk8kUkMyurBEbKcpU-uViEE4C4a6VOH-ATR2hIbYUQ/viewform",
 		"type": "ir al formulario"
 	  },
 	  {
-		"id": 7,
+		"id": 6,
 		"nombre": "MODIFICACIÓN DE DATOS PERSONALES EN SISTEMA",
 		"descripcion": "Como estudiante vas a poder cambiar o corregir datos personales, tales como NOMBRE, APELLIDO, GÉNERO o DNI.\nPara ello tenés que completar el formulario correspondiente y presentarlo en el Departamento de Alumnos.\n\nPor errores a la hora de realizar el primer registro en la UNM o por cambios en su Documento Nacional de Identidad (DNI).\nDESCARGAR NOTA\n\nPor motivos de género sin cambio registral (Ley de Identidad de Género N° 26.743).\nDESCARGAR NOTA\n\nPor motivos de género con cambio registral (Ley de Identidad de Género N° 26.743).\nDESCARGAR NOTA\n\nPara dar inicio al trámite tenés que acercarte personalmente con el formulario correspondiente y con tu DNI (original y fotocopia certificada por el Departamento de Mesa de Entrada).\n\nEl Departamento de Mesa de Entrada tiene atención de lunes a viernes en la franja horaria  de 9 a 16hs.",
 		"url": "",
 		"type": ""
 	  },
 	  {
-		"id": 8,
-		"nombre": "SOLICITAR CONSTANCIAS A TRAVÉS DE TU SESIÓN DE SIU-GUARANÍ",
-		"descripcion": "Podés solicitar certificados de alumno regular o de asignaturas rendidas a través de SIU-GUARANÍ.\nSi ingresás a este instructivo desde tu teléfono celular vas a encontrar al final una carpeta con las imágenes en las que verás cada paso.\nA continuación podrás ver los pasos para generar las constancias:\nIngresá dentro de la pestaña TRÁMITES dentro de tu sesión de SIU-GUARANÍ.\nUna vez que ingresás en Solicitar Constancias y Certificados tenés que ingresar en la opción NUEVA SOLICITUD\nSeleccioná que tipo de constancia  querés solicitar y completá los datos obligatorios marcados con (*)\nEl ícono color rojo que se encuentra en la derecha es un archivo PDF y al seleccionarlo iniciarás la descarga de la constancia generada.\n¿Qué pasa si no se descarga mi constancia?\nNormalmente puede producirse un error en la descarga de las constancias, en el cual la descarga nunca finaliza. Este error se produce solo en el navegador Google Chrome. Intentá realizar la descarga de las constancias desde otro navegador (Mozilla Firefox, Safari, Microsoft Edge, etc).",
+		"id": 7,
+		"nombre": "SOLICITAR CONSTANCIAS EN SIU-GUARANÍ",
+		"descripcion": "Podés solicitar certificados de alumno regular o de asignaturas rendidas a través de SIU-GUARANÍ.\nA continuación podrás ver los pasos para generar las constancias:\nIngresá dentro de la pestaña TRÁMITES dentro de tu sesión de SIU-GUARANÍ.\nUna vez que ingresás en Solicitar Constancias y Certificados tenés que ingresar en la opción NUEVA SOLICITUD\nSeleccioná que tipo de constancia  querés solicitar y completá los datos obligatorios marcados con (*)\nEl ícono color rojo que se encuentra en la derecha es un archivo PDF y al seleccionarlo iniciarás la descarga de la constancia generada.\n¿Qué pasa si no se descarga mi constancia?\nNormalmente puede producirse un error en la descarga de las constancias, en el cual la descarga nunca finaliza. Este error se produce solo en el navegador Google Chrome. Intentá realizar la descarga de las constancias desde otro navegador (Mozilla Firefox, Safari, Microsoft Edge, etc).",
 		"url": "",
 		"type": ""
 	  },
 	  {
-		"id": 9,
+		"id": 8,
 		"nombre": "CONSTANCIA DE ALUMNO REGULAR ESPECÍFICA",
 		"descripcion": "Podés solicitar certificados de alumno regular con días y horarios de cursada en el Departamento de Alumnos.\nPara solicitar constancias de Alumno Regular específicas donde se indican días y horarios de cursada de cada una de sus asignaturas, tenés que descargar el siguiente formulario y presentarlo completo personalmente en el Departamento de Alumnos.\n\nDESCARGAR FORMULARIO",
 		"url": "https://drive.google.com/file/d/1Cw_rbcdV6SSKdGlH4GLlX1IzNGah1KZv/view?usp=drive_link",
 		"type": "descargar"
 	  },
 	  {
-		"id": 10,
+		"id": 9,
 		"nombre": "CORREO INSTITUCIONAL",
-		"descripcion": "¿Cómo hago para solicitar mi correo institucional?\n\nPara solicitar tu correo institucional tenés que completar el formulario web que encontrarás al final de la página.\n·        Dentro de las próximas 48hs te va a llegar un correo de la creación del correo institucional.\n·        En el correo que te va a llegar vas a encontrar un enlace para confirmar la cuenta (tenés 48hs para confirmar la cuenta desde el momento en que te llega el mensaje).\n·        Si no confirmaste la cuenta a tiempo podes escribirnos a alumnos@unm.edu.ar dando aviso con la misma información solicitada en el formulario.\n\nIR AL FORMULARIO",
+		"descripcion": "¿Cómo hago para solicitar mi correo institucional?\n\nPara solicitar tu correo institucional tenés que completar el formulario web que encontrarás al final de la página.\n· Dentro de las próximas 48hs te va a llegar un correo de la creación del correo institucional.\n· En el correo que te va a llegar vas a encontrar un enlace para confirmar la cuenta (tenés 48hs para confirmar la cuenta desde el momento en que te llega el mensaje).\n· Si no confirmaste la cuenta a tiempo podes escribirnos a alumnos@unm.edu.ar dando aviso con la misma información solicitada en el formulario.\n\nIR AL FORMULARIO",
 		"url": "https://forms.gle/XpjiGpqE8XwzCWbH6",
 		"type": "ir al formulario"
 	  },
 	  {
-		"id": 11,
+		"id": 10,
 		"nombre": "PROMEDIO HISTÓRICO DE CARRERA",
 		"descripcion": "¿Cómo hago para solicitar el Promedio Histórico de mi carrera?\n\nSi necesitás solicitar la Certificación del Promedio Histórico de tu carrera tenés que comunicarte con alumnos@unm.edu.ar.\n\nConsigná tus datos en la consulta (nombre y apellido, DNI, carrera)\nNombre y Apellido:\nDNI:\nCarrera:\nBecas de Estímulo a las Vocaciones Científicas (EVC-CIN)\nLa Certificación del Promedio Histórico para presentar en las Becas de Estímulo a las Vocaciones Científicas (EVC-CIN)  tenés que solicitarla a sec.investigacion@unm.edu.ar."
 	  }
