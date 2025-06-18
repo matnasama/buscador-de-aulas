@@ -56,14 +56,14 @@
 	  {
 		"id": 8,
 		"nombre": "CONSTANCIA DE ALUMNO REGULAR ESPECÍFICA",
-		"descripcion": "Podés solicitar certificados de alumno regular con días y horarios de cursada en el Departamento de Alumnos.\nPara solicitar constancias de Alumno Regular específicas donde se indican días y horarios de cursada de cada una de sus asignaturas, tenés que descargar el siguiente formulario y presentarlo completo personalmente en el Departamento de Alumnos.\n\nDESCARGAR FORMULARIO",
+		"descripcion": "\nPara solicitar constancias de Alumno Regular específicas donde se indican días y horarios de cursada de cada una de tus asignaturas, tenés que descargar el siguiente formulario y presentarlo completo personalmente en el Departamento de Alumnos.\n",
 		"url": "https://drive.google.com/file/d/1ZtmB62j1dMmiAVSTFrqMazxQIzAXObxr/view?usp=sharing",
 		"type": "descargar"
 	  },
 	  {
 		"id": 9,
 		"nombre": "CORREO INSTITUCIONAL",
-		"descripcion": "¿Cómo hago para solicitar mi correo institucional?\n\nPara solicitar tu correo institucional tenés que completar el formulario web que encontrarás al final de la página.\n· Dentro de las próximas 48hs te va a llegar un correo de la creación del correo institucional.\n· En el correo que te va a llegar vas a encontrar un enlace para confirmar la cuenta (tenés 48hs para confirmar la cuenta desde el momento en que te llega el mensaje).\n· Si no confirmaste la cuenta a tiempo podes escribirnos a alumnos@unm.edu.ar dando aviso con la misma información solicitada en el formulario.\n\nIR AL FORMULARIO",
+		"descripcion": "¿Cómo hago para solicitar mi correo institucional?\n\nPara solicitar tu correo institucional tenés que completar el formulario web que encontrarás al final de la página.\n\n· Una vez creado te va a llegar un correo con la confirmación de tu nueva cuenta.\n\n· En el correo que te va a llegar vas a encontrar un enlace para confirmar la cuenta (tenés 48hs para confirmar la cuenta desde el momento en que te llega el mensaje).\n· Si no confirmaste la cuenta a tiempo podes escribirnos a alumnos@unm.edu.ar dando aviso con la misma información solicitada en el formulario.\n\n",
 		"url": "https://forms.gle/XpjiGpqE8XwzCWbH6",
 		"type": "ir al formulario"
 	  },
