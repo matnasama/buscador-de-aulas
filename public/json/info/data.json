@@ -33,7 +33,7 @@
 	  {
 		"id": 5,
 		"nombre": "SOLICITUD DE TÍTULOS",
-		"descripcion": "Antes de completar y enviar tu solicitud recordá verificar en tu historia académica el cumplimiento del 100% del requerimiento de materias aprobadas según el plan de la carrera, para el título que vas a solicitar.\nSe deben encontrar todas las actividades correspondientes aprobadas y en actas cerradas, para que consten en su historial académico.\nSi completás el formulario no teniendo aún aprobadas la totalidad de las asignaturas necesarias para la emisión del título, se desestimará la solicitud.\nEn caso de corresponder, se realizarán las modificaciones de sus datos en el sistema antes de enviarte la documentación.\nCompletando la solicitud te otorgaremos el Certificado de Cumplimiento de Requisitos de Ingreso y el Certificado de Asignaturas Rendidas, que posteriormente vas a presentar al Departamento de Títulos.\nUna vez finalizado el trámite remitiremos la documentación al correo que declaraste en el formulario.",
+		"descripcion": "Antes de completar y enviar tu solicitud recordá verificar en tu historia académica el cumplimiento del 100% del requerimiento de materias aprobadas según el plan de la carrera, para el título que vas a solicitar.\nSe deben encontrar todas las actividades correspondientes aprobadas y en actas cerradas, para que consten en su historial académico.\nSi completás el formulario no teniendo aún aprobadas la totalidad de las asignaturas necesarias para la emisión del título, se desestimará la solicitud.\nEn caso de corresponder, se realizarán las modificaciones de sus datos en el sistema antes de enviarte la documentación.\nCompletando la solicitud te otorgaremos la siguiente documentación: \n\nCertificado de Cumplimiento de Requisitos de Ingreso \n\nCertificado de Asignaturas Rendidas, que posteriormente vas a presentar al Departamento de Títulos.\n\nUna vez finalizado el trámite remitiremos la documentación al correo que declaraste en el formulario.",
 		"url": "https://docs.google.com/forms/d/e/1FAIpQLSeFFj0knk8kUkMyurBEbKcpU-uViEE4C4a6VOH-ATR2hIbYUQ/viewform",
 		"type": "ir al formulario"
 	  },
@@ -41,7 +41,9 @@
 		"id": 6,
 		"nombre": "MODIFICACIÓN DE DATOS PERSONALES EN SISTEMA",
 		"descripcion": "Como estudiante vas a poder cambiar o corregir datos personales, tales como NOMBRE, APELLIDO, GÉNERO o DNI.\nPara ello tenés que completar el formulario correspondiente y presentarlo en el Departamento de Alumnos.\n\nPor errores a la hora de realizar el primer registro en la UNM o por cambios en su Documento Nacional de Identidad (DNI).\nDESCARGAR NOTA\n\nPor motivos de género sin cambio registral (Ley de Identidad de Género N° 26.743).\nDESCARGAR NOTA\n\nPor motivos de género con cambio registral (Ley de Identidad de Género N° 26.743).\nDESCARGAR NOTA\n\nPara dar inicio al trámite tenés que acercarte personalmente con el formulario correspondiente y con tu DNI (original y fotocopia certificada por el Departamento de Mesa de Entrada).\n\nEl Departamento de Mesa de Entrada tiene atención de lunes a viernes en la franja horaria  de 9 a 16hs.",
-		"url": "",
+		"url-datos": "https://drive.google.com/file/d/1YMorHkwqU3lQpbm75NYTrVrNXThdjKxZ/view?usp=sharing",
+		"url-datos-genero": "https://drive.google.com/file/d/12iSBVln7RpQOZsjnC_4TtPLSmRrW4Ljx/view?usp=sharing",
+		"url-datos-sin-registral": "https://drive.google.com/file/d/1cWM-KR92e40neQFxo2OZOiEQZ0iDH0qq/view?usp=sharing",
 		"type": ""
 	  },
 	  {
