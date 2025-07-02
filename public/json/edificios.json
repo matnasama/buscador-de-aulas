@@ -1,0 +1,32 @@
+[
+  {
+    "nombre": "Dorrego",
+    "color": "verde",
+    "imagen": "img/dorrego.png",
+    "aulas": [
+      "1 DORREGO", "2 DORREGO", "3 DORREGO", "4 DORREGO", "5 DORREGO", "6 DORREGO", "7 DORREGO", "8 DORREGO", "9 DORREGO", "10 DORREGO", "11 DORREGO", "12 DORREGO", "13 DORREGO", "14 DORREGO", "15 DORREGO", "16 DORREGO", "17 DORREGO", "18 DORREGO", "19 DORREGO"
+    ]
+  },
+  {
+    "nombre": "Daract I",
+    "color": "rojo",
+    "imagen": "img/daract1.png",
+    "aulas": [
+      "1 DARACT I", "2 DARACT I", "3 DARACT I", "4 DARACT I", "5 DARACT I", "6 DARACT I", "7 DARACT I", "8 DARACT I", "9 DARACT I", "10 DARACT I", "11 DARACT I", "12 DARACT I", "13 DARACT I", "14 DARACT I", "15 DARACT I", "16 DARACT I", "17 DARACT I", "18 DARACT I", "19 DARACT I"
+    ]
+  },
+  {
+    "nombre": "Daract II",
+    "color": "naranja",
+    "imagen": "img/daract2.png",
+    "aulas": [
+      "1 DARACT II", "2 DARACT II", "3 DARACT II", "4 DARACT II", "5 DARACT II", "6 DARACT II", "7 DARACT II", "8 DARACT II", "9 DARACT II", "10 DARACT II", "11 DARACT II", "12 DARACT II", "13 DARACT II", "14 DARACT II", "15 DARACT II", "16 DARACT II", "17 DARACT II", "18 DARACT II", "19 DARACT II"
+    ]
+  },
+  {
+    "nombre": "Histórico",
+    "color": "gris",
+    "imagen": "img/historico.png",
+    "aulas": []
+  }
+]

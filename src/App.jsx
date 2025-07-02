@@ -15,10 +15,15 @@ import {
 	TableContainer,
 	TableHead,
 	TableRow,
+	IconButton, // <-- Aseguramos que IconButton esté importado
 } from '@mui/material';
 import useMediaQuery from '@mui/material/useMediaQuery';
 import { useTheme } from '@mui/material/styles';
 import '@fontsource/montserrat/700.css';
+import MapaEdificios from "./MapaEdificios";
+import edificios from "../public/json/edificios.json";
+import ModalEdificio from "./ModalEdificio";
+import SearchIcon from "@mui/icons-material/Search";
 
 // Departamentos y carreras (puedes ajustar los nombres según tus archivos JSON)
 const departamentos = [
@@ -150,6 +155,9 @@ function App() {
 	const isVerySmall = useMediaQuery('(max-width:400px)');
 	const isWide = useMediaQuery('(min-width:908px)');
 	const isWideComisiones = useMediaQuery('(min-width:1106px)');
+	const [edificioFocus, setEdificioFocus] = useState(null);
+	const [modalEdificioOpen, setModalEdificioOpen] = useState(false);
+	const [edificioModal, setEdificioModal] = useState(null);
 
 	// Cargar todas las asignaturas al inicio
 	useEffect(() => {
@@ -311,6 +319,13 @@ function App() {
 		}
 		totalPaginas = Math.max(1, Math.ceil(asignaturasFiltradasPaginadas.length / porPagina));
 		asignaturasPagina = asignaturasFiltradasPaginadas.slice((pagina - 1) * porPagina, pagina * porPagina);
+	}
+
+	// Función para obtener el edificio por aula
+	function getEdificioByAula(aula) {
+		if (!aula) return null;
+		const edificio = edificios.find(e => e.aulas.includes(aula.trim()));
+		return edificio ? edificio.nombre : null;
 	}
 
 	return (
@@ -734,7 +749,22 @@ function App() {
 										<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Docente/s (1)']}</span>
 										<span style={{ flexBasis: 180, minWidth: 180, maxWidth: 180, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Día/s y horario/s']}</span>
 										{/* <span style={{ flexBasis: 100, minWidth: 100, maxWidth: 100, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Turno']}</span> */}
-										<span style={{ flexBasis: 220, minWidth: 220, maxWidth: 400, marginLeft: 12, overflow: 'auto', textOverflow: 'initial', whiteSpace: 'normal', wordBreak: 'break-word' }}>{c['Aula'] || c['Aula/s']}</span>
+										<span style={{ flexBasis: 220, minWidth: 220, maxWidth: 400, marginLeft: 12, overflow: 'auto', textOverflow: 'initial', whiteSpace: 'normal', wordBreak: 'break-word', display: 'flex', alignItems: 'center' }}>
+											{c['Aula'] || c['Aula/s']}
+											{getEdificioByAula(c['Aula'] || c['Aula/s']) && (
+												<IconButton
+													size="small"
+													sx={{ ml: 1 }}
+													onClick={() => {
+														setEdificioModal(getEdificioByAula(c['Aula'] || c['Aula/s']));
+														setModalEdificioOpen(true);
+													}}
+													aria-label="Ver edificio en mapa"
+												>
+													<SearchIcon fontSize="small" />
+												</IconButton>
+											)}
+										</span>
 										<span style={{ flexBasis: 120, minWidth: 120, maxWidth: 120, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Modalidad'] || c['Modalidad Cursada']}</span>
 										<span style={{ flexBasis: 120, minWidth: 120, maxWidth: 120, marginLeft: 12, overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap' }}>{c['Clase Presencial'] || c['Clase presencial']}</span>
 									</Paper>
@@ -773,6 +803,7 @@ function App() {
       </Paper>
     </Box>
 			</Container>
+			<ModalEdificio open={modalEdificioOpen} onClose={() => setModalEdificioOpen(false)} edificio={edificioModal} edificiosData={edificios} />
 		</Box>
 	);
 }
