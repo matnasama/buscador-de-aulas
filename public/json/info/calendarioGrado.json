@@ -1,126 +1,188 @@
 [
   {
     "actividad": "Solicitudes de cambio/simultaneidad de carrera para el 1° Cuatrimestre 2025 -Alumnos NO ingresantes-",
-    "periodo": "30/09/24 al 20/11/24"
+    "periodo": "30/09/24 al 20/11/24",
+    "tipo": "tramite",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Solicitudes de cambio/simultaneidad de carrera para el 2° Cuatrimestre 2025 -Alumnos NO ingresantes-",
-    "periodo": "10/02/25 al 15/05/25"
+    "periodo": "10/02/25 al 15/05/25",
+    "tipo": "tramite",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Publicación grilla de oferta de Exámenes Turno Febrero-Marzo 2025",
-    "periodo": "05/02/2025"
+    "periodo": "05/02/2025",
+    "tipo": "examen",
+    "turno": "Febrero-Marzo"
   },
   {
     "actividad": "Inscripción Exámenes Turno Febrero-Marzo 2025",
-    "periodo": "12/02/25 al 13/02/25"
+    "periodo": "12/02/25 al 13/02/25",
+    "tipo": "examen",
+    "turno": "Febrero-Marzo"
   },
   {
     "actividad": "Exámenes Turno Febrero-Marzo 2025",
-    "periodo": "17/02/25 al 14/03/25"
+    "periodo": "17/02/25 al 14/03/25",
+    "tipo": "examen",
+    "turno": "Febrero-Marzo"
   },
   {
     "actividad": "Publicación grilla de oferta de asignaturas 1° Cuatrimestre 2025",
-    "periodo": "05/03/2025"
+    "periodo": "05/03/2025",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Inscripción asignaturas 1º Cuatrimestre 2025 Alumnos NO ingresantes Depto. Cs. Económicas y Jurídicas (Primer llamado)",
-    "periodo": "11/03/25"
+    "periodo": "11/03/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Inscripción asignaturas 1º Cuatrimestre 2025 Alumnos NO ingresantes Depto. Cs. Aplicadas y Tecnología (Primer llamado)",
-    "periodo": "12/03/25"
+    "periodo": "12/03/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Inscripción asignaturas 1º Cuatrimestre 2025 Alumnos NO ingresantes Depto. Humanidades y Cs. Sociales (Primer llamado)",
-    "periodo": "13/03/25"
+    "periodo": "13/03/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Inscripción asignaturas 1º Cuatrimestre 2025 Todos los Alumnos e Ingresantes todos los Departamentos (Primer llamado)",
-    "periodo": "17/03/25 al 18/03/25"
+    "periodo": "17/03/25 al 18/03/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Publicación Inscripción asignaturas 1° Cuatrimestre 2025 (Primer llamado)",
-    "periodo": "21/03/15"
+    "periodo": "21/03/15",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Bajas Inscripción asignaturas 1º Cuatrimestre 2025",
-    "periodo": "21/03/25 al 12/04/25"
+    "periodo": "21/03/25 al 12/04/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Desarrollo 1° Cuatrimestre 2025",
-    "periodo": "25/03/25 al 12/07/25"
+    "periodo": "25/03/25 al 12/07/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Inscripción asignaturas 1º Cuatrimestre 2025 Todos los Alumnos e Ingresantes todos los Deptos. (Segundo llamado)",
-    "periodo": "27/03/25 al 28/03/25"
+    "periodo": "27/03/25 al 28/03/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Gestión de inscripciones fuera de término (vacantes disponibles)",
-    "periodo": "31/03/25 al 12/04/25"
+    "periodo": "31/03/25 al 12/04/25",
+    "tipo": "cursada",
+    "cuatrimestre": 1
   },
   {
     "actividad": "Publicación grilla de oferta de Exámenes Turno Julio 2025",
-    "periodo": "09/07/25"
+    "periodo": "09/07/25",
+    "tipo": "examen",
+    "turno": "Julio"
   },
   {
     "actividad": "Inscripción Exámenes Turno Julio 2025",
-    "periodo": "16/07/25 al 17/07/25"
+    "periodo": "16/07/25 al 17/07/25",
+    "tipo": "examen",
+    "turno": "Julio"
   },
   {
     "actividad": "Exámenes Turno Julio 2025",
-    "periodo": "21/07/25 al 02/08/25"
+    "periodo": "21/07/25 al 02/08/25",
+    "tipo": "examen",
+    "turno": "Julio"
   },
   {
     "actividad": "Publicación grilla oferta de asignaturas 2° Cuatrimestre 2025",
-    "periodo": "23/07/2025"
+    "periodo": "23/07/2025",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Inscripción asignaturas 2º Cuatrimestre 2025 Alumnos NO Ingresantes Depto. Cs. Económicas y Jurídicas (Primer llamado)",
-    "periodo": "30/07/25"
+    "periodo": "30/07/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Inscripción asignaturas 2º Cuatrimestre 2025 Alumnos NO Ingresantes Depto. Cs. Aplicadas y Tecnología (Primer llamado)",
-    "periodo": "31/07/25"
+    "periodo": "31/07/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Inscripción asignaturas 2º Cuatrimestre 2025 Alumnos NO Ingresantes Depto. Humanidades y Cs. Sociales (Primer llamado)",
-    "periodo": "01/08/25"
+    "periodo": "01/08/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Inscripción asignaturas 2º Cuatrimestre 2025 Todos los Alumnos e Ingresantes todos los Departamentos (Primer llamado)",
-    "periodo": "04/08/25 al 05/08/25"
+    "periodo": "04/08/25 al 05/08/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Publicación Inscripción asignaturas 2° Cuatrimestre 2025 (Primer llamado)",
-    "periodo": "08/08/25"
+    "periodo": "08/08/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Bajas Inscripción asignaturas 2º Cuatrimestre 2025",
-    "periodo": "08/08/25 al 30/08/25"
+    "periodo": "08/08/25 al 30/08/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Desarrollo 2º Cuatrimestre 2025",
-    "periodo": "11/08/25 al 29/11/25"
+    "periodo": "11/08/25 al 29/11/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Inscripción asignaturas 2º Cuatrimestre 2025 Todos los Alumnos e Ingresantes todos los Dptos. (Segundo llamado)",
-    "periodo": "14/08/25 al 15/08/25"
+    "periodo": "14/08/25 al 15/08/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Gestión de inscripciones fuera de término (vacantes disponibles)",
-    "periodo": "18/08/25 al 30/08/25"
+    "periodo": "18/08/25 al 30/08/25",
+    "tipo": "cursada",
+    "cuatrimestre": 2
   },
   {
     "actividad": "Publicación grilla de oferta de Exámenes Turno Diciembre 2025",
-    "periodo": "25/11/25"
+    "periodo": "25/11/25",
+    "tipo": "examen",
+    "turno": "Diciembre"
   },
   {
     "actividad": "Inscripción Exámenes Turno Diciembre 2025",
-    "periodo": "02/12/24 al 03/12/25"
+    "periodo": "02/12/24 al 03/12/25",
+    "tipo": "examen",
+    "turno": "Diciembre"
   },
   {
     "actividad": "Exámenes Turno Diciembre 2025",
-    "periodo": "08/12/25 al 20/12/25"
+    "periodo": "08/12/25 al 20/12/25",
+    "tipo": "examen",
+    "turno": "Diciembre"
   }
 ]
