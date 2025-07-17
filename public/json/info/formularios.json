@@ -61,4 +61,44 @@
       "url": "https://drive.google.com/file/d/1W9QJIOWUaRBatpAjCqtd1xCUAyOaXuIw/view?usp=drive_link"
     }
   ]
+  ,
+  "tramites": [
+    {
+      "nombre": "Solicitud de titulos",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/10-0VsFrSIn5LBxPMETsL6CK6MuzWO8YtWApRpU1vxbE/edit?usp=drive_link",
+      "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf9dZIMjBg9kDe6Brx_VZYR-vMcOKlKvTotTwo4nVjazj4u2w/viewform"
+    },
+    {
+      "nombre": "Cambio de institucion",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/1faiGAgbg6k3B_wK6DthVzFDl17Z-bao8haxVAIwtxac/edit?usp=drive_link",
+      "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSeoonFqFPx-5Hd61xQYtdoKLBTtkb5xieuLpjXBBbg9bTiRyg/viewform"
+    },
+    {
+      "nombre": "Cambio/simultaneidad de carrera",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/1DxLgwU1IUSWILUb8bxy34jpZ9pp5CLGmHzBDy2iprpA/edit?gid=603727867#gid=603727867",
+      "formulario": "https://docs.google.com/forms/d/1TgNE52FdgNqpirt3ZgqMWcgQi9dxmra9JCbihPyzmtY/closedform"
+    },
+    {
+      "nombre": "Estudiantes sin analitico",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/1LeZ9HxFV4yPuhKnN-cMS5Fbarr-e1ZORcfvMrOa-xC8/edit?gid=1205947732#gid=1205947732"
+    },
+    {
+      "nombre": "Estudiantes sin fotos",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/1sME60px2GIfR8xhZqtaNkd7vlM7RQs1fW4vh0VoRJWE/edit?gid=1205947732#gid=1205947732"
+    },
+    {
+      "nombre": "Solicitud de eximicion",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/1OicevjqQO2KK8q2508AZwhsDk6UwVqVeJl-clFHTJ0I/edit?gid=806697241#gid=806697241",
+      "formulario": "https://docs.google.com/forms/d/1qHoYtnFM9Jq5HfcfWiCIoDr1BW6fp3MftnCkIrEATZQ/edit"
+    },
+    {
+      "nombre": "Correo institucional",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/1jtweVUEms_qL4XusogHM4CpeDRn4xcRCA5JT2Byhc00/edit?gid=1932031335#gid=1932031335",
+      "formulario": "https://docs.google.com/forms/d/e/1FAIpQLSf9dZIMjBg9kDe6Brx_VZYR-vMcOKlKvTotTwo4nVjazj4u2w/viewform"
+    },
+    {
+      "nombre": "Solicitud de equivalencias",
+      "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/11rKA_dek5sI1mg6yjuvg3QNqmvXMb3P_hrqKM5nEfCU/edit?gid=1393828240#gid=1393828240"
+    }
+  ]
 }
