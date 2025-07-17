@@ -101,4 +101,23 @@
       "hoja_de_calculo": "https://docs.google.com/spreadsheets/d/11rKA_dek5sI1mg6yjuvg3QNqmvXMb3P_hrqKM5nEfCU/edit?gid=1393828240#gid=1393828240"
     }
   ]
+  ,
+  "bedelia": [
+    {
+      "nombre": "aulas",
+      "url": "https://docs.google.com/spreadsheets/d/1YXdgj27cJgY6dy3kXrGWOz0i6atLATfUdRgfrPQ9rHI/edit?gid=752601427#gid=752601427"
+    },
+    {
+      "nombre": "grilla dcayt",
+      "url": "https://docs.google.com/spreadsheets/d/1XTM-RLyaesxTiFLwMOvoidhx2GwXUPHI5Q0Usc1tEaw/edit?gid=1083436671#gid=1083436671"
+    },
+    {
+      "nombre": "grilla dceyj",
+      "url": "https://docs.google.com/spreadsheets/d/1sFqCxrx8X_HxNP4BnKfjudz5sHuR12CFDbX5-5Qo3Jg/edit?gid=1101022230#gid=1101022230"
+    },
+    {
+      "nombre": "grilla dhycs",
+      "url": "https://docs.google.com/spreadsheets/d/1JzgkcRAkxA_zys74MZMVcpk_gXBd1fP5F9OzQd48CJg/edit?gid=1534584896#gid=1534584896"
+    }
+  ]
 }
