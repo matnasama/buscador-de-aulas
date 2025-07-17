@@ -1,0 +1,1981 @@
+{
+  "areas": [
+    {
+      "usuarios": [
+        {
+          "nombre": "Dirección de Secretaría Privada y Ceremonial (R-DSPC)",
+          "interno": [
+            "3600",
+            "310"
+          ]
+        },
+        {
+          "nombre": "Camila Miranda",
+          "interno": [
+            "3310"
+          ]
+        }
+      ],
+      "area": "Edificio central"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Estela Susana Marfeo",
+          "interno": [
+            "3311"
+          ]
+        }
+      ],
+      "area": "División de Coordinación Administrativa de Rectorado (R-DCAR)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Nataly López Teliz",
+          "interno": [
+            "3138",
+            "111"
+          ]
+        }
+      ],
+      "area": "División de Relaciones Institucionales (SRII-DRI)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Manuel Gómez",
+          "interno": [
+            "152"
+          ]
+        }
+      ],
+      "area": "(R-PPEPU)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Flor Tuculet",
+          "interno": [
+            "3601"
+          ]
+        },
+        {
+          "nombre": "Kevin Gimenez",
+          "interno": [
+            "3149"
+          ]
+        }
+      ],
+      "area": "Edificio Central"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lucía Fernández",
+          "interno": [
+            "3610"
+          ]
+        }
+      ],
+      "area": "Departamento de Coordinación Técnico-Operativa de Vicerrectorado (VR-DCTA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Trinidad Lo Cicero",
+          "interno": [
+            "3106"
+          ]
+        }
+      ],
+      "area": "3106"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Johana Chacón",
+          "interno": [
+            "3610"
+          ]
+        }
+      ],
+      "area": "División de Coordinación Administrativa de Vicerrectorado (DCTA-DCAV)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pablo Tavilla",
+          "interno": [
+            "3620"
+          ]
+        }
+      ],
+      "area": "Dirección Académica Centro de Estudios de Gobierno y Políticas Públicas (R-CEGPP)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Coordinación Académica Programa de Estudios Fiscales",
+          "interno": [
+            "3602"
+          ]
+        },
+        {
+          "nombre": "Gonzalo Rubio",
+          "interno": [
+            "3122"
+          ]
+        },
+        {
+          "nombre": "Martina Romano",
+          "interno": [
+            "3621"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo A. Planta primer piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Florencia Gosparini",
+          "interno": [
+            "3600"
+          ]
+        }
+      ],
+      "area": "Coordinación Especial Programa de Posgrado (R-CEPP)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pilar Acuña",
+          "interno": [
+            "3774"
+          ]
+        },
+        {
+          "nombre": "Trinidad Calandria",
+          "interno": [
+            "3774"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo H. Planta primer piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Florencia Gosparini",
+          "interno": [
+            "3600"
+          ]
+        }
+      ],
+      "area": "Dirección General Planeamiento y Control de Gestión (R-DGPCG)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Analia Contreras",
+          "interno": [
+            "3779"
+          ]
+        }
+      ],
+      "area": "3774"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Matías Buzzone",
+          "interno": [
+            "3622"
+          ]
+        }
+      ],
+      "area": "Dirección de Presupuesto (DGPCG-DGP)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pablo Penela",
+          "interno": [
+            "3162"
+          ]
+        }
+      ],
+      "area": "Dirección de Comunicación Institucional (R-DCI)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Fernando Albornoz",
+          "interno": [
+            "3006"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico modulo D. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Damián Fuentes",
+          "interno": [
+            "3263"
+          ]
+        }
+      ],
+      "area": "3263"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Florencia Cuburu",
+          "interno": [
+            "3262"
+          ]
+        },
+        {
+          "nombre": "María Noel Perez",
+          "interno": [
+            "3261"
+          ]
+        }
+      ],
+      "area": "3262"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Johana Ciabattari",
+          "interno": [
+            "3260"
+          ]
+        }
+      ],
+      "area": "3260"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "3260",
+          "interno": []
+        }
+      ],
+      "area": "Leandro Irión"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Hugo Galiano",
+          "interno": [
+            "3154"
+          ]
+        }
+      ],
+      "area": "Departamento de Asuntos Editoriales (DCI-DAE)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Fabián Mazzoni",
+          "interno": [
+            "3145"
+          ]
+        }
+      ],
+      "area": "Departamento de Radio Universitaria (DCI-DRU)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Paula Bovone",
+          "interno": [
+            "3145"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico modulo E. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Julián Schamun",
+          "interno": [
+            "3145"
+          ]
+        }
+      ],
+      "area": "3150"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marcelo Monzón",
+          "interno": [
+            "124",
+            "133"
+          ]
+        }
+      ],
+      "area": "Subsecretaría de Relaciones Internacionales e Institucionales (R-SRII)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Gabriela Camacho",
+          "interno": [
+            "3231"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo G. Planta primer piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Roberto Padilla",
+          "interno": [
+            "3149"
+          ]
+        }
+      ],
+      "area": "Unidad Auditoría Interna (R-UAI)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Manuela Penela",
+          "interno": [
+            "3603"
+          ]
+        }
+      ],
+      "area": "Subsecretaría de Consejo Superior (R-SCS)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Roxana Silvia Carelli",
+          "interno": [
+            "3148"
+          ]
+        }
+      ],
+      "area": "Secretaría Académica (VR-SAC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Florencia Mariel Duquez",
+          "interno": [
+            "135"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo G. Planta segundo piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Luciana Inés Suriani",
+          "interno": [
+            "3255"
+          ]
+        }
+      ],
+      "area": "Departamento de Gestión Docente (DGA-DGD)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "María Lorena Demitrio",
+          "interno": [
+            "3212"
+          ]
+        }
+      ],
+      "area": "Dirección de Orientación, Articulación e Ingreso (SAC-DAOI)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Evelin Duarte",
+          "interno": [
+            "3211"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico modulo E. Planta Baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Chorny",
+          "interno": [
+            "3210"
+          ]
+        }
+      ],
+      "area": "3210"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Noelia Agustina Rodríguez",
+          "interno": [
+            "3213"
+          ]
+        }
+      ],
+      "area": "División de Orientación y Accesibilidad (DAOI-DOA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Graciela Noemí Ramos",
+          "interno": [
+            "3323"
+          ]
+        }
+      ],
+      "area": "Departamento de Estudios y Asistencia Técnica (SAC-DEAT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Micaela Myriam Rositto",
+          "interno": [
+            "3323"
+          ]
+        }
+      ],
+      "area": "SUBSECRETARIA DE PLANIFICACION Y GESTION ACADEMICA"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Andrea Soledad Nagore",
+          "interno": [
+            "3200"
+          ]
+        }
+      ],
+      "area": "Departamento de Biblioteca y Centro de Documentación (SAC-DBCD)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Jeny Consuelo Díaz Silva",
+          "interno": [
+            "3201"
+          ]
+        }
+      ],
+      "area": "3200"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Rubén Ernesto Loscri",
+          "interno": [
+            "3252"
+          ]
+        }
+      ],
+      "area": "Departamento de Archivo de Legajos Estudiantil y Docente (DTO-DALED)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Milena Cevallos",
+          "interno": [
+            "3320"
+          ]
+        }
+      ],
+      "area": "Subsecretaría de Planificación y Gestión Académica (SAC-SPGA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Romina Benitez",
+          "interno": [
+            "3130"
+          ]
+        },
+        {
+          "nombre": "Melisa Deparsia",
+          "interno": [
+            "3503"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Joan Dodaro",
+          "interno": [
+            "3321"
+          ]
+        }
+      ],
+      "area": "División de Títulos (SPGA-DT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Evangelina Cáceres",
+          "interno": [
+            "3319",
+            "3322"
+          ]
+        },
+        {
+          "nombre": "Silvina Corniola",
+          "interno": [
+            "3319",
+            "3322"
+          ]
+        }
+      ],
+      "area": "Dirección de Desarrollo Académico (SPGA-DDA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Ecila Echenique",
+          "interno": [
+            "3117"
+          ]
+        }
+      ],
+      "area": "Departamento de Alumnos (DGA-DA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Daniela Cecilia Ledesma",
+          "interno": [
+            "3250",
+            "117"
+          ]
+        },
+        {
+          "nombre": "Ana Crocsel",
+          "interno": [
+            "3178"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo B. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Matías Jonathan Javier Torres",
+          "interno": [
+            "3250"
+          ]
+        }
+      ],
+      "area": "3250 / 117"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Noelia Santillán",
+          "interno": [
+            "3256"
+          ]
+        }
+      ],
+      "area": "3254"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Andrea Viviana Kannemann",
+          "interno": [
+            "3117"
+          ]
+        }
+      ],
+      "area": "División de Coordinación Administrativa de Alumnos (DA-DCAA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Manuel Alejandro Ayala",
+          "interno": [
+            "3253"
+          ]
+        }
+      ],
+      "area": "División de Programación de la Oferta Académica (DGA-DPOA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Maximiliano Zapata",
+          "interno": [
+            "3324"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo Central. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Laura Etelvina Luna",
+          "interno": [
+            "3053"
+          ]
+        }
+      ],
+      "area": "Agustín Braticevic"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Bedelía Edif. Histórico",
+          "interno": [
+            "3324"
+          ]
+        }
+      ],
+      "area": "3251"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Bedelia Dorrego 1",
+          "interno": [
+            "3251"
+          ]
+        }
+      ],
+      "area": "3053"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Adriana Sánchez",
+          "interno": [
+            "3634"
+          ]
+        }
+      ],
+      "area": "Secretaría de Investigación y Vinculación Tecnológica (VR-SdIVT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Yasmina González",
+          "interno": [
+            "3123"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo B. Planta primer piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Walter Klein",
+          "interno": [
+            "3230"
+          ]
+        }
+      ],
+      "area": "Dirección General de Vinculación Tecnológica (SdIVT-DGVT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Carlos Mailen",
+          "interno": [
+            "3123"
+          ]
+        }
+      ],
+      "area": "3127"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marcela Basterrechea",
+          "interno": [
+            "3290"
+          ]
+        }
+      ],
+      "area": "Dirección General de Investigación Científica (SdIVT-DGIC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marianela Jauregui",
+          "interno": [
+            "3045"
+          ]
+        },
+        {
+          "nombre": "Regino Sánchez",
+          "interno": [
+            "3010"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo C. Planta primer piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Cyntia Induni",
+          "interno": [
+            "3045"
+          ]
+        }
+      ],
+      "area": "3045"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Carlos Castro",
+          "interno": [
+            "3216"
+          ]
+        }
+      ],
+      "area": "Subsecretaría de Recursos Humanos (VR-SRRHH)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Gustavo Ariel Almirón",
+          "interno": [
+            "3218"
+          ]
+        }
+      ],
+      "area": "Dirección General de Recursos Humanos (SRRHH-DGRRHH)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lucas Esteban Antonio Fregenal",
+          "interno": [
+            "3217"
+          ]
+        }
+      ],
+      "area": "3217"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "María Victoria García",
+          "interno": [
+            "3215"
+          ]
+        }
+      ],
+      "area": "División de Legajos (DGRRHH-DL)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Esteban Sánchez",
+          "interno": [
+            "3773"
+          ]
+        }
+      ],
+      "area": "Secretaría de Extensión Universitaria (VR-SEU)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "María Guadalupe Balard",
+          "interno": [
+            "3775"
+          ]
+        }
+      ],
+      "area": "División de Secretaría Privada de Extensión (SEU-DSPE)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Olga Barrios",
+          "interno": [
+            "3776"
+          ]
+        },
+        {
+          "nombre": "Monica Miglino",
+          "interno": [
+            "3775",
+            "3776"
+          ]
+        }
+      ],
+      "area": "Dirección General de Extensión Universitaria (SEU-DGEU)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Mercedes Dominguez",
+          "interno": [
+            "3776"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo C. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Natalia Kisman",
+          "interno": [
+            "3775",
+            "3776"
+          ]
+        }
+      ],
+      "area": "Dirección de Políticas de Convivencia y Equidad de Género (SEU-DPCEG)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Soledad Pique",
+          "interno": [
+            "3126"
+          ]
+        }
+      ],
+      "area": "Departamento de Bienestar y Asuntos Estudiantiles (SEU-DBAE)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Yanina Morandi",
+          "interno": [
+            "3126"
+          ]
+        },
+        {
+          "nombre": "Marcela Andrada",
+          "interno": [
+            "3777"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo E. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lucio Fardelli",
+          "interno": [
+            "3126"
+          ]
+        }
+      ],
+      "area": "3126"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Silvia Rosales",
+          "interno": [
+            "3777"
+          ]
+        }
+      ],
+      "area": "Enfermería"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Graciela Hage",
+          "interno": [
+            "3113"
+          ]
+        }
+      ],
+      "area": "Secretaría de Administración (VR-SdA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Juan Manuel Alvarez",
+          "interno": [
+            "3157"
+          ]
+        }
+      ],
+      "area": "División de Secretaría Privada de Administración (SdA-DSPA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marcela Paula Lamelza",
+          "interno": [
+            "3116"
+          ]
+        }
+      ],
+      "area": "Subsecretaría de Coordinación de Administración (SdA-SCA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lidia Gayo",
+          "interno": [
+            "3108"
+          ]
+        }
+      ],
+      "area": "Dirección General Contable (SCA-DGC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Rosa Soriano",
+          "interno": [
+            "3156"
+          ]
+        }
+      ],
+      "area": "División de Registro Contable (DGC-DRC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Vanesa Cattaeno",
+          "interno": [
+            "3169"
+          ]
+        }
+      ],
+      "area": "Dirección General de Compras y Contrataciones (SCA-DCC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Nicolás Pérez",
+          "interno": [
+            "3114"
+          ]
+        },
+        {
+          "nombre": "Laboratorios de Informática",
+          "interno": []
+        }
+      ],
+      "area": "Edificio Histórico Modulo F. Planta segundo piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Adolfo Puccio",
+          "interno": [
+            "3226"
+          ]
+        }
+      ],
+      "area": "Dirección de Licitaciones (DCC-DL)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Martin Monea",
+          "interno": [
+            "3167"
+          ]
+        }
+      ],
+      "area": "Subsecretaría de Coordinación Técnica (SdA-SCT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Maria Luisa Elizalde",
+          "interno": [
+            "3168"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo F. Planta primer piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Alejandro Barenthin",
+          "interno": [
+            "3220"
+          ]
+        }
+      ],
+      "area": "Dirección de Coordinación Técnico Administrativa (SCT-DCTA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pedro Barrios",
+          "interno": [
+            "3142"
+          ]
+        }
+      ],
+      "area": "División de Registro Patrimonial (DCTA-DRP)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lucia Peiper",
+          "interno": [
+            "227"
+          ]
+        }
+      ],
+      "area": "Departamento de Liquidación de Haberes (SdA-DLH)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Eduardo Suriani",
+          "interno": [
+            "3225"
+          ]
+        }
+      ],
+      "area": "Unidad de Gestión de Conrtol de Obras (SdA-UCGO)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Ana Maresca",
+          "interno": [
+            "3012"
+          ]
+        }
+      ],
+      "area": "Dirección de Tesorería (SdA-DT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Diego Rodriguez",
+          "interno": [
+            "3012"
+          ]
+        }
+      ],
+      "area": "MESA DE ENTRADA"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Julio Alvarez",
+          "interno": [
+            "3177"
+          ]
+        }
+      ],
+      "area": "Instituto Tecnológico de la Universidad Nacional de Moreno (R-ITUNM)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Guillermo Cony",
+          "interno": [
+            "3020"
+          ]
+        }
+      ],
+      "area": "Secretaría Legal y Técnica (VR-SLT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Silvana Moncalieri",
+          "interno": [
+            "3172"
+          ]
+        },
+        {
+          "nombre": "Agustín Daddario",
+          "interno": [
+            "3011"
+          ]
+        },
+        {
+          "nombre": "Camilo Villanueva",
+          "interno": [
+            "3129"
+          ]
+        }
+      ],
+      "area": "Administración"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Emiliana Tomasello",
+          "interno": [
+            "3174"
+          ]
+        }
+      ],
+      "area": "Dirección de Concursos (SLT-DC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Martín Ariel Rodríguez",
+          "interno": [
+            "3170"
+          ]
+        }
+      ],
+      "area": "Dirección General de Asuntos Jurídicos (SLT-DGAJ)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marisa Ameneiro",
+          "interno": [
+            "3503"
+          ]
+        }
+      ],
+      "area": "Departamento de Mesa de entrada (SLT-DME)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Beatriz Gayo",
+          "interno": [
+            "3500"
+          ]
+        }
+      ],
+      "area": "División de Registro de Libros, Actas y Boletín Oficial (DME-DRLABO)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Claudio Celenza",
+          "interno": [
+            "3302"
+          ]
+        }
+      ],
+      "area": "Secretaría de Tecnologías de la Información y Comunicación (VR-STIC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Nahuel Sánchez",
+          "interno": [
+            "3004",
+            "3107"
+          ]
+        }
+      ],
+      "area": "Dirección de Sistemas de Información (STIC-DSI)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Facundo Garea",
+          "interno": [
+            "3003",
+            "3107"
+          ]
+        }
+      ],
+      "area": "3007/3107"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Juan Dimas Garcia",
+          "interno": [
+            "3013",
+            "3002"
+          ]
+        }
+      ],
+      "area": "3002/3107"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Luis Tuculet",
+          "interno": [
+            "3009"
+          ]
+        }
+      ],
+      "area": "Dirección de Entornos Virtuales (STIC-DEV)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Germán Alvarez",
+          "interno": [
+            "3005"
+          ]
+        }
+      ],
+      "area": "Soporte Técnico Daract I, II y Dorrego"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Juan Manuel Galiano",
+          "interno": [
+            "3010"
+          ]
+        }
+      ],
+      "area": "Dirección de Infraestructura Tecnológica (STIC-DIT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Myriam Pinto",
+          "interno": [
+            "3143"
+          ]
+        }
+      ],
+      "area": "Secretaría de Infraestructura y Plan Maestro (VR-SIPM)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Germano Damian",
+          "interno": [
+            "3144"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo I. Planta segundo piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Diego Villagra",
+          "interno": [
+            "3121"
+          ]
+        }
+      ],
+      "area": "3147"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Rodríguez Martin Ariel",
+          "interno": [
+            "3147"
+          ]
+        }
+      ],
+      "area": "División de Formulación de Proyectos de Arquitectura (SIPM-DFPA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Amaro Fabián",
+          "interno": [
+            "3146"
+          ]
+        }
+      ],
+      "area": "Departamento de Fiscalización de Obras (SIPM-DFO)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Mariana Díaz",
+          "interno": [
+            "3101"
+          ]
+        }
+      ],
+      "area": "Dirección de Mantenimiento Edilicio y Seguridad (SIPM-DMES)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Celeste Miño",
+          "interno": [
+            "3120"
+          ]
+        }
+      ],
+      "area": "Pañol de Mantenimiento"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Daniel Lehmann",
+          "interno": [
+            "3102"
+          ]
+        }
+      ],
+      "area": "División de Patrimonio Físico (DSGM-DPF)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Fabian Daddario",
+          "interno": [
+            "3100"
+          ]
+        }
+      ],
+      "area": "División de Limpieza y Mantenimiento (DSGM-DLM)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Carlos Ignacio Cañas",
+          "interno": [
+            "3112"
+          ]
+        }
+      ],
+      "area": "DGACHS)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Héctor Peterson",
+          "interno": [
+            "3111"
+          ]
+        }
+      ],
+      "area": "Dirección de Higiene y Seguridad (DGACHS-DHS)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Ruben Barragan",
+          "interno": [
+            "3139"
+          ]
+        }
+      ],
+      "area": "Departamento de Laboratorios (DGACHS-DL)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pañol Llaves",
+          "interno": [
+            "3762"
+          ]
+        }
+      ],
+      "area": "3160"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Garita de seguridad entrada Corvalán",
+          "interno": [
+            "3630"
+          ]
+        }
+      ],
+      "area": "3631"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Maria Liliana Taramasso",
+          "interno": [
+            "3031"
+          ]
+        }
+      ],
+      "area": "Departamento de Ciencias Aplicadas y Tecnologías (DCAYT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Graciela Ecenarro",
+          "interno": [
+            "3030"
+          ]
+        }
+      ],
+      "area": "Dirección General de Gestión Académica (DCAYT-DGGA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pablo Bordon",
+          "interno": [
+            "3029"
+          ]
+        }
+      ],
+      "area": "Dirección de Coordinación Técnica de Proyectos"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Gustavo Alberto Benedetti",
+          "interno": [
+            "3029"
+          ]
+        }
+      ],
+      "area": "Dirección de Gestión y Carrera Docente"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Judith Sosa",
+          "interno": [
+            "3129"
+          ]
+        },
+        {
+          "nombre": "Adriana Noelia Saavedra",
+          "interno": [
+            "3043"
+          ]
+        }
+      ],
+      "area": "División de Coordinación Administrativa"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Sonia Carosella",
+          "interno": [
+            "3129"
+          ]
+        }
+      ],
+      "area": "División de Secretaria Privada"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Wanda Mercado",
+          "interno": [
+            "3129"
+          ]
+        }
+      ],
+      "area": "3129"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Daniel Etcheverry",
+          "interno": [
+            "3223"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Arquitectura (DCAYT-ARQ)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Edificio Histórico Modulo G. Planta primer piso",
+          "interno": [
+            "3033"
+          ]
+        }
+      ],
+      "area": "G 103"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marcela Alvarez",
+          "interno": [
+            "3768"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Lic. en Gestión Ambiental (DCAYT-LGA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Beatriz Arias",
+          "interno": [
+            "3110"
+          ]
+        }
+      ],
+      "area": "G 104"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Fernando Raibenberg",
+          "interno": [
+            "3501"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Lic. en Biotecnología (DCAYT-LBT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Edificio Histórico Modulo F. Planta segundo piso",
+          "interno": [
+            "3502"
+          ]
+        }
+      ],
+      "area": "G 202"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pedro Giuffrida",
+          "interno": [
+            "3115"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Lic. en Ingeniería en Electrónica (DCAYT-IEL)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Juan Martín Etcheverry",
+          "interno": [
+            "3040"
+          ]
+        }
+      ],
+      "area": "Departamento de Humanidades y Ciencias Sociales (DHYCS)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lorena Pennini",
+          "interno": [
+            "3044"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo D. Planta primer piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Gustavo Kantor",
+          "interno": [
+            "3041"
+          ]
+        }
+      ],
+      "area": "3044"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Juliana Tomasello",
+          "interno": [
+            "3046"
+          ]
+        }
+      ],
+      "area": "Dirección de Gestión y Carrea Docente"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Victoria Sverdlick",
+          "interno": [
+            "3039"
+          ]
+        }
+      ],
+      "area": "Dirección General de Gestión Académica (DHYCS-DGGA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Adriana Speranza",
+          "interno": [
+            "3049"
+          ]
+        }
+      ],
+      "area": "Centro de Estudios de Medios"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Investigadores",
+          "interno": [
+            "3155"
+          ]
+        }
+      ],
+      "area": "Edificio Histórico Modulo F. Planta baja"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Pablo Narvaja",
+          "interno": [
+            "3038"
+          ]
+        }
+      ],
+      "area": "Centro de Estudios de Educación"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Maia Klein",
+          "interno": [
+            "3770"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Licenciatura en Trabajo Social (DHYCS-LTS)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Juana Ferreyro",
+          "interno": [
+            "3772"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Licenciatura en Área Educación (DHYCS-AE)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Luis Alejandro Canepa",
+          "interno": [
+            "3771"
+          ]
+        }
+      ],
+      "area": "LCS)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marcelo Monzón",
+          "interno": [
+            "3621"
+          ]
+        }
+      ],
+      "area": "Departamento de Ciencias Económicas y Jurídicas (DCEYJ)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Noelia Ramos",
+          "interno": [
+            "3621"
+          ]
+        }
+      ],
+      "area": "3621"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Sara Melo Tejada",
+          "interno": [
+            "3625"
+          ]
+        }
+      ],
+      "area": "Dirección General de Gestión Académica (DCEYJ-DGGA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lucas Rago",
+          "interno": [
+            "3623"
+          ]
+        }
+      ],
+      "area": "Dirección Gestión y Carrera Docente (DGGA-DGCD)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Verónica García Allegrone",
+          "interno": [
+            "3624"
+          ]
+        }
+      ],
+      "area": "Dirección de Coordinación Técnica de Proyectos (DGGA-DCTP)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Guadalupe De Paula",
+          "interno": [
+            "3619"
+          ]
+        }
+      ],
+      "area": "División de Coordinación Administrativa (DCEYJ-DCA)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Leticia Patrucchi",
+          "interno": [
+            "3765"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Licenciatura en Administración (DCEYJ-LAD)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Agustín Mario",
+          "interno": [
+            "3764"
+          ]
+        }
+      ],
+      "area": "Coordinación Vicedecanato Carrera de Licenciatura en Economía (DCEYJ-LEC)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Lara Yepes",
+          "interno": [
+            "3763"
+          ]
+        }
+      ],
+      "area": "LRT)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marcelo Cafferata Ferri",
+          "interno": [
+            "3766"
+          ]
+        }
+      ],
+      "area": "Coordinación - Vicedecanato Carrera de Contador Público Nacional (DCEYJ-CPN)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Claudio Fardelli",
+          "interno": [
+            "5001"
+          ]
+        }
+      ],
+      "area": "ESPUNM"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Preceptoría",
+          "interno": [
+            "5002"
+          ]
+        }
+      ],
+      "area": "5000"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Administrativo",
+          "interno": [
+            "5004"
+          ]
+        }
+      ],
+      "area": "5003"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Laboratorio de Química Ambiental",
+          "interno": [
+            "3032"
+          ]
+        },
+        {
+          "nombre": "Ruben Nieto",
+          "interno": [
+            "3139"
+          ]
+        }
+      ],
+      "area": "Laboratorios"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Laboratorio de Electrónica",
+          "interno": []
+        }
+      ],
+      "area": "Edificio Histórico Modulo D. Planta segundo piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Laboratorio de Física",
+          "interno": []
+        }
+      ],
+      "area": "Edificio Histórico Modulo B. Planta segundo piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Laboratorio de Química",
+          "interno": []
+        },
+        {
+          "nombre": "Laboratorio de Química Orgánica",
+          "interno": []
+        }
+      ],
+      "area": "Edificio Histórico Modulo A. Planta segundo piso"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Ruben Barragan",
+          "interno": [
+            "3139"
+          ]
+        }
+      ],
+      "area": "Edificio de Laboratorios"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Ariadna Nieto",
+          "interno": [
+            "3139"
+          ]
+        }
+      ],
+      "area": "3139"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Matías Micucci",
+          "interno": [
+            "3181"
+          ]
+        }
+      ],
+      "area": "Dirección de Laboratorios (SDI-DGL)"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Sebastian Baldoni",
+          "interno": [
+            "3185"
+          ]
+        }
+      ],
+      "area": "Área P2-03"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Andres Orqueda",
+          "interno": [
+            "3180"
+          ]
+        }
+      ],
+      "area": "Oficinas de Investigación"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Debora Garanzini",
+          "interno": [
+            "3184"
+          ]
+        }
+      ],
+      "area": "Área P2-30"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Barbara Ortiz",
+          "interno": [
+            "3184"
+          ]
+        }
+      ],
+      "area": "Área P2-24"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Aylen Robles",
+          "interno": [
+            "3182"
+          ]
+        }
+      ],
+      "area": "Área P2-18"
+    },
+    {
+      "usuarios": [
+        {
+          "nombre": "Marcos Ceniquel",
+          "interno": [
+            "3182"
+          ]
+        }
+      ],
+      "area": "Área P2-23"
+    }
+  ]
+}
