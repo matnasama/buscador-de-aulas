@@ -1,0 +1,1192 @@
+[
+  {
+    "area": "Rectorado",
+    "usuario": "Hugo Andrade",
+    "interno": ""
+  },
+  {
+    "area": "Dirección de Secretaría Privada y Ceremonial (R-DSPC)",
+    "usuario": "",
+    "interno": "3600 /310"
+  },
+  {
+    "area": "División de Coordinación Administrativa de Rectorado (R-DCAR)",
+    "usuario": "Estela Susana Marfeo",
+    "interno": "3311"
+  },
+  {
+    "area": "División de Relaciones Institucionales (SRII-DRI)",
+    "usuario": "Nataly López Teliz",
+    "interno": "3138/111"
+  },
+  {
+    "area": "Coordinación Especial Programa de Planeamiento Estratégico y Política Universitaria (R-PPEPU)",
+    "usuario": "Manuel Gómez",
+    "interno": "152"
+  },
+  {
+    "area": "Coordinación Especial Programa de Planeamiento Estratégico y Política Universitaria (R-PPEPU)",
+    "usuario": "Flor Tuculet",
+    "interno": "3601"
+  },
+  {
+    "area": "Vicerrectorado (R-VR)",
+    "usuario": "Alejandro Robba",
+    "interno": ""
+  },
+  {
+    "area": "Departamento de Coordinación Técnico-Operativa de Vicerrectorado (VR-DCTA)",
+    "usuario": "Lucía Fernández",
+    "interno": "3610"
+  },
+  {
+    "area": "Departamento de Coordinación Técnico-Operativa de Vicerrectorado (VR-DCTA)",
+    "usuario": "Antonella Montelpare",
+    "interno": "3106"
+  },
+  {
+    "area": "Departamento de Coordinación Técnico-Operativa de Vicerrectorado (VR-DCTA)",
+    "usuario": "Trinidad Lo Cicero",
+    "interno": "3106"
+  },
+  {
+    "area": "División de Coordinación Administrativa de Vicerrectorado (DCTA-DCAV)",
+    "usuario": "Johana Chacón",
+    "interno": "3610"
+  },
+  {
+    "area": "Dirección Académica Centro de Estudios de Gobierno y Políticas Públicas (R-CEGPP)",
+    "usuario": "Pablo Tavilla",
+    "interno": "3620"
+  },
+  {
+    "area": "Coordinación Académica Programa de Estudios Fiscales",
+    "usuario": "",
+    "interno": "3602"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Pablo Penela",
+    "interno": "3162"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Fernando Albornoz",
+    "interno": "3006"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Sebastián Hermosa Acuña",
+    "interno": "3263"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Damián Fuentes",
+    "interno": "3263"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Gisela Cogo",
+    "interno": "3262"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Florencia Cuburu",
+    "interno": "3262"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Paula Micaela Repetto",
+    "interno": "3262"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "María Noel Perez",
+    "interno": "3261"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Rolando Camarra",
+    "interno": "3260"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Johana Ciabattari",
+    "interno": "3260"
+  },
+  {
+    "area": "Dirección de Comunicación Institucional (R-DCI)",
+    "usuario": "Leandro Irión",
+    "interno": "3260"
+  },
+  {
+    "area": "Departamento de Asuntos Editoriales (DCI-DAE)",
+    "usuario": "Hugo Galiano",
+    "interno": "3154"
+  },
+  {
+    "area": "Departamento de Radio Universitaria (DCI-DRU)",
+    "usuario": "Fabián Mazzoni",
+    "interno": "3145"
+  },
+  {
+    "area": "Departamento de Radio Universitaria (DCI-DRU)",
+    "usuario": "Paula Bovone",
+    "interno": "3145"
+  },
+  {
+    "area": "Departamento de Radio Universitaria (DCI-DRU)",
+    "usuario": "Héctor Daniel Porcel",
+    "interno": "3150"
+  },
+  {
+    "area": "Departamento de Radio Universitaria (DCI-DRU)",
+    "usuario": "Julián Schamun",
+    "interno": "3145"
+  },
+  {
+    "area": "Departamento de Radio Universitaria (DCI-DRU)",
+    "usuario": "Mariela Elizabeth de la Hoz",
+    "interno": "3145"
+  },
+  {
+    "area": "Unidad Auditoría Interna (R-UAI)",
+    "usuario": "Roberto Padilla",
+    "interno": "3149"
+  },
+  {
+    "area": "Unidad Auditoría Interna (R-UAI)",
+    "usuario": "Kevin Gimenez",
+    "interno": "3149"
+  },
+  {
+    "area": "Subsecretaría de Consejo Superior (R-SCS)",
+    "usuario": "Manuela Penela",
+    "interno": "3603"
+  },
+  {
+    "area": "Subsecretaría de Consejo Superior (R-SCS)",
+    "usuario": "Camila Miranda",
+    "interno": "3310"
+  },
+  {
+    "area": "Secretaría General (R-SGEN)",
+    "usuario": "Alejandro Otero",
+    "interno": ""
+  },
+  {
+    "area": "Dirección General Planeamiento y Control de Gestión (SGEN-DGPCG) / Coordinación Especial Programa de Posgrado (R-CEPP)",
+    "usuario": "Florencia Gosparini",
+    "interno": "3600"
+  },
+  {
+    "area": "Dirección General Planeamiento y Control de Gestión (SGEN-DGPCG) / Coordinación Especial Programa de Posgrado (R-CEPP)",
+    "usuario": "Verónica Gonzalez",
+    "interno": "3779"
+  },
+  {
+    "area": "Dirección General Planeamiento y Control de Gestión (SGEN-DGPCG) / Coordinación Especial Programa de Posgrado (R-CEPP)",
+    "usuario": "Analía Contreras",
+    "interno": "3622"
+  },
+  {
+    "area": "Dirección General Planeamiento y Control de Gestión (SGEN-DGPCG) / Coordinación Especial Programa de Posgrado (R-CEPP)",
+    "usuario": "Pilar Acuña",
+    "interno": "3774"
+  },
+  {
+    "area": "Dirección General Planeamiento y Control de Gestión (SGEN-DGPCG) / Coordinación Especial Programa de Posgrado (R-CEPP)",
+    "usuario": "Luciano Pelle",
+    "interno": "3602"
+  },
+  {
+    "area": "Dirección de Presupuesto (DGPCG-DGP)",
+    "usuario": "",
+    "interno": ""
+  },
+  {
+    "area": "División de Registro de Libros, Actas y Boletín Oficial (DAAGTI-DRLABO)",
+    "usuario": "Beatriz Gayo",
+    "interno": "3500"
+  },
+  {
+    "area": "Subsecretaría de Relaciones Internacionales e Institucionales (SGEN-SRII)",
+    "usuario": "Gabriela Camacho",
+    "interno": "3231"
+  },
+  {
+    "area": "Secretaría Académica (VR-SAC)",
+    "usuario": "Roxana Silvia Carelli",
+    "interno": "3148"
+  },
+  {
+    "area": "Secretaría Académica (VR-SAC)",
+    "usuario": "Florencia Mariel Duquez",
+    "interno": "135"
+  },
+  {
+    "area": "Departamento de Gestión Docente (DGA-DGD)",
+    "usuario": "Luciana Inés Suriani",
+    "interno": "3255"
+  },
+  {
+    "area": "Departamento de Gestión Docente (DGA-DGD)",
+    "usuario": "María Paula Assis",
+    "interno": "3050"
+  },
+  {
+    "area": "Dirección de Orientación, Articulación e Ingreso (SAC-DAOI)",
+    "usuario": "María Lorena Demitrio",
+    "interno": "3212"
+  },
+  {
+    "area": "Dirección de Orientación, Articulación e Ingreso (SAC-DAOI)",
+    "usuario": "Evelin Duarte",
+    "interno": "3211"
+  },
+  {
+    "area": "Dirección de Orientación, Articulación e Ingreso (SAC-DAOI)",
+    "usuario": "Melisa Rodríguez",
+    "interno": "3210"
+  },
+  {
+    "area": "Dirección de Orientación, Articulación e Ingreso (SAC-DAOI)",
+    "usuario": "Chorny",
+    "interno": "3210"
+  },
+  {
+    "area": "División de Orientación y Accesibilidad (DAOI-DOA)",
+    "usuario": "Noelia Agustina Rodríguez",
+    "interno": "3213"
+  },
+  {
+    "area": "Departamento de Estudios y Asistencia Técnica (SAC-DEAT)",
+    "usuario": "Graciela Noemí Ramos",
+    "interno": "3323"
+  },
+  {
+    "area": "Departamento de Estudios y Asistencia Técnica (SAC-DEAT)",
+    "usuario": "Micaela Myriam Rositto",
+    "interno": "3323"
+  },
+  {
+    "area": "Departamento de Biblioteca y Centro de Documentación (SAC-DBCD)",
+    "usuario": "Andrea Soledad Nagore",
+    "interno": "3200"
+  },
+  {
+    "area": "Departamento de Biblioteca y Centro de Documentación (SAC-DBCD)",
+    "usuario": "María Guadalupe Bravo",
+    "interno": "3200"
+  },
+  {
+    "area": "Departamento de Biblioteca y Centro de Documentación (SAC-DBCD)",
+    "usuario": "Jeny Consuelo Díaz Silva",
+    "interno": "3201"
+  },
+  {
+    "area": "Departamento de Biblioteca y Centro de Documentación (SAC-DBCD)",
+    "usuario": "Romina Clarisa Lescano",
+    "interno": "3202"
+  },
+  {
+    "area": "Departamento de Archivo de Legajos Estudiantil y Docente (DTO-DALED)",
+    "usuario": "Rubén Ernesto Loscri",
+    "interno": "3252"
+  },
+  {
+    "area": "Subsecretaría de Planificación y Gestión Académica (SAC-SPGA)",
+    "usuario": "Milena Cevallos",
+    "interno": "3320"
+  },
+  {
+    "area": "Subsecretaría de Planificación y Gestión Académica (SAC-SPGA)",
+    "usuario": "Romina Benitez",
+    "interno": "3130"
+  },
+  {
+    "area": "Subsecretaría de Planificación y Gestión Académica (SAC-SPGA)",
+    "usuario": "Graciela Patricia Stracquadaini",
+    "interno": "3051"
+  },
+  {
+    "area": "División de Títulos (SPGA-DT)",
+    "usuario": "Joan Dodaro",
+    "interno": "3321"
+  },
+  {
+    "area": "División de Títulos (SPGA-DT)",
+    "usuario": "Daniel Roberto Fernández",
+    "interno": "3321"
+  },
+  {
+    "area": "Dirección de Desarrollo Académico (SPGA-DDA)",
+    "usuario": "Evangelina Cáceres",
+    "interno": "3319/3322"
+  },
+  {
+    "area": "Dirección de Desarrollo Académico (SPGA-DDA)",
+    "usuario": "Silvina Corniola",
+    "interno": "3319/3322"
+  },
+  {
+    "area": "Departamento de Alumnos (DGA-DA)",
+    "usuario": "Ecila Echenique",
+    "interno": "3117"
+  },
+  {
+    "area": "Departamento de Alumnos (DGA-DA)",
+    "usuario": "Daniela Cecilia Ledesma",
+    "interno": "3250 / 117"
+  },
+  {
+    "area": "Departamento de Alumnos (DGA-DA)",
+    "usuario": "Matías Nahuel Samaniego",
+    "interno": "3250 / 117"
+  },
+  {
+    "area": "Departamento de Alumnos (DGA-DA)",
+    "usuario": "Matías Jonathan Javier Torres",
+    "interno": "3250"
+  },
+  {
+    "area": "Departamento de Alumnos (DGA-DA)",
+    "usuario": "Lucas Ariel Luján",
+    "interno": "3254"
+  },
+  {
+    "area": "Departamento de Alumnos (DGA-DA)",
+    "usuario": "Noelia Santillán",
+    "interno": "3256"
+  },
+  {
+    "area": "División de Coordinación Administrativa de Alumnos (DA-DCAA)",
+    "usuario": "Andrea Viviana Kannemann",
+    "interno": "3117"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Manuel Alejandro Ayala",
+    "interno": "3253"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Maximiliano Zapata",
+    "interno": "3324"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Nazareth Ciabattari",
+    "interno": "3324"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Agustín Braticevic",
+    "interno": ""
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Laura Etelvina Luna",
+    "interno": "3053"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Mónica Mariel Silva",
+    "interno": "3251"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Bedelía Edif. Histórico",
+    "interno": "3324"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Bedelia Daract 1",
+    "interno": "3053"
+  },
+  {
+    "area": "División de Programación de la Oferta Académica (DGA-DPOA)",
+    "usuario": "Bedelia Dorrego 1",
+    "interno": "3251"
+  },
+  {
+    "area": "Secretaría de Investigación y Vinculación Tecnológica (VR-SdIVT)",
+    "usuario": "Adriana Sánchez",
+    "interno": "3634"
+  },
+  {
+    "area": "Secretaría de Investigación y Vinculación Tecnológica (VR-SdIVT)",
+    "usuario": "Yasmina González",
+    "interno": "3350"
+  },
+  {
+    "area": "Secretaría de Investigación y Vinculación Tecnológica (VR-SdIVT)",
+    "usuario": "Sofia Ferrero",
+    "interno": "3122"
+  },
+  {
+    "area": "Dirección General de Vinculación Tecnológica (SdIVT-DGVT)",
+    "usuario": "Walter Klein",
+    "interno": "3230"
+  },
+  {
+    "area": "Dirección General de Vinculación Tecnológica (SdIVT-DGVT)",
+    "usuario": "Gonzalo Rubio",
+    "interno": "3122"
+  },
+  {
+    "area": "Dirección General de Vinculación Tecnológica (SdIVT-DGVT)",
+    "usuario": "Santiago Odriozola",
+    "interno": "3127"
+  },
+  {
+    "area": "Dirección General de Vinculación Tecnológica (SdIVT-DGVT)",
+    "usuario": "Carlos Mailen",
+    "interno": "3123"
+  },
+  {
+    "area": "Dirección General de Investigación Científica (SdIVT-DGIC)",
+    "usuario": "Marcela Basterrechea",
+    "interno": "3290"
+  },
+  {
+    "area": "Dirección General de Investigación Científica (SdIVT-DGIC)",
+    "usuario": "Marianela Jauregui",
+    "interno": "3045"
+  },
+  {
+    "area": "Dirección General de Investigación Científica (SdIVT-DGIC)",
+    "usuario": "Deborah Pane",
+    "interno": "3045"
+  },
+  {
+    "area": "Dirección General de Investigación Científica (SdIVT-DGIC)",
+    "usuario": "Cyntia Induni",
+    "interno": "3045"
+  },
+  {
+    "area": "Subsecretaría de Recursos Humanos (VR-SRRHH)",
+    "usuario": "Carlos Castro",
+    "interno": "3216"
+  },
+  {
+    "area": "Dirección General de Recursos Humanos (SRRHH-DGRRHH)",
+    "usuario": "Gustavo Ariel Almirón",
+    "interno": "3218"
+  },
+  {
+    "area": "Dirección General de Recursos Humanos (SRRHH-DGRRHH)",
+    "usuario": "Florencia Diaz",
+    "interno": "3217"
+  },
+  {
+    "area": "Dirección General de Recursos Humanos (SRRHH-DGRRHH)",
+    "usuario": "Lucas Esteban Antonio Fregenal",
+    "interno": "3217"
+  },
+  {
+    "area": "División de Legajos (DGRRHH-DL)",
+    "usuario": "María Victoria García",
+    "interno": "3215"
+  },
+  {
+    "area": "Secretaría de Extensión Universitaria (VR-SEU)",
+    "usuario": "Esteban Sánchez",
+    "interno": "3773"
+  },
+  {
+    "area": "División de Secretaría Privada de Extensión (SEU-DSPE)",
+    "usuario": "María Guadalupe Balard",
+    "interno": "3775"
+  },
+  {
+    "area": "Dirección General de Extensión Universitaria (SEU-DGEU)",
+    "usuario": "Olga Barrios",
+    "interno": "3776"
+  },
+  {
+    "area": "Dirección General de Extensión Universitaria (SEU-DGEU)",
+    "usuario": "Monica Miglino",
+    "interno": "3775/3776"
+  },
+  {
+    "area": "Dirección General de Extensión Universitaria (SEU-DGEU)",
+    "usuario": "Mercedes Dominguez",
+    "interno": "3776"
+  },
+  {
+    "area": "Dirección de Políticas de Convivencia y Equidad de Género (SEU-DPCEG)",
+    "usuario": "Natalia Kisman",
+    "interno": "3775/3776"
+  },
+  {
+    "area": "Dirección de Políticas de Convivencia y Equidad de Género (SEU-DPCEG)",
+    "usuario": "Camila Galiano",
+    "interno": "3775/3776"
+  },
+  {
+    "area": "Departamento de Bienestar y Asuntos Estudiantiles (SEU-DBAE)",
+    "usuario": "Soledad Pique",
+    "interno": "3126"
+  },
+  {
+    "area": "Departamento de Bienestar y Asuntos Estudiantiles (SEU-DBAE)",
+    "usuario": "Yanina Morandi",
+    "interno": "3126"
+  },
+  {
+    "area": "Departamento de Bienestar y Asuntos Estudiantiles (SEU-DBAE)",
+    "usuario": "Diego Motta",
+    "interno": "3126"
+  },
+  {
+    "area": "Departamento de Bienestar y Asuntos Estudiantiles (SEU-DBAE)",
+    "usuario": "Lucio Fardelli",
+    "interno": "3126"
+  },
+  {
+    "area": "Enfermería",
+    "usuario": "Silvia Rosales",
+    "interno": "3777"
+  },
+  {
+    "area": "Enfermería",
+    "usuario": "Marcela Andrada",
+    "interno": "3777"
+  },
+  {
+    "area": "Secretaría de Administración (VR-SdA)",
+    "usuario": "Graciela Hage",
+    "interno": "3113"
+  },
+  {
+    "area": "División de Secretaría Privada de Administración (SdA-DSPA)",
+    "usuario": "Juan Manuel Alvarez",
+    "interno": "3157"
+  },
+  {
+    "area": "División de Secretaría Privada de Administración (SdA-DSPA)",
+    "usuario": "Sol Tuculet",
+    "interno": "3221"
+  },
+  {
+    "area": "Subsecretaría de Coordinación de Administración (SdA-SCA)",
+    "usuario": "Marcela Paula Lamelza",
+    "interno": "3116"
+  },
+  {
+    "area": "Dirección General Contable (SCA-DGC)",
+    "usuario": "Lidia Gayo",
+    "interno": "3108"
+  },
+  {
+    "area": "División de Registro Contable (DGC-DRC)",
+    "usuario": "Rosa Soriano",
+    "interno": "3156"
+  },
+  {
+    "area": "Dirección General de Compras y Contrataciones (SCA-DCC)",
+    "usuario": "Vanesa Cattaeno",
+    "interno": "3169"
+  },
+  {
+    "area": "Dirección General de Compras y Contrataciones (SCA-DCC)",
+    "usuario": "Nicolás Pérez",
+    "interno": "3114"
+  },
+  {
+    "area": "Dirección General de Compras y Contrataciones (SCA-DCC)",
+    "usuario": "Malen Debus",
+    "interno": "3118"
+  },
+  {
+    "area": "Dirección de Licitaciones (DCC-DL)",
+    "usuario": "Adolfo Puccio",
+    "interno": "3226"
+  },
+  {
+    "area": "Subsecretaría de Coordinación Técnica (SdA-SCT)",
+    "usuario": "Martin Monea",
+    "interno": "3167"
+  },
+  {
+    "area": "Subsecretaría de Coordinación Técnica (SdA-SCT)",
+    "usuario": "Maria Luisa Elizalde",
+    "interno": "3168"
+  },
+  {
+    "area": "Dirección de Coordinación Técnico Administrativa (SCT-DCTA)",
+    "usuario": "Alejandro Barenthin",
+    "interno": "3220"
+  },
+  {
+    "area": "Dirección de Coordinación Técnico Administrativa (SCT-DCTA)",
+    "usuario": "Marcela Ercoli",
+    "interno": "3220"
+  },
+  {
+    "area": "División de Registro Patrimonial (DCTA-DRP)",
+    "usuario": "Pedro Barrios",
+    "interno": "3142"
+  },
+  {
+    "area": "División de Registro Patrimonial (DCTA-DRP)",
+    "usuario": "Mariano Lemongi",
+    "interno": "3140"
+  },
+  {
+    "area": "Departamento de Liquidación de Haberes (SdA-DLH)",
+    "usuario": "Lucia Peiper",
+    "interno": "227"
+  },
+  {
+    "area": "Unidad de Gestión de Conrtol de Obras (SdA-UCGO)",
+    "usuario": "Eduardo Suriani",
+    "interno": "3225"
+  },
+  {
+    "area": "Dirección de Tesorería (SdA-DT)",
+    "usuario": "Ana Maresca",
+    "interno": "3012"
+  },
+  {
+    "area": "Dirección de Tesorería (SdA-DT)",
+    "usuario": "Diego Rodriguez",
+    "interno": "3012"
+  },
+  {
+    "area": "Instituto Tecnológico de la Universidad Nacional de Moreno (R-ITUNM)",
+    "usuario": "Julio Alvarez",
+    "interno": "3177"
+  },
+  {
+    "area": "Instituto Tecnológico de la Universidad Nacional de Moreno (R-ITUNM)",
+    "usuario": "Ana Crocsel",
+    "interno": "3178"
+  },
+  {
+    "area": "Secretaría Legal y Técnica (VR-SLT)",
+    "usuario": "Guillermo Cony",
+    "interno": "3020"
+  },
+  {
+    "area": "Administración",
+    "usuario": "Silvana Moncalieri",
+    "interno": "3172"
+  },
+  {
+    "area": "Dirección de Concursos (SLT-DC)",
+    "usuario": "Emiliana Tomasello",
+    "interno": "3174"
+  },
+  {
+    "area": "Dirección General de Asuntos Jurídicos (SLT-DGAJ)",
+    "usuario": "Martín Ariel Rodríguez",
+    "interno": "3170"
+  },
+  {
+    "area": "Dirección General de Asuntos Jurídicos (SLT-DGAJ)",
+    "usuario": "Yanina Bidart",
+    "interno": "3170"
+  },
+  {
+    "area": "Departamento de Mesa de entrada (SLT-DME)",
+    "usuario": "Marisa Ameneiro",
+    "interno": "3503"
+  },
+  {
+    "area": "Departamento de Mesa de entrada (SLT-DME)",
+    "usuario": "Melisa Deparsia",
+    "interno": "3503"
+  },
+  {
+    "area": "Secretaría de Tecnologías de la Información y Comunicación (VR-STIC)",
+    "usuario": "Claudio Celenza",
+    "interno": "3302"
+  },
+  {
+    "area": "Dirección de Sistemas de Información (STIC-DSI)",
+    "usuario": "Nahuel Sánchez",
+    "interno": "3004/3107"
+  },
+  {
+    "area": "Dirección de Sistemas de Información (STIC-DSI)",
+    "usuario": "Javier Trillo",
+    "interno": "3007/3107"
+  },
+  {
+    "area": "Dirección de Sistemas de Información (STIC-DSI)",
+    "usuario": "Facundo Garea",
+    "interno": "3003/3107"
+  },
+  {
+    "area": "Dirección de Sistemas de Información (STIC-DSI)",
+    "usuario": "Julián Grimaux",
+    "interno": "3002/3107"
+  },
+  {
+    "area": "Dirección de Sistemas de Información (STIC-DSI)",
+    "usuario": "Juan Dimas Garcia",
+    "interno": "3013/3002"
+  },
+  {
+    "area": "Dirección de Entornos Virtuales (STIC-DEV)",
+    "usuario": "Luis Tuculet",
+    "interno": "3009"
+  },
+  {
+    "area": "Soporte Técnico Daract I, II y Dorrego",
+    "usuario": "Germán Alvarez",
+    "interno": "3005"
+  },
+  {
+    "area": "Dirección de Infraestructura Tecnológica (STIC-DIT)",
+    "usuario": "Juan Manuel Galiano",
+    "interno": "3010"
+  },
+  {
+    "area": "Dirección de Infraestructura Tecnológica (STIC-DIT)",
+    "usuario": "Alejandro Carbone",
+    "interno": "3010"
+  },
+  {
+    "area": "Dirección de Infraestructura Tecnológica (STIC-DIT)",
+    "usuario": "Regino Sánchez",
+    "interno": "3010"
+  },
+  {
+    "area": "Administración",
+    "usuario": "Agustín Daddario",
+    "interno": "3011"
+  },
+  {
+    "area": "Secretaría de Infraestructura y Plan Maestro (VR-SIPM)",
+    "usuario": "Myriam Pinto",
+    "interno": "3143"
+  },
+  {
+    "area": "Secretaría de Infraestructura y Plan Maestro (VR-SIPM)",
+    "usuario": "Germano Damian",
+    "interno": "3144"
+  },
+  {
+    "area": "Secretaría de Infraestructura y Plan Maestro (VR-SIPM)",
+    "usuario": "Natalia Lorena Arizio",
+    "interno": "3147"
+  },
+  {
+    "area": "Secretaría de Infraestructura y Plan Maestro (VR-SIPM)",
+    "usuario": "Diego Villagra",
+    "interno": "3121"
+  },
+  {
+    "area": "División de Formulación de Proyectos de Arquitectura (SIPM-DFPA)",
+    "usuario": "Rodríguez Martin Ariel",
+    "interno": "3147"
+  },
+  {
+    "area": "Departamento de Fiscalización de Obras (SIPM-DFO)",
+    "usuario": "Amaro Fabián",
+    "interno": "3146"
+  },
+  {
+    "area": "Dirección de Mantenimiento Edilicio y Seguridad (SIPM-DMES)",
+    "usuario": "Mariana Díaz",
+    "interno": "3101"
+  },
+  {
+    "area": "Dirección de Mantenimiento Edilicio y Seguridad (SIPM-DMES)",
+    "usuario": "Celeste Miño",
+    "interno": "3120"
+  },
+  {
+    "area": "Dirección de Mantenimiento Edilicio y Seguridad (SIPM-DMES)",
+    "usuario": "Laura Carra",
+    "interno": "3100"
+  },
+  {
+    "area": "División de Patrimonio Físico (DSGM-DPF)",
+    "usuario": "Daniel Lehmann",
+    "interno": "3102"
+  },
+  {
+    "area": "División de Limpieza y Mantenimiento (DSGM-DLM)",
+    "usuario": "Fabian Daddario",
+    "interno": "3100"
+  },
+  {
+    "area": "Dirección general de gestión ambiental, calidad e higiene y seguridad (SIPM-DGACHS)",
+    "usuario": "Carlos Ignacio Cañas",
+    "interno": "3112"
+  },
+  {
+    "area": "Dirección de Higiene y Seguridad (DGACHS-DHS)",
+    "usuario": "Héctor Peterson",
+    "interno": "3111"
+  },
+  {
+    "area": "Departamento de Laboratorios (DGACHS-DL)",
+    "usuario": "Ruben Barragan",
+    "interno": "3139"
+  },
+  {
+    "area": "Polideportivo",
+    "usuario": "",
+    "interno": "3160"
+  },
+  {
+    "area": "Pañol Llaves",
+    "usuario": "",
+    "interno": "3762"
+  },
+  {
+    "area": "Garita de seguridad entrada Mitre",
+    "usuario": "",
+    "interno": "3631"
+  },
+  {
+    "area": "Garita de seguridad entrada Corvalán",
+    "usuario": "",
+    "interno": "3630"
+  },
+  {
+    "area": "Departamento de Ciencias Aplicadas y Tecnologías (DCAYT)",
+    "usuario": "Maria Liliana Taramasso",
+    "interno": "3031"
+  },
+  {
+    "area": "Dirección General de Gestión Académica (DCAYT-DGGA)",
+    "usuario": "Graciela Ecenarro",
+    "interno": "3030"
+  },
+  {
+    "area": "Dirección de Coordinación Técnica de Proyectos",
+    "usuario": "Pablo Bordon",
+    "interno": "3029"
+  },
+  {
+    "area": "Dirección de Gestión y Carrera Docente",
+    "usuario": "Gustavo Alberto Benedetti",
+    "interno": "3029"
+  },
+  {
+    "area": "División de Coordinación Administrativa",
+    "usuario": "Judith Sosa",
+    "interno": "3129"
+  },
+  {
+    "area": "División de Secretaria Privada",
+    "usuario": "Sonia Carosella",
+    "interno": "3129"
+  },
+  {
+    "area": "Administración",
+    "usuario": "Camilo Villanueva",
+    "interno": "3129"
+  },
+  {
+    "area": "Administración",
+    "usuario": "Lautaro Morelo",
+    "interno": "3129"
+  },
+  {
+    "area": "Administración",
+    "usuario": "Wanda Mercado",
+    "interno": "3129"
+  },
+  {
+    "area": "Administración",
+    "usuario": "Florencia Peranic",
+    "interno": "3129"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Arquitectura (DCAYT-ARQ)",
+    "usuario": "Daniel Etcheverry",
+    "interno": "3223"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Arquitectura (DCAYT-ARQ)",
+    "usuario": "",
+    "interno": "3033"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Lic. en Gestión Ambiental (DCAYT-LGA)",
+    "usuario": "Marcela Alvarez",
+    "interno": "3768"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Lic. en Gestión Ambiental (DCAYT-LGA)",
+    "usuario": "Beatriz Arias",
+    "interno": "3110"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Lic. en Biotecnología (DCAYT-LBT)",
+    "usuario": "Fernando Raibenberg",
+    "interno": "3501"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Lic. en Biotecnología (DCAYT-LBT)",
+    "usuario": "",
+    "interno": "3502"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Lic. en Biotecnología (DCAYT-LBT)",
+    "usuario": "Juan Bisceglia",
+    "interno": "3502"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Lic. en Ingeniería en Electrónica (DCAYT-IEL)",
+    "usuario": "Pedro Giuffrida",
+    "interno": "3115"
+  },
+  {
+    "area": "Departamento de Humanidades y Ciencias Sociales (DHYCS)",
+    "usuario": "Juan Martín Etcheverry",
+    "interno": "3040"
+  },
+  {
+    "area": "Departamento de Humanidades y Ciencias Sociales (DHYCS)",
+    "usuario": "Lorena Pennini",
+    "interno": "3044"
+  },
+  {
+    "area": "Departamento de Humanidades y Ciencias Sociales (DHYCS)",
+    "usuario": "Tomás Heredia",
+    "interno": "3044"
+  },
+  {
+    "area": "Departamento de Humanidades y Ciencias Sociales (DHYCS)",
+    "usuario": "Gustavo Kantor",
+    "interno": "3041"
+  },
+  {
+    "area": "Departamento de Humanidades y Ciencias Sociales (DHYCS)",
+    "usuario": "Bianca Salvi",
+    "interno": "3041"
+  },
+  {
+    "area": "Dirección de Gestión y Carrea Docente",
+    "usuario": "Juliana Tomasello",
+    "interno": "3046"
+  },
+  {
+    "area": "División de Coordinación Administrativa",
+    "usuario": "Adriana Noelia Saavedra",
+    "interno": "3043"
+  },
+  {
+    "area": "Dirección General de Gestión Académica (DHYCS-DGGA)",
+    "usuario": "Victoria Sverdlick",
+    "interno": "3039"
+  },
+  {
+    "area": "Centro de Estudios de Medios",
+    "usuario": "Adriana Speranza",
+    "interno": "3049"
+  },
+  {
+    "area": "Centro de Estudios de Medios",
+    "usuario": "Investigadores",
+    "interno": "3155"
+  },
+  {
+    "area": "Centro de Estudios de Medios",
+    "usuario": "Alexis Burgos",
+    "interno": "3047"
+  },
+  {
+    "area": "Centro de Estudios de Educación",
+    "usuario": "Pablo Narvaja",
+    "interno": "3038"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Licenciatura en Trabajo Social (DHYCS-LTS)",
+    "usuario": "Maia Klein",
+    "interno": "3770"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Licenciatura en Área Educación (DHYCS-AE)",
+    "usuario": "Juana Ferreyro",
+    "interno": "3772"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Licenciatura en Comunicación Social (DHYCS-LCS)",
+    "usuario": "Luis Alejandro Canepa",
+    "interno": "3771"
+  },
+  {
+    "area": "Departamento de Ciencias Económicas y Jurídicas (DCEYJ)",
+    "usuario": "Marcelo Monzón",
+    "interno": "3621"
+  },
+  {
+    "area": "Departamento de Ciencias Económicas y Jurídicas (DCEYJ)",
+    "usuario": "Martina Romano",
+    "interno": "3621"
+  },
+  {
+    "area": "Departamento de Ciencias Económicas y Jurídicas (DCEYJ)",
+    "usuario": "Brenda Clivio",
+    "interno": "3621"
+  },
+  {
+    "area": "Departamento de Ciencias Económicas y Jurídicas (DCEYJ)",
+    "usuario": "Noelia Ramos",
+    "interno": "3621"
+  },
+  {
+    "area": "Dirección General de Gestión Académica (DCEYJ-DGGA)",
+    "usuario": "Sara Melo Tejada",
+    "interno": "3625"
+  },
+  {
+    "area": "Dirección Gestión y Carrera Docente (DGGA-DGCD)",
+    "usuario": "Lucas Rago",
+    "interno": "3623"
+  },
+  {
+    "area": "Dirección de Coordinación Técnica de Proyectos (DGGA-DCTP)",
+    "usuario": "Verónica García Allegrone",
+    "interno": "3624"
+  },
+  {
+    "area": "División de Coordinación Administrativa (DCEYJ-DCA)",
+    "usuario": "Guadalupe De Paula",
+    "interno": "3619"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Licenciatura en Administración (DCEYJ-LAD)",
+    "usuario": "Leticia Patrucchi",
+    "interno": "3765"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Licenciatura en Economía (DCEYJ-LEC)",
+    "usuario": "Agustín Mario",
+    "interno": "3764"
+  },
+  {
+    "area": "Coordinación Vicedecanato Carrera de Licenciatura en Relaciones del Trabajo (DCEYJ-LRT)",
+    "usuario": "Lara Yepes",
+    "interno": "3763"
+  },
+  {
+    "area": "Coordinación - Vicedecanato Carrera de Contador Público Nacional (DCEYJ-CPN)",
+    "usuario": "Marcelo Cafferata Ferri",
+    "interno": "3766"
+  },
+  {
+    "area": "ESPUNM",
+    "usuario": "Claudio Fardelli",
+    "interno": "5001"
+  },
+  {
+    "area": "ESPUNM",
+    "usuario": "Guadalupe Ferraro",
+    "interno": "5000"
+  },
+  {
+    "area": "ESPUNM",
+    "usuario": "Preceptoría",
+    "interno": "5002"
+  },
+  {
+    "area": "ESPUNM",
+    "usuario": "Gabriela Ciz",
+    "interno": "5003"
+  },
+  {
+    "area": "ESPUNM",
+    "usuario": "Administrativo",
+    "interno": "5004"
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Laboratorio de Química Ambiental",
+    "interno": "3032"
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Laboratorio de Electrónica",
+    "interno": ""
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Laboratorio de Física",
+    "interno": ""
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Laboratorio de Química",
+    "interno": ""
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Laboratorio de Química Orgánica",
+    "interno": ""
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Laboratorios de Informática",
+    "interno": ""
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Ruben Nieto",
+    "interno": "3139"
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Ruben Barragan",
+    "interno": "3139"
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Micol Rocha Alarcón",
+    "interno": "3139"
+  },
+  {
+    "area": "Laboratorios",
+    "usuario": "Ariadna Nieto",
+    "interno": "3139"
+  },
+  {
+    "area": "Dirección de Laboratorios (SDI-DGL)",
+    "usuario": "Matías Micucci",
+    "interno": "3181"
+  },
+  {
+    "area": "Dirección de Laboratorios (SDI-DGL)",
+    "usuario": "Sebastian Baldoni",
+    "interno": "3185"
+  },
+  {
+    "area": "Oficinas de Investigación",
+    "usuario": "Andres Orqueda",
+    "interno": "3180"
+  },
+  {
+    "area": "Oficinas de Investigación",
+    "usuario": "Debora Garanzini",
+    "interno": "3184"
+  },
+  {
+    "area": "Oficinas de Investigación",
+    "usuario": "Barbara Ortiz",
+    "interno": "3184"
+  },
+  {
+    "area": "Oficinas de Investigación",
+    "usuario": "Carlos Palacios",
+    "interno": "3183"
+  },
+  {
+    "area": "Oficinas de Investigación",
+    "usuario": "Aylen Robles",
+    "interno": "3182"
+  },
+  {
+    "area": "Oficinas de Investigación",
+    "usuario": "Marcos Ceniquel",
+    "interno": "3182"
+  }
+]
