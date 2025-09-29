@@ -1,0 +1,94 @@
+{	
+    "sitios":[
+		{
+			"id": 1,
+			"nombre": "GESTIÓN ONLINE",
+			"url": "http://gestiononline.unm.edu.ar/unm3w/",
+			"imagen": "/guarani.webp"
+		},
+		{
+			"id": 2,
+			"nombre": "CAMPUS VIRTUAL",
+			"email": "campusvirtual@unm.edu.ar",
+			"url": "http://campusvirtual.unm.edu.ar/moodle/login/index.php",
+			"imagen": "/campusvirtual.webp",
+			"subcategorias": [
+				{
+					"titulo": "Campus Virtual 2025",
+					"enlace": "http://campusvirtual.unm.edu.ar/moodle/",
+					"nombre": "Campus Virtual 2025"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2020-2021",
+					"enlace": "http://campus2020-2021.unm.edu.ar/",
+					"nombre": "Campus Virtual 2020-2021"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2022",
+					"enlace": "http://campus2022.unm.edu.ar",
+					"nombre": "Campus Virtual 2022"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2023",
+					"enlace": "http://campus2023.unm.edu.ar/moodle",
+					"nombre": "Campus Virtual 2023"
+				},
+				{
+					"titulo": "Ciclo Lectivo 2024",
+					"enlace": "http://campus2024.unm.edu.ar/moodle",
+					"nombre": "Campus Virtual 2024"
+				},
+				{
+					"titulo": "Campus virtual COPRUN",
+					"enlace": "http://cv02.unm.edu.ar/",
+					"nombre": "Campus virtual COPRUN"
+				},
+				{
+					"titulo": "Campus Virtual Posgrado",
+					"enlace": "http://campusposgrado.unm.edu.ar/",
+					"nombre": "Campus Virtual Posgrado"
+				}
+			]
+		},
+		{
+			"id": 3,
+			"nombre": "INSTITUTO TECNOLÓGICO UNIVERSIDAD NACIONAL DE MORENO",
+			"email": "itunm@unm.edu.ar",
+			"url": "http://itunm.unm.edu.ar/",
+			"imagen": "/itunm.webp"
+		},
+		{
+			"id": 4,
+			"nombre": "POSGRADO",
+			"email": "posgrado@unm.edu.ar",
+			"url": "http://www.unm.edu.ar/index.php/carreras/posgrado",
+			"imagen": "/posgrado.webp"
+		},
+		{
+			"id": 5,
+			"nombre": "BIBLIOTECA Y CENTRO DE DOCUMENTACIÓN",
+			"email": "biblioteca@unm.edu.ar",
+			"url": "http://biblioteca.unm.edu.ar/cgi-bin/koha/opac-main.pl",
+			"imagen": "/biblioteca.webp"
+		},
+		{
+			"id": 6,
+			"nombre": "BANCO DE ASIGNATURAS",
+			"email": "",
+			"url": "http://asignaturas.unm.edu.ar/",
+			"imagen": "/banco-asignaturas.webp"
+		},
+		{
+			"id": 7,
+			"nombre": "BORRAR PREINSCRIPCIÓN",
+			"email": "",
+			"url": "http://borrar-preinscripcion.unm.edu.ar/"
+		},
+		{
+			"id": 8,
+			"nombre": "PREINSCRIPCIÓN",
+			"email": "",
+			"url": "https://preinscripcion.unm.edu.ar/preinscripcion/grado/?__o="
+		}
+]
+}
